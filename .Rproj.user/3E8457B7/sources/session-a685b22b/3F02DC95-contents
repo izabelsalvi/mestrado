@@ -1,0 +1,18 @@
+## Megazordizacao dos Dados
+## 17/03/2023
+
+## Compilacao de todos os dados existentes de acordo 
+## com o ID dos bichos
+
+## Pacotes
+library(readr)
+
+## Dados de PDF - do Doutorado do Fabricius
+
+## Capitulo 2 - clados A a H
+
+Fab_DocCH2_IDTot <- read_csv("dados/brutos/do_pdf/Fab_DocCH2_IDTot.csv")
+  # espécimens usados no Cap 2 no doutorado do Fabricius,
+  # ID do especime = ESPECIE (clados A a H), id genbank
+
+## Detalhes de primers - nao fiz tabela - no doc
