@@ -1,0 +1,12 @@
+Fab_Doc_LocCoord p.279 
+
+Fab_DocAP_GenStats p. 232-246
+
+Fab_DocAP_IDLoci p. 229
+
+Fab_DocCH2_IDTot p. 192
+		Appendix 2: Sampled lizard specimens used in Chapter 2. Cytb haplotypes refer to duplicates used in the GMYC analyses (Fig. 3). Asterisk indicates specimens with no morphology available. Brazilian states: TO = Tocantins, MT = Mato Grosso, MA= Maranhão, GO = Goiás, MG = Minas Gerais, CE = Ceará, PB = Paraíba. CHUNB: Coleção Herpetológica da Universidade de Brasília; ESTR: collection code Estreito; GRC:collection code Guarino Rinaldi Colli; LAJ: collection code Lajeado; LG: experiment code "lagartos do Laboratório de Citogenética de Vertebrados do Departamento de Genética do Instituto de Biociências da USP"; MD: colection code Mariana Dixo; MTR or MRT: collection code Miguel Trefaut Rodrigues; MZUSP: Museu de Zoologia da Universidade de São Paulo; OMNH: Oklahoma Museum of Natural History. Phyllopezus pollicaris sequences originally from Werneck and colleagues (2012), and Gymnodactylus darwinii sequences from Pellegrino and colleagues (2005).
+
+Fab_DocCitBAP_IDCoordAlt p. 216
+
+Fab_DocCitBAP_IDCoordAlt_out p.216

@@ -14,7 +14,7 @@ library(FactoMineR)
 library(factoextra)
 library(psych)
 
-fabricius_folidose_cladosnovos_imput <- read_csv("dados_novos/fabricius_folidose_cladosnovos_imput.csv")
+fabricius_folidose_cladosnovos_imput <- read_csv("dados/alterados/fabricius_folidose_cladosnovos_imput.csv")
 names(fabricius_folidose_cladosnovos_imput)
 
 

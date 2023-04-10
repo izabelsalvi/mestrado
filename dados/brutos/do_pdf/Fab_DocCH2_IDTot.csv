@@ -1,102 +1,102 @@
-Cytb Haplotype,Species,ID,Locality,Brazilian State, Genbank accession number cytb/ KIF24
-1,G. amarali Clade H,MTR14578*,Almas,TO,KM283297/ KM283408
-1,G. amarali Clade H,MTR14609*,Almas,TO,KM283298/ KM283415
-1,G. amarali Clade H,MTR14808*,Almas,TO,KM283299/ KM283416
-2,G. amarali Clade E,CHUNB55881,Barra do Garças,MT,KM283243/ KM283367
-3,G. amarali Clade E,CHUNB55883,Barra do Garças,MT,KM283244/ KM283368
-4,G. amarali Clade E,CHUNB63196,Barra do Garças,MT,KM283245/ KM283383
-5,G. amarali Clade E,CHUNB63198,Barra do Garças,MT,KM283246/ KM283384
-6,G. amarali Clade B,LG0889,Barra do Garças,TO,KM283291/ KM283407
-7,G. amarali Clade H,ESTR1038,Carolina,MA,KM283247/ KM283393
-8,G. amarali Clade H,ESTR00196*,Carolina,MA,KM283248/ KM283397
-8,G. amarali Clade H,ESTR00197*,Carolina,MA,KM283249/ KM283398
-9,G. amarali Clade H,CHUNB45283*,Caseara,TO,KM283250/ KM283355
-9,G. amarali Clade H,CHUNB45318,Caseara,TO,KM283251/ KM283356
-10,G. amarali Clade H,CHUNB45321,Caseara,TO,KM283252/ KM283357
-9,G. amarali Clade H,CHUNB45336,Caseara,TO,KM283253/ KM283358
-11,G. amarali Clade G,CHUNB53290,Cavalcante,GO,KM283255/ KM283363
-11,G. amarali Clade G,CHUNB53292,Cavalcante,GO,KM283256/ KM283364
-11,G. amarali Clade G,CHUNB53293,Cavalcante,GO,KM283257/ KM283365
-12,G. amarali Clade C,CHUNB38645,Cocalzinho de Goiás,GO,KM283305/ KM283352
-13,G. amarali Clade C,CHUNB38646,Cocalzinho de Goiás,GO,KM283306/ KM283353
-14,G. amarali Clade D,CHUNB44704,Colinas do Sul,GO,KM283280/ KM283354
-15,G. amarali Clade H,ESTR1293,Estreito,MA,KM283258/ KM283394
-15,G. amarali Clade H,ESTR0642,Estreito,MA,KM283261/ KM283399
-16,G. amarali Clade H,ESTR1759,Goiatins,TO,KM283259/ KM283395
-17,G. amarali Clade H,ESTR1808,Goiatins,TO,KM283260/ KM283396
-18,G. amarali Clade H,MRT7552*,Guarai,TO,KM283262/ KM283413
-18,G. amarali Clade H,MRT7598*,Guarai,TO,KM283263/ KM283414
-19,G. amarali Clade H,LAJ215,Lajeado,TO,KM283296/ KM283404
-20,Manga,CHUNB58336,Manga,MG,KM283267/ KM283377
-20,Manga,CHUNB58337,Manga,MG,KM283268/ KM283378
-20,Manga,CHUNB58338,Manga,MG,KM283269/ KM283379
-20,Manga,CHUNB58341,Manga,MG,KM283270/ KM283380
-Cytb,Genbank accession number Species ID,Locality,Brazilian,
-Haplotype,,,State,(cytb/ KIF24)
-21,G. amarali Clade H,CHUNB28219,Mateiros,TO,KM283271/ KM283345
-21,G. amarali Clade H,CHUNB28220,Mateiros,TO,KM283272/ KM283346
-21,G. amarali Clade H,CHUNB28222,Mateiros,TO,KM283273/ KM283347
-22,Matias Cardoso,CHUNB58323,Matias Cardoso,MG,KM283274/ KM283375
-22,Matias Cardoso,CHUNB58335,Matias Cardoso,MG,KM283275/ KM283376
-22,Matias Cardoso,CHUNB58348,Matias Cardoso,MG,KM283276/ KM283381
-23,G. amarali Clade D,GRC2152,Minaçu,GO,KM283277/ KM283342
-24,G. amarali Clade D,GRC2204,Minaçu,GO,KM283278/ KM283343
-25,G. amarali Clade D,GRC2211,Minaçu,GO,KM283279/ KM283344
-26,G. amarali Clade D,CHUNB832,Minaçu,GO,KM283281/ KM283392
-27,G. amarali Clade G,CHUNB53054,Monte Alegre de Goiás,GO,KM283319/ KM283359
-28,G. amarali Clade G,CHUNB53058,Monte Alegre de Goiás,GO,KM283320/ KM283360
-28,G. amarali Clade G,CHUNB53059,Monte Alegre de Goiás,GO,KM283321/ KM283361
-28,G. amarali Clade G,CHUNB53061,Monte Alegre de Goiás,GO,KM283322/ KM283362
-29,G. amarali Clade D,LG1072,Niquelândia,TO,KM283282/ KM283405
-29,G. amarali Clade D,LG1075,Niquelândia,GO,KM283283/ KM283406
-30,G. amarali Clade B,CHUNB55880,Nova Xavantina,MT,KM283284/ KM283366
-30,G. amarali Clade B,CHUNB55884,Nova Xavantina,MT,KM283285/ KM283369
-30,G. amarali Clade B,CHUNB55885,Nova Xavantina,MT,KM283286/ KM283370
-30,G. amarali Clade B,CHUNB55887,Nova Xavantina,MT,KM283287/ KM283371
-30,G. amarali Clade B,CHUNB55888,Nova Xavantina,MT,KM283288/ KM283372
-31,G. amarali Clade B,CHUNB55889,Nova Xavantina,MT,KM283289/ KM283373
-32,G. amarali Clade B,CHUNB55890,Nova Xavantina,MT,KM283290/ KM283374
-33,G. amarali Clade B,CHUNB63195,Nova Xavantina,MT,KM283327/ KM283382
-34,G. amarali Clade B,CHUNB63203,Nova Xavantina,MT,KM283328/ KM283385
-35,G. amarali Clade B,CHUNB63204,Nova Xavantina,MT,KM283329/ KM283386
-36,G. amarali Clade H,GRC10440,Palmas,TO,KM283294/ KM283330
-36,G. amarali Clade H,GRC10442,Palmas,TO,KM283295/ KM283331
-37,G. amarali Clade F,GRC10771,Palmas,TO,KM283292/ KM283332
-38,G. amarali Clade F,CHUNB14555,Palmas,TO,KM283293/ KM283333
-39,G. amarali Clade G,GRC15781,Paranã,TO,KM283300/ KM283340
-40,G. amarali Clade G,GRC15869,Paranã,TO,KM283301/ KM283341
-41,G. amarali Clade G,CHUNB37090,Paranã,TO,KM283302/ KM283348
-42,G. amarali Clade G,CHUNB37125,Paranã,TO,KM283303/ KM283349
-41,G. amarali Clade G,CHUNB37128,Paranã,TO,KM283304/ KM283350
-43,G. amarali Clade H,MRT3949,Peixe,TO,KM283323/ KM283409
-44,G. amarali Clade H,MRT4459,Peixe,TO,KM283254/ KM283410
-45,G. amarali Clade C,CHUNB67394,Pirenópolis,GO,KM283307/ KM283387
-45,G. amarali Clade C,CHUNB67395,Pirenópolis,GO,KM283308/ KM283388
-45,G. amarali Clade C,CHUNB67396,Pirenópolis,GO,KM283309/ KM283389
-46,G. amarali Clade C,CHUNB67441,Pirenópolis,GO,KM283310/ KM283390
-45,G. amarali Clade C,CHUNB67443*,Pirenópolis,GO,KM283311/ KM283391
-47,G. amarali Clade A,GRC15533,São Domingos,GO,KM283312/ KM283334
-47,G. amarali Clade A,GRC15558,São Domingos,GO,KM283313/ KM283335
-47,G. amarali Clade A,GRC15560,São Domingos,GO,KM283314/ KM283336
-27,G. amarali Clade G,GRC15566,São Domingos,GO,KM283317/ KM283337
-Cytb,Genbank accession number Species ID,Locality,Brazilian,
-Haplotype,,,State,(cytb/ KIF24)
-47,G. amarali Clade A,GRC15568,São Domingos,GO,KM283315/ KM283338
-47,G. amarali Clade A,GRC15569,São Domingos,GO,KM283316/ KM283339
-48,G. amarali Clade G,GRC37161,São Domingos,GO,KM283318/ KM283351
-49,G. amarali Clade H,MRT6428,São Salvador,TO,KM283324/ KM283411
-50,G. amarali Clade H,MRT6435,São Salvador,TO,KM283325/ KM283412
-51,G. darwinii A,LG958*,Porto Seguro,BA,AY630388.1/ NA
-51,G. darwinii A,LG991*,Porto Seguro,BA,AY630392.1/ NA
-NA,G. darwinii,CHUNB09443,Presidente Kennedy,ES,NA/ NA
-NA,G. darwinii,CHUNB09453,Presidente Kennedy,ES,NA/ NA
-NA,G. darwinii,CHUNB13546,Presidente Kennedy,ES,NA/ NA
-52,G. darwinii B,MD1740*,Una,BA,AY630367.1/ NA
-53,G. darwinii B,MD1742*,Una,BA,AY630368.1/ NA
-54,G. geckoides,CHUNB56643,Mamanguape,PB,KM283264/ KM283400
-54,G. geckoides,CHUNB56644,Mamanguape,PB,KM283265/ KM283401
-54,G. geckoides,CHUNB56645,Mamanguape,PB,KM283266/ KM283402
-55,G. geckoides,CHUNB56537,Milagres,CE,KM283326/ KM283403
-56,P. pollicaris,CHUNB57388,Tianguá,CE,JQ827177.1/ JQ827663.1
-57,P. pollicaris,CHUNB57389,Tianguá,CE,JQ827190.1/ JQ827664.1
-58,P. pollicaris,CHUNB57403,Tianguá,CE,JQ827186.1/ JQ827667.1
+Cytb Haplotype;Species;ID;Locality;Brazilian State; Genbank accession number cytb/ KIF24
+1;G. amarali Clade H;MTR14578*;Almas;TO;KM283297/ KM283408
+1;G. amarali Clade H;MTR14609*;Almas;TO;KM283298/ KM283415
+1;G. amarali Clade H;MTR14808*;Almas;TO;KM283299/ KM283416
+2;G. amarali Clade E;CHUNB55881;Barra do Garças;MT;KM283243/ KM283367
+3;G. amarali Clade E;CHUNB55883;Barra do Garças;MT;KM283244/ KM283368
+4;G. amarali Clade E;CHUNB63196;Barra do Garças;MT;KM283245/ KM283383
+5;G. amarali Clade E;CHUNB63198;Barra do Garças;MT;KM283246/ KM283384
+6;G. amarali Clade B;LG0889;Barra do Garças;TO;KM283291/ KM283407
+7;G. amarali Clade H;ESTR1038;Carolina;MA;KM283247/ KM283393
+8;G. amarali Clade H;ESTR00196*;Carolina;MA;KM283248/ KM283397
+8;G. amarali Clade H;ESTR00197*;Carolina;MA;KM283249/ KM283398
+9;G. amarali Clade H;CHUNB45283*;Caseara;TO;KM283250/ KM283355
+9;G. amarali Clade H;CHUNB45318;Caseara;TO;KM283251/ KM283356
+10;G. amarali Clade H;CHUNB45321;Caseara;TO;KM283252/ KM283357
+9;G. amarali Clade H;CHUNB45336;Caseara;TO;KM283253/ KM283358
+11;G. amarali Clade G;CHUNB53290;Cavalcante;GO;KM283255/ KM283363
+11;G. amarali Clade G;CHUNB53292;Cavalcante;GO;KM283256/ KM283364
+11;G. amarali Clade G;CHUNB53293;Cavalcante;GO;KM283257/ KM283365
+12;G. amarali Clade C;CHUNB38645;Cocalzinho de Goiás;GO;KM283305/ KM283352
+13;G. amarali Clade C;CHUNB38646;Cocalzinho de Goiás;GO;KM283306/ KM283353
+14;G. amarali Clade D;CHUNB44704;Colinas do Sul;GO;KM283280/ KM283354
+15;G. amarali Clade H;ESTR1293;Estreito;MA;KM283258/ KM283394
+15;G. amarali Clade H;ESTR0642;Estreito;MA;KM283261/ KM283399
+16;G. amarali Clade H;ESTR1759;Goiatins;TO;KM283259/ KM283395
+17;G. amarali Clade H;ESTR1808;Goiatins;TO;KM283260/ KM283396
+18;G. amarali Clade H;MRT7552*;Guarai;TO;KM283262/ KM283413
+18;G. amarali Clade H;MRT7598*;Guarai;TO;KM283263/ KM283414
+19;G. amarali Clade H;LAJ215;Lajeado;TO;KM283296/ KM283404
+20;Manga;CHUNB58336;Manga;MG;KM283267/ KM283377
+20;Manga;CHUNB58337;Manga;MG;KM283268/ KM283378
+20;Manga;CHUNB58338;Manga;MG;KM283269/ KM283379
+20;Manga;CHUNB58341;Manga;MG;KM283270/ KM283380
+Cytb;Genbank accession number Species ID;Locality;Brazilian;;
+Haplotype;;;State;(cytb/ KIF24);
+21;G. amarali Clade H;CHUNB28219;Mateiros;TO;KM283271/ KM283345
+21;G. amarali Clade H;CHUNB28220;Mateiros;TO;KM283272/ KM283346
+21;G. amarali Clade H;CHUNB28222;Mateiros;TO;KM283273/ KM283347
+22;Matias Cardoso;CHUNB58323;Matias Cardoso;MG;KM283274/ KM283375
+22;Matias Cardoso;CHUNB58335;Matias Cardoso;MG;KM283275/ KM283376
+22;Matias Cardoso;CHUNB58348;Matias Cardoso;MG;KM283276/ KM283381
+23;G. amarali Clade D;GRC2152;Minaçu;GO;KM283277/ KM283342
+24;G. amarali Clade D;GRC2204;Minaçu;GO;KM283278/ KM283343
+25;G. amarali Clade D;GRC2211;Minaçu;GO;KM283279/ KM283344
+26;G. amarali Clade D;CHUNB832;Minaçu;GO;KM283281/ KM283392
+27;G. amarali Clade G;CHUNB53054;Monte Alegre de Goiás;GO;KM283319/ KM283359
+28;G. amarali Clade G;CHUNB53058;Monte Alegre de Goiás;GO;KM283320/ KM283360
+28;G. amarali Clade G;CHUNB53059;Monte Alegre de Goiás;GO;KM283321/ KM283361
+28;G. amarali Clade G;CHUNB53061;Monte Alegre de Goiás;GO;KM283322/ KM283362
+29;G. amarali Clade D;LG1072;Niquelândia;TO;KM283282/ KM283405
+29;G. amarali Clade D;LG1075;Niquelândia;GO;KM283283/ KM283406
+30;G. amarali Clade B;CHUNB55880;Nova Xavantina;MT;KM283284/ KM283366
+30;G. amarali Clade B;CHUNB55884;Nova Xavantina;MT;KM283285/ KM283369
+30;G. amarali Clade B;CHUNB55885;Nova Xavantina;MT;KM283286/ KM283370
+30;G. amarali Clade B;CHUNB55887;Nova Xavantina;MT;KM283287/ KM283371
+30;G. amarali Clade B;CHUNB55888;Nova Xavantina;MT;KM283288/ KM283372
+31;G. amarali Clade B;CHUNB55889;Nova Xavantina;MT;KM283289/ KM283373
+32;G. amarali Clade B;CHUNB55890;Nova Xavantina;MT;KM283290/ KM283374
+33;G. amarali Clade B;CHUNB63195;Nova Xavantina;MT;KM283327/ KM283382
+34;G. amarali Clade B;CHUNB63203;Nova Xavantina;MT;KM283328/ KM283385
+35;G. amarali Clade B;CHUNB63204;Nova Xavantina;MT;KM283329/ KM283386
+36;G. amarali Clade H;GRC10440;Palmas;TO;KM283294/ KM283330
+36;G. amarali Clade H;GRC10442;Palmas;TO;KM283295/ KM283331
+37;G. amarali Clade F;GRC10771;Palmas;TO;KM283292/ KM283332
+38;G. amarali Clade F;CHUNB14555;Palmas;TO;KM283293/ KM283333
+39;G. amarali Clade G;GRC15781;Paranã;TO;KM283300/ KM283340
+40;G. amarali Clade G;GRC15869;Paranã;TO;KM283301/ KM283341
+41;G. amarali Clade G;CHUNB37090;Paranã;TO;KM283302/ KM283348
+42;G. amarali Clade G;CHUNB37125;Paranã;TO;KM283303/ KM283349
+41;G. amarali Clade G;CHUNB37128;Paranã;TO;KM283304/ KM283350
+43;G. amarali Clade H;MRT3949;Peixe;TO;KM283323/ KM283409
+44;G. amarali Clade H;MRT4459;Peixe;TO;KM283254/ KM283410
+45;G. amarali Clade C;CHUNB67394;Pirenópolis;GO;KM283307/ KM283387
+45;G. amarali Clade C;CHUNB67395;Pirenópolis;GO;KM283308/ KM283388
+45;G. amarali Clade C;CHUNB67396;Pirenópolis;GO;KM283309/ KM283389
+46;G. amarali Clade C;CHUNB67441;Pirenópolis;GO;KM283310/ KM283390
+45;G. amarali Clade C;CHUNB67443*;Pirenópolis;GO;KM283311/ KM283391
+47;G. amarali Clade A;GRC15533;São Domingos;GO;KM283312/ KM283334
+47;G. amarali Clade A;GRC15558;São Domingos;GO;KM283313/ KM283335
+47;G. amarali Clade A;GRC15560;São Domingos;GO;KM283314/ KM283336
+27;G. amarali Clade G;GRC15566;São Domingos;GO;KM283317/ KM283337
+Cytb;Genbank accession number Species ID;Locality;Brazilian;;
+Haplotype;;;State;(cytb/ KIF24);
+47;G. amarali Clade A;GRC15568;São Domingos;GO;KM283315/ KM283338
+47;G. amarali Clade A;GRC15569;São Domingos;GO;KM283316/ KM283339
+48;G. amarali Clade G;GRC37161;São Domingos;GO;KM283318/ KM283351
+49;G. amarali Clade H;MRT6428;São Salvador;TO;KM283324/ KM283411
+50;G. amarali Clade H;MRT6435;São Salvador;TO;KM283325/ KM283412
+51;G. darwinii A;LG958*;Porto Seguro;BA;AY630388.1/ NA
+51;G. darwinii A;LG991*;Porto Seguro;BA;AY630392.1/ NA
+NA;G. darwinii;CHUNB09443;Presidente Kennedy;ES;NA/ NA
+NA;G. darwinii;CHUNB09453;Presidente Kennedy;ES;NA/ NA
+NA;G. darwinii;CHUNB13546;Presidente Kennedy;ES;NA/ NA
+52;G. darwinii B;MD1740*;Una;BA;AY630367.1/ NA
+53;G. darwinii B;MD1742*;Una;BA;AY630368.1/ NA
+54;G. geckoides;CHUNB56643;Mamanguape;PB;KM283264/ KM283400
+54;G. geckoides;CHUNB56644;Mamanguape;PB;KM283265/ KM283401
+54;G. geckoides;CHUNB56645;Mamanguape;PB;KM283266/ KM283402
+55;G. geckoides;CHUNB56537;Milagres;CE;KM283326/ KM283403
+56;P. pollicaris;CHUNB57388;Tianguá;CE;JQ827177.1/ JQ827663.1
+57;P. pollicaris;CHUNB57389;Tianguá;CE;JQ827190.1/ JQ827664.1
+58;P. pollicaris;CHUNB57403;Tianguá;CE;JQ827186.1/ JQ827667.1
