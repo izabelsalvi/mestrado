@@ -1,0 +1,77 @@
+﻿Cytb Haplotype;Espécies;Clado;Coleção;#;ID;Loc;UF;VERIFICADO;Lat;Long;Altitude (m);
+47;Gymnodactylus amarali;A;GRC;15533;GRC15533;São Domingos;GO;M;-13.45;-46.45;472;
+47;Gymnodactylus amarali;A;GRC;15558;GRC15558;São Domingos;GO;F;-13.45;-46.45;472;
+47;Gymnodactylus amarali;A;GRC;15560;GRC15560;São Domingos;GO;M;-13.45;-46.45;472;
+47;Gymnodactylus amarali;A;GRC;15568;GRC15568;São Domingos;GO;M;-13.45;-46.45;472;
+47;Gymnodactylus amarali;A;GRC;15569;GRC15569;São Domingos;GO;-;-13.45;-46.45;472;
+30;Gymnodactylus amarali;B;CHUNB;55880;CHUNB55880;Nova Xavantina;MT;M;-14.69;-52.34;292;
+30;Gymnodactylus amarali;B;CHUNB;55884;CHUNB55884;Nova Xavantina;MT;55883 M;-14.69;-52.34;292;
+30;Gymnodactylus amarali;B;CHUNB;55885;CHUNB55885;Nova Xavantina;MT;F;-14.69;-52.34;292;
+30;Gymnodactylus amarali;B;CHUNB;55887;CHUNB55887;Nova Xavantina;MT;M;-14.69;-52.34;292;
+30;Gymnodactylus amarali;B;CHUNB;55888;CHUNB55888;Nova Xavantina;MT;M;-14.69;-52.34;292;
+31;Gymnodactylus amarali;B;CHUNB;55889;CHUNB55889;Nova Xavantina;MT;M;-14.69;-52.34;292;
+32;Gymnodactylus amarali;B;CHUNB;55890;CHUNB55890;Nova Xavantina;MT;-;-14.69;-52.34;292;
+33;Gymnodactylus amarali;B;CHUNB;63195;CHUNB63195;Nova Xavantina;MT;-;-14.69;-52.34;292;
+34;Gymnodactylus amarali;B;CHUNB;63203;CHUNB63203;Nova Xavantina;MT;-;-14.69;-52.34;292;
+35;Gymnodactylus amarali;B;CHUNB;63204;CHUNB63204;Nova Xavantina;MT;-;-14.69;-52.34;292;
+12;Gymnodactylus amarali;C;CHUNB;38645;CHUNB38645;Cocalzinho de Goiás;GO;M;-15.64;-48.55;732;
+13;Gymnodactylus amarali;C;CHUNB;38646;CHUNB38646;Cocalzinho de Goiás;GO;M;-15.64;-48.55;732;
+45;Gymnodactylus amarali;C;CHUNB;67394;CHUNB67394;Pirenópolis;GO;Pequeno;-15.81;-48.87;1310;
+45;Gymnodactylus amarali;C;CHUNB;67395;CHUNB67395;Pirenópolis;GO;Pequeno;-15.81;-48.87;1310;
+45;Gymnodactylus amarali;C;CHUNB;67396;CHUNB67396;Pirenópolis;GO;Pequeno;-15.81;-48.87;1310;
+46;Gymnodactylus amarali;C;CHUNB;67441;CHUNB67441;Pirenópolis;GO;M;-15.81;-48.87;1310;separado Machos 67393
+45;Gymnodactylus amarali;C;CHUNB;67443;CHUNB67443*;Pirenópolis;GO;Não encontrado;-15.81;-48.87;1310;
+14;Gymnodactylus amarali;D;CHUNB;44704;CHUNB44704;Colinas do Sul;GO;;-13.99;-48.09;528;
+23;Gymnodactylus amarali;D;GRC;2152;GRC2152;Minaçu;GO;F;-13.5;48.4;425;
+24;Gymnodactylus amarali;D;GRC;2204;GRC2204;Minaçu;GO;M;-13.5;48.4;425;
+25;Gymnodactylus amarali;D;GRC;2211;GRC2211;Minaçu;GO;M;-13.5;48.4;425;
+26;Gymnodactylus amarali;D;CHUNB;832;CHUNB832;Minaçu;GO;M;-13.5;48.4;425;
+29;Gymnodactylus amarali;D;LG;1072;LG1072;Niquelândia;TO;;-14.45;-48.45;718;
+29;Gymnodactylus amarali;D;LG;1075;LG1075;Niquelândia;TO;;-14.45;-48.45;718;
+2;Gymnodactylus amarali;E;CHUNB;55881;CHUNB55881;Barra do Garças;MT;;-15.2;-52.5;624;
+3;Gymnodactylus amarali;E;CHUNB;55883;CHUNB55883;Barra do Garças;MT;;-15.2;-52.5;624;
+4;Gymnodactylus amarali;E;CHUNB;63196;CHUNB63196;Barra do Garças;MT;f;-15.2;-52.5;624;
+5;Gymnodactylus amarali;E;CHUNB;63198;CHUNB63198;Barra do Garças;MT;M;-15.2;-52.5;624;
+6;Gymnodactylus amarali;E;LG;889;LG0889;Barra do Garças;TO;;-15.88;-52.25;310;
+37;Gymnodactylus amarali;F;GRC;10771;GRC10771;Palmas;TO;Verificar;-10.19;-48.11;657;Verificar as estiquetas da CHUNB
+38;Gymnodactylus amarali;F;CHUNB;14555;CHUNB14555;Palmas;TO;Verificar;-10.19;-48.11;657;Verificar as estiquetas da CHUNB
+11;Gymnodactylus amarali;G;CHUNB;53290;CHUNB53290;Cavalcante;GO;M;-13.64;-47.72;961;
+11;Gymnodactylus amarali;G;CHUNB;53292;CHUNB53292;Cavalcante;GO;F;-13.64;-47.72;961;
+11;Gymnodactylus amarali;G;CHUNB;53293;CHUNB53293;Cavalcante;GO;F;-13.64;-47.72;961;
+27;Gymnodactylus amarali;G;CHUNB;53054;CHUNB53054;Monte Alegre de Goiás;GO;Separado;-13.25;-46.9;579;Separado para sexagem
+28;Gymnodactylus amarali;G;CHUNB;53058;CHUNB53058;Monte Alegre de Goiás;GO;Separado;-13.25;-46.9;579;Separado para sexagem
+28;Gymnodactylus amarali;G;CHUNB;53059;CHUNB53059;Monte Alegre de Goiás;GO;Separado;-13.25;-46.9;579;Separado para sexagem
+28;Gymnodactylus amarali;G;CHUNB;53061;CHUNB53061;Monte Alegre de Goiás;GO;Separado;-13.25;-46.9;579;Separado para sexagem
+39;Gymnodactylus amarali;G;GRC;15781;GRC15781;Paranã;TO;-;-12.75;-47.76;289;Separado um Macho desta localidade CHUNB 37088
+40;Gymnodactylus amarali;G;GRC;15869;GRC15869;Paranã;TO;F;-12.75;-47.76;289;
+41;Gymnodactylus amarali;G;CHUNB;37090;CHUNB37090;Paranã;TO;F;-12.75;-47.76;289;
+42;Gymnodactylus amarali;G;CHUNB;37125;CHUNB37125;Paranã;TO;F;-12.75;-47.76;289;
+41;Gymnodactylus amarali;G;CHUNB;37128;CHUNB37128;Paranã;TO;F;-12.75;-47.76;289;
+27;Gymnodactylus amarali;G;GRC;15566;GRC15566;São Domingos;GO;M;-13.45;-46.45;472;
+48;Gymnodactylus amarali;G;GRC;37161;GRC37161;São Domingos;GO;-;-13.45;-46.45;472;
+1;Gymnodactylus amarali;H;MTR;14578;MTR14578*;Almas;TO;Separado;-11.24;-46.81;523;Separado na CHUNB da mesma localidade
+1;Gymnodactylus amarali;H;MTR;14609;MTR14609*;Almas;TO;Separado;-11.24;-46.81;523;Separado na CHUNB da mesma localidade
+1;Gymnodactylus amarali;H;MTR;14808;MTR14808*;Almas;TO;Separado;-11.24;-46.81;523;Separado na CHUNB da mesma localidade
+7;Gymnodactylus amarali;H;ESTR;1038;ESTR1038;Carolina;MA;;-7.37;-47.43;175;
+8;Gymnodactylus amarali;H;ESTR;196;ESTR00196*;Carolina;MA;;-7.37;-47.43;175;
+8;Gymnodactylus amarali;H;ESTR;197;ESTR00197*;Carolina;MA;;-7.37;-47.43;175;
+9;Gymnodactylus amarali;H;CHUNB;45283;CHUNB45283*;Caseara;TO;;-9.37;-49.84;186;Separado na CHUNB da mesma localidade
+9;Gymnodactylus amarali;H;CHUNB;45318;CHUNB45318;Caseara;TO;Separado;-9.37;-49.84;186;Separado na CHUNB da mesma localidade
+10;Gymnodactylus amarali;H;CHUNB;45321;CHUNB45321;Caseara;TO;;-9.37;-49.84;186;Separado na CHUNB da mesma localidade
+9;Gymnodactylus amarali;H;CHUNB;45336;CHUNB45336;Caseara;TO;;-9.37;-49.84;186;Separado na CHUNB da mesma localidade
+15;Gymnodactylus amarali;H;ESTR;1293;ESTR1293;Estreito;MA;;-6.56;-47.45;147;
+15;Gymnodactylus amarali;H;ESTR;642;ESTR0642;Estreito;MA;;-6.56;-47.45;147;
+16;Gymnodactylus amarali;H;ESTR;1759;ESTR1759;Goiatins;TO;;-7.69;-47.35;206;
+17;Gymnodactylus amarali;H;ESTR;1808;ESTR1808;Goiatins;TO;;-7.69;-47.35;206;
+18;Gymnodactylus amarali;H;MTR;7552;MTR7552*;Guarai;TO;;-8.83;-48.52;266;
+18;Gymnodactylus amarali;H;MTR;7598;MTR7598*;Guarai;TO;;-8.83;-48.52;266;
+19;Gymnodactylus amarali;H;LAJ;215;LAJ215;Lajeado;TO;;-9.85;-48.32;229;
+21;Gymnodactylus amarali;H;CHUNB;28219;CHUNB28219;Mateiros;TO;Separado;-10.7;-46.41;629;Separados para sexagem
+21;Gymnodactylus amarali;H;CHUNB;28220;CHUNB28220;Mateiros;TO;Separado;-10.7;-46.41;629;Separados para sexagem
+21;Gymnodactylus amarali;H;CHUNB;28222;CHUNB28222;Mateiros;TO;Separado;-10.7;-46.41;629;Separados para sexagem
+36;Gymnodactylus amarali;H;GRC;10440;GRC10440;Palmas;TO;Verificar;-10.19;-48.11;657;Verificar as estiquetas da CHUNB
+36;Gymnodactylus amarali;H;GRC;10442;GRC10442;Palmas;TO;Verificar;-10.19;-48.11;657;Verificar as estiquetas da CHUNB
+43;Gymnodactylus amarali;H;MRT;3949;MRT3949;Peixe;TO;;-12.03;-48.35;321;
+44;Gymnodactylus amarali;H;MRT;4459;MRT4459;Peixe;TO;;-12.03;-48.35;321;
+49;Gymnodactylus amarali;H;MRT;6428;MRT6428;São Salvador;TO;;-12.73;-48.23;323;
+50;Gymnodactylus amarali;H;MRT;6435;MRT6435;São Salvador;TO;;-12.73;-48.23;323;

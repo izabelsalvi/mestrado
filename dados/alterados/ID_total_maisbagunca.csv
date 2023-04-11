@@ -1,0 +1,1193 @@
+"","ID","UF","Altitude (m)","HemipenisMedido","Especie_Welington","Hemipenis_Evertido","No_LACV","Average coverage across loci","Loci passing coverage threshold","FabDocCh4AP","Colecao","FabDocCh2","FabMestrado","Localidade","Latitude","Longitude","gymno_clades","Especie_Fabricius","Cytb Haplotype"," Genbank accession number cytb/ KIF24"
+"1","24211","GO","1166",NA,NA,NA,NA,2741,390,"SIM","GRC",NA,NA,"Alto Paraiso","-14.16","-47.62",NA,"G. amarali",NA,NA
+"2","24210","GO","1166",NA,NA,NA,NA,2187.93,390,"SIM","GRC",NA,NA,"Alto Paraiso","-14.16","-47.62",NA,"G. amarali",NA,NA
+"3","53290","GO","961",NA,NA,NA,"SIM",NA,NA,NA,"CHUNB","SIM","SIM","Cavalcante","-13.79","-47.45",7,"G. amarali Clade G","11","KM283255/ KM283363"
+"4","53292","GO","961",NA,NA,NA,NA,NA,NA,NA,"CHUNB","SIM","SIM","Cavalcante","-13.79","-47.45",7,"G. amarali Clade G","11","KM283256/ KM283364"
+"5","53294","GO","961",NA,NA,NA,NA,NA,NA,NA,"CHUNB",NA,"SIM","Cavalcante","-13.79","-47.45",7,"G. amarali",NA,NA
+"6","53293","GO","961",NA,NA,NA,NA,2992.61,390,"SIM","CHUNB","SIM","SIM","Cavalcante","-13.79","-47.45",7,"G. amarali Clade G","11","KM283257/ KM283365"
+"7","53291","GO","961",NA,NA,NA,NA,NA,NA,NA,"CHUNB",NA,"SIM","Cavalcante","-13.79","-47.45",7,"G. amarali",NA,NA
+"8","38645","GO","732",NA,"C","SIM","SIM",NA,NA,NA,"CHUNB","SIM","SIM","Cocalzinho","-15.79","-48.77",NA,"G. amarali Clade C","12","KM283305/ KM283352"
+"9","38646","GO","732",NA,"C","SIM","SIM",NA,NA,NA,"CHUNB","SIM","SIM","Cocalzinho","-15.79","-48.77",NA,"G. amarali Clade C","13","KM283306/ KM283353"
+"10","44704","GO","528",NA,NA,NA,NA,NA,NA,NA,"CHUNB","SIM","SIM","ColinasdoSul","-14.15","-48.07",2,"G. amarali Clade D","14","KM283280/ KM283354"
+"11","44698","GO","511",NA,NA,NA,NA,2265.45,390,"SIM","CHUNB",NA,"SIM","ColinasdoSul","-14.15","-48.07",2,"G. amarali",NA,NA
+"12","2202","GO","427",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Minacu","-13.5","-48.4",NA,"G. amarali",NA,NA
+"13","2211","GO","425",NA,NA,NA,NA,NA,NA,NA,"GRC","SIM",NA,"Minaçu","-13.5","48.4",NA,"G. amarali Clade D","25","KM283279/ KM283344"
+"14","2153","GO","427",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Minacu","-13.5","-48.4",NA,"G. amarali",NA,NA
+"15","2154","GO","427",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Minacu","-13.5","-48.4",NA,"G. amarali",NA,NA
+"16","2207","GO","427",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Minacu","-13.5","-48.4",NA,"G. amarali",NA,NA
+"17","2199","GO","427",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Minacu","-13.5","-48.4",NA,"G. amarali",NA,NA
+"18","831","GO","427",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Minacu","-13.5","-48.4",NA,"G. amarali",NA,NA
+"19","832","GO","425","SIM","D","SIM","SIM",NA,NA,NA,"CHUNB","SIM",NA,"Minaçu","-13.5","48.4",NA,"G. amarali Clade D","26","KM283281/ KM283392"
+"20","2204","GO","425",NA,NA,NA,NA,NA,NA,NA,"GRC","SIM",NA,"Minaçu","-13.5","48.4",NA,"G. amarali Clade D","24","KM283278/ KM283343"
+"21","2173","GO","427",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Minacu","-13.5","-48.4",NA,"G. amarali",NA,NA
+"22","2152","GO","425",NA,NA,NA,NA,1058.54,384,"SIM","GRC","SIM",NA,"Minaçu","-13.5","48.4",NA,"G. amarali Clade D","23","KM283277/ KM283342"
+"23","53059","GO","579",NA,NA,NA,"SIM",NA,NA,NA,"CHUNB","SIM","SIM","MonteAlegre","-13.09325","-47.02351",7,"G. amarali Clade G","28","KM283321/ KM283361"
+"24","53062","GO","564",NA,NA,NA,"SIM",NA,NA,NA,"CHUNB",NA,"SIM","MonteAlegre","-13.09325","-47.02351",7,"G. amarali",NA,NA
+"25","53061","GO","579",NA,NA,NA,"SIM",NA,NA,NA,"CHUNB","SIM","SIM","MonteAlegre","-13.09325","-47.02351",7,"G. amarali Clade G","28","KM283322/ KM283362"
+"26","53052","GO","564",NA,NA,NA,NA,NA,NA,NA,"CHUNB",NA,"SIM","MonteAlegre","-13.09325","-47.02351",7,"G. amarali",NA,NA
+"27","53054","GO","579",NA,NA,NA,"SIM",NA,NA,NA,"CHUNB","SIM","SIM","MonteAlegre","-13.09325","-47.02351",7,"G. amarali Clade G","27","KM283319/ KM283359"
+"28","53058","GO","579",NA,NA,NA,"SIM",NA,NA,NA,"CHUNB","SIM","SIM","MonteAlegre","-13.09325","-47.02351",7,"G. amarali Clade G","28","KM283320/ KM283360"
+"29","53056","GO","564",NA,NA,NA,NA,NA,NA,NA,"CHUNB",NA,"SIM","MonteAlegre","-13.09325","-47.02351",7,"G. amarali",NA,NA
+"30","53060","GO","564",NA,NA,NA,"SIM",2665.26,391,"SIM","CHUNB",NA,"SIM","MonteAlegre","-13.09325","-47.02351",7,"G. amarali",NA,NA
+"31","53055","GO","564",NA,NA,NA,NA,NA,NA,NA,"CHUNB",NA,"SIM","MonteAlegre","-13.09325","-47.02351",7,"G. amarali",NA,NA
+"32","53051","GO","564",NA,NA,NA,NA,NA,NA,NA,"CHUNB",NA,"SIM","MonteAlegre","-13.09325","-47.02351",7,"G. amarali",NA,NA
+"33","1075","TO","718",NA,NA,NA,NA,NA,NA,NA,"LG","SIM",NA,"Niquelândia","-14.45","-48.45",NA,"G. amarali Clade D","29","KM283283/ KM283406"
+"34","1083","GO","594",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Niquelandia","-14.45","-48.45",NA,"G. amarali",NA,NA
+"35","1072","TO","718",NA,NA,NA,NA,NA,NA,NA,"LG","SIM",NA,"Niquelândia","-14.45","-48.45",NA,"G. amarali Clade D","29","KM283282/ KM283405"
+"36","67395","GO","1310",NA,NA,NA,NA,NA,NA,NA,"CHUNB","SIM",NA,"Pirenópolis","-15.81","-48.87",NA,"G. amarali Clade C","45","KM283308/ KM283388"
+"37","67440","GO","1324",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Pirenopolis","-15.81","-48.87",NA,"G. amarali",NA,NA
+"38","67396","GO","1310",NA,NA,NA,NA,NA,NA,NA,"CHUNB","SIM",NA,"Pirenópolis","-15.81","-48.87",NA,"G. amarali Clade C","45","KM283309/ KM283389"
+"39","67399","GO","1324",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Pirenopolis","-15.81","-48.87",NA,"G. amarali",NA,NA
+"40","67392","GO","1324",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Pirenopolis","-15.81","-48.87",NA,"G. amarali",NA,NA
+"41","67394","GO","1310",NA,NA,NA,NA,NA,NA,NA,"CHUNB","SIM",NA,"Pirenópolis","-15.81","-48.87",NA,"G. amarali Clade C","45","KM283307/ KM283387"
+"42","67397","GO","1324",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Pirenopolis","-15.81","-48.87",NA,"G. amarali",NA,NA
+"43","67437","GO","1324",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Pirenopolis","-15.81","-48.87",NA,"G. amarali",NA,NA
+"44","67441","GO","1310",NA,"C","SIM","SIM",NA,NA,NA,"CHUNB","SIM",NA,"Pirenópolis","-15.81","-48.87",NA,"G. amarali Clade C","46","KM283310/ KM283390"
+"45","67438","GO","1324",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Pirenopolis","-15.81","-48.87",NA,"G. amarali",NA,NA
+"46","67393","GO","1324","SIM","C","SIM","SIM",NA,NA,NA,"CHUNB",NA,NA,"Pirenopolis","-15.81","-48.87",NA,"G. amarali",NA,NA
+"47","67398","GO","1324",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Pirenopolis","-15.81","-48.87",NA,"G. amarali",NA,NA
+"48","67443","GO","1310",NA,NA,NA,NA,NA,NA,NA,"CHUNB","SIM",NA,"Pirenópolis","-15.81","-48.87",NA,"G. amarali Clade C","45","KM283311/ KM283391"
+"49","15564","GO","456",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Sao Domingos","-13.45","-46.45",NA,"G. amarali",NA,NA
+"50","15560","GO","472",NA,NA,NA,NA,NA,NA,NA,"GRC","SIM",NA,"São Domingos","-13.45","-46.45",NA,"G. amarali Clade A","47","KM283314/ KM283336"
+"51","15558","GO","472",NA,NA,NA,NA,NA,NA,NA,"GRC","SIM",NA,"São Domingos","-13.45","-46.45",NA,"G. amarali Clade A","47","KM283313/ KM283335"
+"52","15568","GO","472",NA,NA,NA,NA,NA,NA,NA,"GRC","SIM",NA,"São Domingos","-13.45","-46.45",NA,"G. amarali Clade A","47","KM283315/ KM283338"
+"53","37161","GO","472",NA,NA,NA,NA,NA,NA,NA,"GRC","SIM","SIM","SaoDomingos","-13.44979","-46.4481",1,"G. amarali Clade G","48","KM283318/ KM283351"
+"54","15533","GO","472",NA,NA,NA,NA,NA,NA,NA,"GRC","SIM",NA,"São Domingos","-13.45","-46.45",NA,"G. amarali Clade A","47","KM283312/ KM283334"
+"55","15566","GO","472",NA,NA,NA,NA,NA,NA,NA,"GRC","SIM",NA,"São Domingos","-13.45","-46.45",NA,"G. amarali Clade G","27","KM283317/ KM283337"
+"56","15569","GO","472",NA,NA,NA,NA,NA,NA,NA,"GRC","SIM",NA,"São Domingos","-13.45","-46.45",NA,"G. amarali Clade A","47","KM283316/ KM283339"
+"57","15484","GO","456",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Sao Domingos","-13.45","-46.45",NA,"G. amarali",NA,NA
+"58","69384","GO","456",NA,NA,NA,NA,4618.6,390,"SIM",NA,NA,NA,"Sao Domingos","-13.45","-46.45",NA,"G. amarali",NA,NA
+"59","15534","GO","456",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Sao Domingos","-13.45","-46.45",NA,"G. amarali",NA,NA
+"60","00197","MA","176",NA,NA,NA,NA,NA,NA,NA,"ESTR","SIM",NA,"Carolina","-7.37","-47.43",NA,"G. amarali Clade H","8","KM283249/ KM283398"
+"61","52006","MA","176",NA,NA,NA,NA,NA,NA,NA,"CHUNB",NA,"SIM","Carolina","-7.366666667","-47.43333333",12,"G. amarali",NA,NA
+"62","00196","MA","176",NA,NA,NA,NA,NA,NA,NA,"ESTR","SIM",NA,"Carolina","-7.37","-47.43",NA,"G. amarali Clade H","8","KM283248/ KM283397"
+"63","1038","MA","175",NA,NA,NA,NA,NA,NA,NA,"ESTR","SIM","SIM","Estreito","-6.5625","-47.4525",12,"G. amarali Clade H","7","KM283247/ KM283393"
+"64","52007","MA","176",NA,NA,NA,NA,3060.78,390,"SIM","CHUNB",NA,"SIM","Carolina","-7.366666667","-47.43333333",12,"G. amarali",NA,NA
+"65","1293","MA","147",NA,NA,NA,NA,2742.3,390,"SIM","ESTR","SIM","SIM","Estreito","-6.5625","-47.4525",12,"G. amarali Clade H","15","KM283258/ KM283394"
+"66","0642","MA","163",NA,NA,NA,NA,NA,NA,NA,"ESTR","SIM",NA,"Estreito","-6.56","-47.45",NA,"G. amarali Clade H","15","KM283261/ KM283399"
+"67","0889","MT","294",NA,NA,NA,NA,1571.32,385,"SIM","LG","SIM",NA,"Barra do Garças","-15.88","-52.25",NA,"G. amarali Clade B","6","KM283291/ KM283407"
+"68","55883","MT","624",NA,"B","SIM","SIM",NA,NA,NA,"CHUNB","SIM","SIM","NovaXavantina","-14.41","-52.2",4,"G. amarali Clade E","3","KM283244/ KM283368"
+"69","55882","MT","619",NA,NA,NA,NA,NA,NA,NA,"CHUNB",NA,"SIM","NovaXavantina","-14.41","-52.2",4,"G. amarali",NA,NA
+"70","55881","MT","624",NA,NA,NA,NA,NA,NA,NA,"CHUNB","SIM","SIM","NovaXavantina","-14.41","-52.2",4,"G. amarali Clade E","2","KM283243/ KM283367"
+"71","63196","MT","624",NA,NA,NA,NA,NA,NA,NA,"CHUNB","SIM",NA,"Barra do Garças","-15.2","-52.5",NA,"G. amarali Clade E","4","KM283245/ KM283383"
+"72","63198","MT","624","SIM","E","SIM","SIM",NA,NA,NA,"CHUNB","SIM",NA,"Barra do Garças","-15.2","-52.5",NA,"G. amarali Clade E","5","KM283246/ KM283384"
+"73","63197","MT","619",NA,"E","SIM","SIM",NA,NA,NA,"CHUNB",NA,NA,"Barra do Garcas","-15.2","-52.5",NA,"G. amarali",NA,NA
+"74","55884","MT","292",NA,NA,NA,NA,NA,NA,NA,"CHUNB","SIM","SIM","NovaXavantina","-14.41","-52.2",4,"G. amarali Clade B","30","KM283285/ KM283369"
+"75","63195","MT","292",NA,NA,NA,NA,NA,NA,NA,"GRC","SIM",NA,"Nova Xavantina","-14.69","-52.34",NA,"G. amarali Clade B","33","KM283327/ KM283382"
+"76","55885","MT","292",NA,NA,NA,NA,NA,NA,NA,"CHUNB","SIM","SIM","NovaXavantina","-14.41","-52.2",4,"G. amarali Clade B","30","KM283286/ KM283370"
+"77","55886","MT","283",NA,NA,NA,NA,NA,NA,NA,"CHUNB",NA,"SIM","NovaXavantina","-14.41","-52.2",4,"G. amarali",NA,NA
+"78","63204","MT","292",NA,NA,NA,NA,NA,NA,NA,"GRC","SIM",NA,"Nova Xavantina","-14.69","-52.34",NA,"G. amarali Clade B","35","KM283329/ KM283386"
+"79","55880","MT","292",NA,"B","SIM","SIM",NA,NA,NA,"CHUNB","SIM","SIM","NovaXavantina","-14.41","-52.2",4,"G. amarali Clade B","30","KM283284/ KM283366"
+"80","55887","MT","292",NA,"B","SIM","SIM",NA,NA,NA,"CHUNB","SIM","SIM","NovaXavantina","-14.41","-52.2",4,"G. amarali Clade B","30","KM283287/ KM283371"
+"81","55888","MT","292",NA,NA,NA,"SIM",NA,NA,NA,"CHUNB","SIM","SIM","NovaXavantina","-14.41","-52.2",4,"G. amarali Clade B","30","KM283288/ KM283372"
+"82","55890","MT","292",NA,NA,NA,NA,NA,NA,NA,"CHUNB","SIM","SIM","NovaXavantina","-14.41","-52.2",4,"G. amarali Clade B","32","KM283290/ KM283374"
+"83","55889","MT","292",NA,"B","SIM","SIM",NA,NA,NA,"CHUNB","SIM","SIM","NovaXavantina","-14.41","-52.2",4,"G. amarali Clade B","31","KM283289/ KM283373"
+"84","21228","MT","283",NA,NA,NA,NA,1942.29,391,"SIM","GRC",NA,NA,"Nova Xavantina","-14.69","-52.34",NA,"G. amarali",NA,NA
+"85","14517","TO","522",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Almas (EESGT)","-11.24","-46.81",NA,"G. amarali",NA,NA
+"86","14808","TO","523",NA,NA,NA,NA,NA,NA,NA,"MTR","SIM",NA,"Almas","-11.24","-46.81",NA,"G. amarali Clade H","1","KM283299/ KM283416"
+"87","14609","TO","523",NA,NA,NA,NA,NA,NA,NA,"MTR","SIM",NA,"Almas","-11.24","-46.81",NA,"G. amarali Clade H","1","KM283298/ KM283415"
+"88","14237","TO","522",NA,NA,NA,NA,2402.9,391,"SIM","MTR",NA,NA,"Almas (EESGT)","-11.24","-46.81",NA,"G. amarali",NA,NA
+"89","14552","TO","522",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Almas (EESGT)","-11.24","-46.81",NA,"G. amarali",NA,NA
+"90","14578","TO","523",NA,NA,NA,NA,NA,NA,NA,"MTR","SIM",NA,"Almas","-11.24","-46.81",NA,"G. amarali Clade H","1","KM283297/ KM283408"
+"91","14510","TO","522",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Almas (EESGT)","-11.24","-46.81",NA,"G. amarali",NA,NA
+"92","45278","TO","185",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Caseara","-9.37","-49.84",NA,"G. amarali",NA,NA
+"93","45318","TO","186",NA,NA,NA,NA,NA,NA,NA,"CHUNB","SIM","SIM","Caseara","-9.37229","-49.84295",5,"G. amarali Clade H","9","KM283251/ KM283356"
+"94","45324","TO","185",NA,NA,NA,NA,NA,NA,NA,"CHUNB",NA,"SIM","Caseara","-9.37229","-49.84295",5,"G. amarali",NA,NA
+"95","45336","TO","186",NA,NA,NA,"SIM",2733.41,389,"SIM","CHUNB","SIM","SIM","Caseara","-9.37229","-49.84295",5,"G. amarali Clade H","9","KM283253/ KM283358"
+"96","45321","TO","186",NA,NA,NA,NA,NA,NA,NA,"CHUNB","SIM","SIM","Caseara","-9.37229","-49.84295",5,"G. amarali Clade H","10","KM283252/ KM283357"
+"97","45283","TO","186",NA,NA,NA,NA,NA,NA,NA,NA,"SIM",NA,"Caseara","-9.37","-49.84",NA,"G. amarali Clade H","9","KM283250/ KM283355"
+"98","62616","TO","404",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Combinado","-12.81","-46.48",NA,"G. amarali",NA,NA
+"99","62569","TO","288",NA,NA,NA,NA,2125.05,390,"SIM",NA,NA,NA,"Figueiropolis","-12.18","-48.96",NA,"G. amarali",NA,NA
+"100","1759","TO","206",NA,NA,NA,NA,NA,NA,NA,"ESTR","SIM","SIM","Estreito","-6.5625","-47.4525",12,"G. amarali Clade H","16","KM283259/ KM283395"
+"101","1808","TO","206",NA,NA,NA,NA,NA,NA,NA,"ESTR","SIM","SIM","Estreito","-6.5625","-47.4525",12,"G. amarali Clade H","17","KM283260/ KM283396"
+"102","7479","TO","265",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Guarai","-8.83","-48.52",NA,"G. amarali",NA,NA
+"103","7542","TO","265",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Guarai","-8.83","-48.52",NA,"G. amarali",NA,NA
+"104","7598","TO","266",NA,NA,NA,NA,NA,NA,NA,"MTR","SIM",NA,"Guarai","-8.83","-48.52",NA,"G. amarali Clade H","18","KM283263/ KM283414"
+"105","7552","TO","266",NA,NA,NA,NA,NA,NA,NA,"MTR","SIM",NA,"Guarai","-8.83","-48.52",NA,"G. amarali Clade H","18","KM283262/ KM283413"
+"106","8991","TO","487",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Lajeado (UHE)","-9.85","-48.32",NA,"G. amarali",NA,NA
+"107","6918","TO","487",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Lajeado (UHE)","-9.85","-48.32",NA,"G. amarali",NA,NA
+"108","14241","TO","487",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Lajeado (UHE)","-9.85","-48.32",NA,"G. amarali",NA,NA
+"109","6889","TO","487",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Lajeado (UHE)","-9.85","-48.32",NA,"G. amarali",NA,NA
+"110","215","TO","229",NA,NA,NA,NA,763.63,378,"SIM","LAJ",NA,NA,"Lajeado","-9.85","-48.32",NA,"G. amarali",NA,NA
+"111","9034","TO","487",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Lajeado (UHE)","-9.85","-48.32",NA,"G. amarali",NA,NA
+"112","8674","TO","632",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Mateiros","-10.7","-46.41",NA,"G. amarali",NA,NA
+"113","8743","TO","632",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Mateiros","-10.7","-46.41",NA,"G. amarali",NA,NA
+"114","8675","TO","632",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Mateiros","-10.7","-46.41",NA,"G. amarali",NA,NA
+"115","8841","TO","632",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Mateiros","-10.7","-46.41",NA,"G. amarali",NA,NA
+"116","8928","TO","632",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Mateiros","-10.7","-46.41",NA,"G. amarali",NA,NA
+"117","28222","TO","629",NA,NA,NA,"SIM",NA,NA,NA,"CHUNB","SIM","SIM","Mateiros","-10.70224","-46.41278",10,"G. amarali Clade H","21","KM283273/ KM283347"
+"118","8808","TO","632",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Mateiros","-10.7","-46.41",NA,"G. amarali",NA,NA
+"119","8980","TO","632",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Mateiros","-10.7","-46.41",NA,"G. amarali",NA,NA
+"120","28224","TO","632",NA,NA,NA,"SIM",NA,NA,NA,"CHUNB",NA,"SIM","Mateiros","-10.70224","-46.41278",10,"G. amarali",NA,NA
+"121","28219","TO","629",NA,NA,NA,"SIM",1546.24,379,"SIM","CHUNB","SIM","SIM","Mateiros","-10.70224","-46.41278",10,"G. amarali Clade H","21","KM283271/ KM283345"
+"122","28220","TO","629",NA,NA,NA,"SIM",NA,NA,NA,"CHUNB","SIM","SIM","Mateiros","-10.70224","-46.41278",10,"G. amarali Clade H","21","KM283272/ KM283346"
+"123","24256","TO","719",NA,NA,NA,NA,2376.59,388,"SIM",NA,NA,NA,"Natividade","-11.69","-47.7",NA,"G. amarali",NA,NA
+"124","10433","TO","233",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Palmas_East","-10.42","-48.36",NA,"G. amarali",NA,NA
+"125","10440","TO","657",NA,NA,NA,NA,NA,NA,NA,"GRC","SIM",NA,"Palmas","-10.19","-48.11",NA,"G. amarali Clade H","36","KM283294/ KM283330"
+"126","10442","TO","657",NA,NA,NA,NA,2008.26,390,"SIM","GRC","SIM",NA,"Palmas","-10.19","-48.11",NA,"G. amarali Clade H","36","KM283295/ KM283331"
+"127","10488","TO","226",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Palmas_West","-10.24","-48.44",NA,"G. amarali",NA,NA
+"128","10495","TO","226",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Palmas_West","-10.24","-48.44",NA,"G. amarali",NA,NA
+"129","10527","TO","226",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Palmas_West","-10.24","-48.44",NA,"G. amarali",NA,NA
+"130","10771","TO","657",NA,NA,NA,NA,NA,NA,NA,"GRC","SIM",NA,"Palmas","-10.19","-48.11",NA,"G. amarali Clade F","37","KM283292/ KM283332"
+"131","10773","TO","226",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Palmas_West","-10.24","-48.44",NA,"G. amarali",NA,NA
+"132","10775","TO","226",NA,NA,NA,NA,1978.32,391,"SIM",NA,NA,NA,"Palmas_West","-10.24","-48.44",NA,"G. amarali",NA,NA
+"133","14555","TO","657",NA,NA,NA,NA,NA,NA,NA,"CHUNB","SIM","SIM","Palmas","-10.18914","-48.10853",NA,"G. amarali Clade F","38","KM283293/ KM283333"
+"134","15767","TO","284",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Parana","-12.75","-47.76",NA,"G. amarali",NA,NA
+"135","15743","TO","284",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Parana","-12.75","-47.76",NA,"G. amarali",NA,NA
+"136","33569","TO","284",NA,NA,NA,NA,NA,NA,NA,"CHUNB",NA,"SIM","Parana","-12.75309","-47.75906",7,"G. amarali",NA,NA
+"137","15782","TO","284",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Parana","-12.75","-47.76",NA,"G. amarali",NA,NA
+"138","15780","TO","284",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Parana","-12.75","-47.76",NA,"G. amarali",NA,NA
+"139","37125","TO","289",NA,NA,NA,NA,NA,NA,NA,"CHUNB","SIM","SIM","Parana","-12.75309","-47.75906",7,"G. amarali Clade G","42","KM283303/ KM283349"
+"140","15869","TO","289",NA,NA,NA,NA,NA,NA,NA,"GRC","SIM",NA,"Paranã","-12.75","-47.76",NA,"G. amarali Clade G","40","KM283301/ KM283341"
+"141","15799","TO","284",NA,NA,NA,NA,5219.43,390,"SIM",NA,NA,NA,"Parana","-12.75","-47.76",NA,"G. amarali",NA,NA
+"142","37128","TO","289",NA,NA,NA,NA,NA,NA,NA,"CHUNB","SIM","SIM","Parana","-12.75309","-47.75906",7,"G. amarali Clade G","41","KM283304/ KM283350"
+"143","15795","TO","284",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Parana","-12.75","-47.76",NA,"G. amarali",NA,NA
+"144","15797","TO","284",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Parana","-12.75","-47.76",NA,"G. amarali",NA,NA
+"145","15781","TO","289",NA,NA,NA,NA,NA,NA,NA,"GRC","SIM",NA,"Paranã","-12.75","-47.76",NA,"G. amarali Clade G","39","KM283300/ KM283340"
+"146","37090","TO","289",NA,NA,NA,NA,NA,NA,NA,"CHUNB","SIM","SIM","Parana","-12.75309","-47.75906",7,"G. amarali Clade G","41","KM283302/ KM283348"
+"147","24311","TO","293",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Peixe","-11.88","-48.77",NA,"G. amarali",NA,NA
+"148","3949","TO","321",NA,NA,NA,NA,NA,NA,NA,"MRT","SIM",NA,"Peixe","-12.03","-48.35",NA,"G. amarali Clade H","43","KM283323/ KM283409"
+"149","52612","TO","326",NA,NA,NA,NA,NA,NA,NA,"CHUNB",NA,"SIM","Peixe","-12.03333333","-48.35",6,"G. amarali",NA,NA
+"150","52609","TO","326",NA,NA,NA,NA,NA,NA,NA,"CHUNB",NA,"SIM","Peixe","-12.03333333","-48.35",6,"G. amarali",NA,NA
+"151","4459","TO","321",NA,NA,NA,NA,NA,NA,NA,"MRT","SIM",NA,"Peixe","-12.03","-48.35",NA,"G. amarali Clade H","44","KM283254/ KM283410"
+"152","62666","TO","326",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Peixe","-12.03","-48.35",NA,"G. amarali",NA,NA
+"153","24310","TO","326",NA,NA,NA,NA,4633.62,391,"SIM","GRC",NA,NA,"Peixe","-12.03","-48.35",NA,"G. amarali",NA,NA
+"154","6435","TO","323",NA,NA,NA,NA,2034.43,390,"SIM","MRT","SIM",NA,"São Salvador","-12.73","-48.23",NA,"G. amarali Clade H","50","KM283325/ KM283412"
+"155","6428","TO","323",NA,NA,NA,NA,NA,NA,NA,"MRT","SIM",NA,"São Salvador","-12.73","-48.23",NA,"G. amarali Clade H","49","KM283324/ KM283411"
+"156","58348","MG","464",NA,NA,NA,NA,NA,NA,NA,"CHUNB","SIM",NA,"Matias Cardoso","-14.99","-43.95",NA,"Matias Cardoso","22","KM283276/ KM283381"
+"157","58323","MG","464",NA,NA,NA,NA,NA,NA,NA,"CHUNB","SIM",NA,"Matias Cardoso","-14.99","-43.95",NA,"Matias Cardoso","22","KM283274/ KM283375"
+"158","58335","MG","464",NA,NA,NA,NA,2319.71,390,"SIM","CHUNB","SIM",NA,"Matias Cardoso","-14.99","-43.95",NA,"Matias Cardoso","22","KM283275/ KM283376"
+"159","56537","CE","406",NA,NA,NA,NA,NA,NA,NA,"CHUNB","SIM",NA,"Milagres","-7.29","-38.94",NA,"G. geckoides","55","KM283326/ KM283403"
+"160"," 61904","CE","755",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Santana do Cariri","-7.21","-39.73",NA,"G. geckoides",NA,NA
+"161","58341","MG","477",NA,NA,NA,NA,NA,NA,NA,"CHUNB","SIM",NA,"Manga","-14.84","-43.99",NA,"Manga","20","KM283270/ KM283380"
+"162","58337","MG","477",NA,NA,NA,NA,NA,NA,NA,"CHUNB","SIM",NA,"Manga","-14.84","-43.99",NA,"Manga","20","KM283268/ KM283378"
+"163","58336","MG","477",NA,NA,NA,NA,2496.56,389,"SIM",NA,"SIM",NA,"Manga","-14.84","-43.99",NA,"Manga","20","KM283267/ KM283377"
+"164","58338","MG","477",NA,NA,NA,NA,NA,NA,NA,"CHUNB","SIM",NA,"Manga","-14.84","-43.99",NA,"Manga","20","KM283269/ KM283379"
+"165"," 61946","PA","627",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Junco do SeridÃ³","-7","-36.71",NA,"G. geckoides",NA,NA
+"166","56643","PB","90",NA,NA,NA,NA,NA,NA,NA,"CHUNB","SIM",NA,"Mamanguape","-6.8","-35.2",NA,"G. geckoides","54","KM283264/ KM283400"
+"167","56644","PB","90",NA,NA,NA,NA,2029.24,385,"SIM","CHUNB","SIM",NA,"Mamanguape","-6.8","-35.2",NA,"G. geckoides","54","KM283265/ KM283401"
+"168","56645","PB","90",NA,NA,NA,NA,NA,NA,NA,"CHUNB","SIM",NA,"Mamanguape","-6.8","-35.2",NA,"G. geckoides","54","KM283266/ KM283402"
+"169","56697","PB","90",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Mamanguape","-6.8","-35.2",NA,"G. geckoides",NA,NA
+"170"," 61905","PE","631",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Exu","-7.43","-39.75",NA,"G. geckoides",NA,NA
+"171","63203","MT","292",NA,NA,NA,NA,NA,NA,NA,"GRC","SIM",NA,"Nova Xavantina","-14.69","-52.34",NA,"G. amarali Clade B","34","KM283328/ KM283385"
+"172","889","TO","310",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Barra do Garças","-15.88","-52.25",NA,"G. amarali",NA,NA
+"173","196","MA","175",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Carolina","-7.37","-47.43",NA,"G. amarali",NA,NA
+"174","197","MA","175",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Carolina","-7.37","-47.43",NA,"G. amarali",NA,NA
+"175","642","MA","147",NA,NA,NA,NA,NA,NA,NA,"ESTR",NA,"SIM","Estreito","-6.5625","-47.4525",12,"G. amarali",NA,NA
+"176","12450",NA,NA,"SIM","Gymnodactylus darwinii",NA,NA,NA,NA,NA,"MTR",NA,NA,NA,NA,NA,NA,"G. amarali",NA,NA
+"177","16143",NA,NA,"SIM","Gymnodactylus sp1",NA,NA,NA,NA,NA,"MTR",NA,NA,NA,NA,NA,NA,"G. amarali",NA,NA
+"178","1327",NA,NA,"SIM","Gymnodactylus sp2",NA,NA,NA,NA,NA,"UFMG",NA,NA,NA,NA,NA,NA,"G. amarali",NA,NA
+"179","2175",NA,NA,"SIM","Gymnodactylus sp3",NA,NA,NA,NA,NA,"UFMG",NA,NA,NA,NA,NA,NA,"G. amarali",NA,NA
+"180","3288",NA,NA,"SIM","Gymnodactylus geckoides",NA,NA,NA,NA,NA,"LACV",NA,NA,NA,NA,NA,NA,"G. amarali",NA,NA
+"181","3236",NA,NA,"SIM","B","SIM","SIM",NA,NA,NA,"LACV",NA,NA,NA,NA,NA,NA,"G. amarali",NA,NA
+"182","11514",NA,NA,"SIM","F","SIM","SIM",NA,NA,NA,"CHUNB",NA,"SIM","Palmas","-10.18914","-48.10853",NA,"G. amarali",NA,NA
+"183","37088",NA,NA,"SIM","G","SIM","SIM",NA,NA,NA,"CHUNB",NA,"SIM","Parana","-12.75309","-47.75906",7,"G. amarali",NA,NA
+"184","37148",NA,NA,NA,"A","SIM","SIM",NA,NA,NA,"CHUNB",NA,"SIM","SaoDomingos","-13.44979","-46.4481",1,"G. amarali",NA,NA
+"185","3233",NA,NA,NA,"B","SIM","SIM",NA,NA,NA,"LACV",NA,NA,NA,NA,NA,NA,"G. amarali",NA,NA
+"186","833",NA,NA,NA,"D","SIM","SIM",NA,NA,NA,"CHUNB",NA,NA,NA,NA,NA,NA,"G. amarali",NA,NA
+"187","28223",NA,NA,NA,"H","SIM","SIM",NA,NA,NA,"CHUNB",NA,"SIM","Mateiros","-10.70224","-46.41278",10,"G. amarali",NA,NA
+"188","11515",NA,NA,NA,"H","SIM","SIM",NA,NA,NA,"CHUNB",NA,"SIM","Palmas","-10.18914","-48.10853",NA,"G. amarali",NA,NA
+"189","38913",NA,NA,NA,NA,"SIM","SIM",NA,NA,NA,"CHUNB",NA,"SIM","PortoAlegreTocantins","-11.6","-47.04",NA,"G. amarali",NA,NA
+"190","42411",NA,NA,NA,NA,NA,"SIM",NA,NA,NA,"CHUNB",NA,"SIM","Almas","-11.473671","-47.121126",9,"G. amarali",NA,NA
+"191","42421",NA,NA,NA,NA,NA,"SIM",NA,NA,NA,"CHUNB",NA,"SIM","Almas","-11.473671","-47.121126",9,"G. amarali",NA,NA
+"192","45319",NA,NA,NA,NA,NA,"SIM",NA,NA,NA,"CHUNB",NA,"SIM","Caseara","-9.37229","-49.84295",5,"G. amarali",NA,NA
+"193","45329",NA,NA,NA,NA,NA,"SIM",NA,NA,NA,"CHUNB",NA,"SIM","Caseara","-9.37229","-49.84295",5,"G. amarali",NA,NA
+"194","28218",NA,NA,NA,NA,NA,"SIM",NA,NA,NA,"CHUNB",NA,"SIM","Mateiros","-10.70224","-46.41278",10,"G. amarali",NA,NA
+"195","28225",NA,NA,NA,NA,NA,"SIM",NA,NA,NA,"CHUNB",NA,"SIM","Mateiros","-10.70224","-46.41278",10,"G. amarali",NA,NA
+"196","28233",NA,NA,NA,NA,NA,"SIM",NA,NA,NA,"CHUNB",NA,"SIM","Mateiros","-10.70224","-46.41278",10,"G. amarali",NA,NA
+"197","845",NA,NA,NA,NA,NA,"SIM",NA,NA,NA,"CHUNB",NA,NA,NA,NA,NA,NA,"G. amarali",NA,NA
+"198","854",NA,NA,NA,NA,NA,"SIM",NA,NA,NA,"CHUNB",NA,NA,NA,NA,NA,NA,"G. amarali",NA,NA
+"199","856",NA,NA,NA,NA,NA,"SIM",NA,NA,NA,"CHUNB",NA,NA,NA,NA,NA,NA,"G. amarali",NA,NA
+"200","11181",NA,NA,NA,NA,NA,"SIM",NA,NA,NA,"CHUNB",NA,"SIM","Palmas","-10.18914","-48.10853",NA,"G. amarali",NA,NA
+"201","37086",NA,NA,NA,NA,NA,"SIM",NA,NA,NA,"CHUNB",NA,"SIM","Parana","-12.75309","-47.75906",7,"G. amarali",NA,NA
+"202","37152",NA,NA,NA,NA,NA,"SIM",NA,NA,NA,"CHUNB",NA,"SIM","SaoDomingos","-13.44979","-46.4481",1,"G. amarali",NA,NA
+"203","37153",NA,NA,NA,NA,NA,"SIM",NA,NA,NA,"CHUNB",NA,"SIM","SaoDomingos","-13.44979","-46.4481",1,"G. amarali",NA,NA
+"204","37162",NA,NA,NA,NA,NA,"SIM",NA,NA,NA,"CHUNB",NA,"SIM","SaoDomingos","-13.44979","-46.4481",1,"G. amarali",NA,NA
+"205","20900",NA,NA,NA,NA,NA,NA,1790.44,389,"SIM","GRC",NA,NA,NA,NA,NA,NA,"G. amarali",NA,NA
+"206","LAJ215","TO",NA,NA,NA,NA,NA,NA,NA,NA,"LAJ","SIM",NA,"Lajeado",NA,NA,NA,"G. amarali Clade H","19","KM283296/ KM283404"
+"207","958","BA",NA,NA,NA,NA,NA,NA,NA,NA,"LG","SIM",NA,"Porto Seguro",NA,NA,NA,"G. darwinii A","51","AY630388.1/ NA"
+"208","991","BA",NA,NA,NA,NA,NA,NA,NA,NA,"LG","SIM",NA,"Porto Seguro",NA,NA,NA,"G. darwinii A","51","AY630392.1/ NA"
+"209","09443","ES",NA,NA,NA,NA,NA,NA,NA,NA,"CHUNB","SIM",NA,"Presidente Kennedy",NA,NA,NA,"G. darwinii",NA,"NA/ NA"
+"210","09453","ES",NA,NA,NA,NA,NA,NA,NA,NA,"CHUNB","SIM",NA,"Presidente Kennedy",NA,NA,NA,"G. darwinii",NA,"NA/ NA"
+"211","13546","ES",NA,NA,NA,NA,NA,NA,NA,NA,"CHUNB","SIM",NA,"Presidente Kennedy",NA,NA,NA,"G. darwinii",NA,"NA/ NA"
+"212","1740","BA",NA,NA,NA,NA,NA,NA,NA,NA,"MD","SIM",NA,"Una",NA,NA,NA,"G. darwinii B","52","AY630367.1/ NA"
+"213","1742","BA",NA,NA,NA,NA,NA,NA,NA,NA,"MD","SIM",NA,"Una",NA,NA,NA,"G. darwinii B","53","AY630368.1/ NA"
+"214","57388","CE",NA,NA,NA,NA,NA,NA,NA,NA,"CHUNB","SIM",NA,"Tianguá",NA,NA,NA,"P. pollicaris","56","JQ827177.1/ JQ827663.1"
+"215","57389","CE",NA,NA,NA,NA,NA,NA,NA,NA,"CHUNB","SIM",NA,"Tianguá",NA,NA,NA,"P. pollicaris","57","JQ827190.1/ JQ827664.1"
+"216","57403","CE",NA,NA,NA,NA,NA,NA,NA,NA,"CHUNB","SIM",NA,"Tianguá",NA,NA,NA,"P. pollicaris","58","JQ827186.1/ JQ827667.1"
+"217","42420",NA,NA,NA,NA,NA,NA,NA,NA,NA,"CHUNB",NA,"SIM","Almas","-11.473671","-47.121126",9,"G. amarali",NA,NA
+"218","42426",NA,NA,NA,NA,NA,NA,NA,NA,NA,"CHUNB",NA,"SIM","Almas","-11.473671","-47.121126",9,"G. amarali",NA,NA
+"219","42418",NA,NA,NA,NA,NA,NA,NA,NA,NA,"CHUNB",NA,"SIM","Almas","-11.473671","-47.121126",9,"G. amarali",NA,NA
+"220","42414",NA,NA,NA,NA,NA,NA,NA,NA,NA,"CHUNB",NA,"SIM","Almas","-11.473671","-47.121126",9,"G. amarali",NA,NA
+"221","42417",NA,NA,NA,NA,NA,NA,NA,NA,NA,"CHUNB",NA,"SIM","Almas","-11.473671","-47.121126",9,"G. amarali",NA,NA
+"222","42423",NA,NA,NA,NA,NA,NA,NA,NA,NA,"CHUNB",NA,"SIM","Almas","-11.473671","-47.121126",9,"G. amarali",NA,NA
+"223","42422",NA,NA,NA,NA,NA,NA,NA,NA,NA,"CHUNB",NA,"SIM","Almas","-11.473671","-47.121126",9,"G. amarali",NA,NA
+"224","42419",NA,NA,NA,NA,NA,NA,NA,NA,NA,"CHUNB",NA,"SIM","Almas","-11.473671","-47.121126",9,"G. amarali",NA,NA
+"225","42416",NA,NA,NA,NA,NA,NA,NA,NA,NA,"CHUNB",NA,"SIM","Almas","-11.473671","-47.121126",9,"G. amarali",NA,NA
+"226","42412",NA,NA,NA,NA,NA,NA,NA,NA,NA,"CHUNB",NA,"SIM","Almas","-11.473671","-47.121126",9,"G. amarali",NA,NA
+"227","42425",NA,NA,NA,NA,NA,NA,NA,NA,NA,"CHUNB",NA,"SIM","Almas","-11.473671","-47.121126",9,"G. amarali",NA,NA
+"228","42413",NA,NA,NA,NA,NA,NA,NA,NA,NA,"CHUNB",NA,"SIM","Almas","-11.473671","-47.121126",9,"G. amarali",NA,NA
+"229","42415",NA,NA,NA,NA,NA,NA,NA,NA,NA,"CHUNB",NA,"SIM","Almas","-11.473671","-47.121126",9,"G. amarali",NA,NA
+"230","42424",NA,NA,NA,NA,NA,NA,NA,NA,NA,"CHUNB",NA,"SIM","Almas","-11.473671","-47.121126",9,"G. amarali",NA,NA
+"231","12436",NA,NA,NA,NA,NA,NA,NA,NA,NA,"CHUNB",NA,"SIM","AltoParaiso","-14.16222","-47.52332",3,"G. amarali",NA,NA
+"232","403",NA,NA,NA,NA,NA,NA,NA,NA,NA,"CHUNB",NA,"SIM","AltoParaiso","-14.16222","-47.52332",3,"G. amarali",NA,NA
+"233","402",NA,NA,NA,NA,NA,NA,NA,NA,NA,"CHUNB",NA,"SIM","AltoParaiso","-14.16222","-47.52332",3,"G. amarali",NA,NA
+"234","407",NA,NA,NA,NA,NA,NA,NA,NA,NA,"CHUNB",NA,"SIM","AltoParaiso","-14.16222","-47.52332",3,"G. amarali",NA,NA
+"235","410",NA,NA,NA,NA,NA,NA,NA,NA,NA,"CHUNB",NA,"SIM","AltoParaiso","-14.16222","-47.52332",3,"G. amarali",NA,NA
+"236","413",NA,NA,NA,NA,NA,NA,NA,NA,NA,"CHUNB",NA,"SIM","AltoParaiso","-14.16222","-47.52332",3,"G. amarali",NA,NA
+"237","408",NA,NA,NA,NA,NA,NA,NA,NA,NA,"CHUNB",NA,"SIM","AltoParaiso","-14.16222","-47.52332",3,"G. amarali",NA,NA
+"238","401",NA,NA,NA,NA,NA,NA,NA,NA,NA,"CHUNB",NA,"SIM","AltoParaiso","-14.16222","-47.52332",3,"G. amarali",NA,NA
+"239","404",NA,NA,NA,NA,NA,NA,NA,NA,NA,"CHUNB",NA,"SIM","AltoParaiso","-14.16222","-47.52332",3,"G. amarali",NA,NA
+"240","411",NA,NA,NA,NA,NA,NA,NA,NA,NA,"CHUNB",NA,"SIM","AltoParaiso","-14.16222","-47.52332",3,"G. amarali",NA,NA
+"241","406",NA,NA,NA,NA,NA,NA,NA,NA,NA,"CHUNB",NA,"SIM","AltoParaiso","-14.16222","-47.52332",3,"G. amarali",NA,NA
+"242","12435",NA,NA,NA,NA,NA,NA,NA,NA,NA,"CHUNB",NA,"SIM","AltoParaiso","-14.16222","-47.52332",3,"G. amarali",NA,NA
+"243","400",NA,NA,NA,NA,NA,NA,NA,NA,NA,"CHUNB",NA,"SIM","AltoParaiso","-14.16222","-47.52332",3,"G. amarali",NA,NA
+"244","409",NA,NA,NA,NA,NA,NA,NA,NA,NA,"CHUNB",NA,"SIM","AltoParaiso","-14.16222","-47.52332",3,"G. amarali",NA,NA
+"245","17522",NA,NA,NA,NA,NA,NA,NA,NA,NA,"CHUNB",NA,"SIM","AltoParaiso","-14.16222","-47.52332",3,"G. amarali",NA,NA
+"246","12434",NA,NA,NA,NA,NA,NA,NA,NA,NA,"CHUNB",NA,"SIM","AltoParaiso","-14.16222","-47.52332",3,"G. amarali",NA,NA
+"247","405",NA,NA,NA,NA,NA,NA,NA,NA,NA,"CHUNB",NA,"SIM","AltoParaiso","-14.16222","-47.52332",3,"G. amarali",NA,NA
+"248","17521",NA,NA,NA,NA,NA,NA,NA,NA,NA,"CHUNB",NA,"SIM","AltoParaiso","-14.16222","-47.52332",3,"G. amarali",NA,NA
+"249","414",NA,NA,NA,NA,NA,NA,NA,NA,NA,"CHUNB",NA,"SIM","AltoParaiso","-14.16222","-47.52332",3,"G. amarali",NA,NA
+"250","415",NA,NA,NA,NA,NA,NA,NA,NA,NA,"CHUNB",NA,"SIM","AltoParaiso","-14.16222","-47.52332",3,"G. amarali",NA,NA
+"251","416",NA,NA,NA,NA,NA,NA,NA,NA,NA,"CHUNB",NA,"SIM","AltoParaiso","-14.16222","-47.52332",3,"G. amarali",NA,NA
+"252","412",NA,NA,NA,NA,NA,NA,NA,NA,NA,"CHUNB",NA,"SIM","AltoParaiso","-14.16222","-47.52332",3,"G. amarali",NA,NA
+"253","417",NA,NA,NA,NA,NA,NA,NA,NA,NA,"CHUNB",NA,"SIM","AltoParaiso","-14.16222","-47.52332",3,"G. amarali",NA,NA
+"254","93075",NA,NA,NA,NA,NA,NA,NA,NA,NA,"CHUNB",NA,"SIM","AltoParnaiba","-9.1","-45.95",NA,"G. amarali",NA,NA
+"255","78736",NA,NA,NA,NA,NA,NA,NA,NA,NA,"MZUSP",NA,"SIM","BarradoGarcas","-15.88333333","-52.25",4,"G. amarali",NA,NA
+"256","78735",NA,NA,NA,NA,NA,NA,NA,NA,NA,"MZUSP",NA,"SIM","BarradoGarcas","-15.88333333","-52.25",4,"G. amarali",NA,NA
+"257","78732",NA,NA,NA,NA,NA,NA,NA,NA,NA,"MZUSP",NA,"SIM","BarradoGarcas","-15.88333333","-52.25",4,"G. amarali",NA,NA
+"258","78733",NA,NA,NA,NA,NA,NA,NA,NA,NA,"MZUSP",NA,"SIM","BarradoGarcas","-15.88333333","-52.25",4,"G. amarali",NA,NA
+"259","78738",NA,NA,NA,NA,NA,NA,NA,NA,NA,"MZUSP",NA,"SIM","BarradoGarcas","-15.88333333","-52.25",4,"G. amarali",NA,NA
+"260","78737",NA,NA,NA,NA,NA,NA,NA,NA,NA,"MZUSP",NA,"SIM","BarradoGarcas","-15.88333333","-52.25",4,"G. amarali",NA,NA
+"261","78734",NA,NA,NA,NA,NA,NA,NA,NA,NA,"MZUSP",NA,"SIM","BarradoGarcas","-15.88333333","-52.25",4,"G. amarali",NA,NA
+"262","4020",NA,NA,NA,NA,NA,NA,NA,NA,NA,"MZUSP",NA,"SIM","BarraRioSaoDomingos","-13.24","-47.12",NA,"G. amarali",NA,NA
+"263","4030",NA,NA,NA,NA,NA,NA,NA,NA,NA,"MZUSP",NA,"SIM","BarraRioSaoDomingos","-13.24","-47.12",NA,"G. amarali",NA,NA
+"264","4021",NA,NA,NA,NA,NA,NA,NA,NA,NA,"MZUSP",NA,"SIM","BarraRioSaoDomingos","-13.24","-47.12",NA,"G. amarali",NA,NA
+"265","4007",NA,NA,NA,NA,NA,NA,NA,NA,NA,"MZUSP",NA,"SIM","BarraRioSaoDomingos","-13.24","-47.12",NA,"G. amarali",NA,NA
+"266","4033",NA,NA,NA,NA,NA,NA,NA,NA,NA,"MZUSP",NA,"SIM","BarraRioSaoDomingos","-13.24","-47.12",NA,"G. amarali",NA,NA
+"267","4026",NA,NA,NA,NA,NA,NA,NA,NA,NA,"MZUSP",NA,"SIM","BarraRioSaoDomingos","-13.24","-47.12",NA,"G. amarali",NA,NA
+"268","4015",NA,NA,NA,NA,NA,NA,NA,NA,NA,"MZUSP",NA,"SIM","BarraRioSaoDomingos","-13.24","-47.12",NA,"G. amarali",NA,NA
+"269","4013",NA,NA,NA,NA,NA,NA,NA,NA,NA,"MZUSP",NA,"SIM","BarraRioSaoDomingos","-13.24","-47.12",NA,"G. amarali",NA,NA
+"270","4017",NA,NA,NA,NA,NA,NA,NA,NA,NA,"MZUSP",NA,"SIM","BarraRioSaoDomingos","-13.24","-47.12",NA,"G. amarali",NA,NA
+"271","4019",NA,NA,NA,NA,NA,NA,NA,NA,NA,"MZUSP",NA,"SIM","BarraRioSaoDomingos","-13.24","-47.12",NA,"G. amarali",NA,NA
+"272","4032",NA,NA,NA,NA,NA,NA,NA,NA,NA,"MZUSP",NA,"SIM","BarraRioSaoDomingos","-13.24","-47.12",NA,"G. amarali",NA,NA
+"273","4008",NA,NA,NA,NA,NA,NA,NA,NA,NA,"MZUSP",NA,"SIM","BarraRioSaoDomingos","-13.24","-47.12",NA,"G. amarali",NA,NA
+"274","4006",NA,NA,NA,NA,NA,NA,NA,NA,NA,"MZUSP",NA,"SIM","BarraRioSaoDomingos","-13.24","-47.12",NA,"G. amarali",NA,NA
+"275","4018",NA,NA,NA,NA,NA,NA,NA,NA,NA,"MZUSP",NA,"SIM","BarraRioSaoDomingos","-13.24","-47.12",NA,"G. amarali",NA,NA
+"276","4031",NA,NA,NA,NA,NA,NA,NA,NA,NA,"MZUSP",NA,"SIM","BarraRioSaoDomingos","-13.24","-47.12",NA,"G. amarali",NA,NA
+"277","4025",NA,NA,NA,NA,NA,NA,NA,NA,NA,"MZUSP",NA,"SIM","BarraRioSaoDomingos","-13.24","-47.12",NA,"G. amarali",NA,NA
+"278","4016",NA,NA,NA,NA,NA,NA,NA,NA,NA,"MZUSP",NA,"SIM","BarraRioSaoDomingos","-13.24","-47.12",NA,"G. amarali",NA,NA
+"279","4029",NA,NA,NA,NA,NA,NA,NA,NA,NA,"MZUSP",NA,"SIM","BarraRioSaoDomingos","-13.24","-47.12",NA,"G. amarali",NA,NA
+"280","4009",NA,NA,NA,NA,NA,NA,NA,NA,NA,"MZUSP",NA,"SIM","BarraRioSaoDomingos","-13.24","-47.12",NA,"G. amarali",NA,NA
+"281","4010",NA,NA,NA,NA,NA,NA,NA,NA,NA,"MZUSP",NA,"SIM","BarraRioSaoDomingos","-13.24","-47.12",NA,"G. amarali",NA,NA
+"282","4014",NA,NA,NA,NA,NA,NA,NA,NA,NA,"MZUSP",NA,"SIM","BarraRioSaoDomingos","-13.24","-47.12",NA,"G. amarali",NA,NA
+"283","4022",NA,NA,NA,NA,NA,NA,NA,NA,NA,"MZUSP",NA,"SIM","BarraRioSaoDomingos","-13.24","-47.12",NA,"G. amarali",NA,NA
+"284","4011",NA,NA,NA,NA,NA,NA,NA,NA,NA,"MZUSP",NA,"SIM","BarraRioSaoDomingos","-13.24","-47.12",NA,"G. amarali",NA,NA
+"285","4028",NA,NA,NA,NA,NA,NA,NA,NA,NA,"MZUSP",NA,"SIM","BarraRioSaoDomingos","-13.24","-47.12",NA,"G. amarali",NA,NA
+"286","4027",NA,NA,NA,NA,NA,NA,NA,NA,NA,"MZUSP",NA,"SIM","BarraRioSaoDomingos","-13.24","-47.12",NA,"G. amarali",NA,NA
+"287","4012",NA,NA,NA,NA,NA,NA,NA,NA,NA,"MZUSP",NA,"SIM","BarraRioSaoDomingos","-13.24","-47.12",NA,"G. amarali",NA,NA
+"288","37296",NA,NA,NA,NA,NA,NA,NA,NA,NA,"CHUNB",NA,"SIM","BomJesusTocantins","-8.96","-48.16",NA,"G. amarali",NA,NA
+"289","67156",NA,NA,NA,NA,NA,NA,NA,NA,NA,"MZUSP",NA,"SIM","Buritis","-15.61777778","-46.42333333",NA,"G. amarali",NA,NA
+"290","67155",NA,NA,NA,NA,NA,NA,NA,NA,NA,"MZUSP",NA,"SIM","Buritis","-15.61777778","-46.42333333",NA,"G. amarali",NA,NA
+"291","4004",NA,NA,NA,NA,NA,NA,NA,NA,NA,"MZUSP",NA,"SIM","CanaBrava","-13.50833333","-48.35555556",NA,"G. amarali",NA,NA
+"292","4000",NA,NA,NA,NA,NA,NA,NA,NA,NA,"MZUSP",NA,"SIM","CanaBrava","-13.50833333","-48.35555556",NA,"G. amarali",NA,NA
+"293","4003",NA,NA,NA,NA,NA,NA,NA,NA,NA,"MZUSP",NA,"SIM","CanaBrava","-13.50833333","-48.35555556",NA,"G. amarali",NA,NA
+"294","4002",NA,NA,NA,NA,NA,NA,NA,NA,NA,"MZUSP",NA,"SIM","CanaBrava","-13.50833333","-48.35555556",NA,"G. amarali",NA,NA
+"295","4001",NA,NA,NA,NA,NA,NA,NA,NA,NA,"MZUSP",NA,"SIM","CanaBrava","-13.50833333","-48.35555556",NA,"G. amarali",NA,NA
+"296","4005",NA,NA,NA,NA,NA,NA,NA,NA,NA,"MZUSP",NA,"SIM","CanaBrava","-13.50833333","-48.35555556",NA,"G. amarali",NA,NA
+"297","52008",NA,NA,NA,NA,NA,NA,NA,NA,NA,"CHUNB",NA,"SIM","Carolina","-7.366666667","-47.43333333",12,"G. amarali",NA,NA
+"298","7116",NA,NA,NA,NA,NA,NA,NA,NA,NA,"MZUSP",NA,"SIM","Carolina","-7.366666667","-47.43333333",12,"G. amarali",NA,NA
+"299","7115",NA,NA,NA,NA,NA,NA,NA,NA,NA,"MZUSP",NA,"SIM","Carolina","-7.366666667","-47.43333333",12,"G. amarali",NA,NA
+"300","45316",NA,NA,NA,NA,NA,NA,NA,NA,NA,"CHUNB",NA,"SIM","Caseara","-9.37229","-49.84295",5,"G. amarali",NA,NA
+"301","45304",NA,NA,NA,NA,NA,NA,NA,NA,NA,"CHUNB",NA,"SIM","Caseara","-9.37229","-49.84295",5,"G. amarali",NA,NA
+"302","45322",NA,NA,NA,NA,NA,NA,NA,NA,NA,"CHUNB",NA,"SIM","Caseara","-9.37229","-49.84295",5,"G. amarali",NA,NA
+"303","45328",NA,NA,NA,NA,NA,NA,NA,NA,NA,"CHUNB",NA,"SIM","Caseara","-9.37229","-49.84295",5,"G. amarali",NA,NA
+"304","45334",NA,NA,NA,NA,NA,NA,NA,NA,NA,"CHUNB",NA,"SIM","Caseara","-9.37229","-49.84295",5,"G. amarali",NA,NA
+"305","45326",NA,NA,NA,NA,NA,NA,NA,NA,NA,"CHUNB",NA,"SIM","Caseara","-9.37229","-49.84295",5,"G. amarali",NA,NA
+"306","45330",NA,NA,NA,NA,NA,NA,NA,NA,NA,"CHUNB",NA,"SIM","Caseara","-9.37229","-49.84295",5,"G. amarali",NA,NA
+"307","45335",NA,NA,NA,NA,NA,NA,NA,NA,NA,"CHUNB",NA,"SIM","Caseara","-9.37229","-49.84295",5,"G. amarali",NA,NA
+"308","45333",NA,NA,NA,NA,NA,NA,NA,NA,NA,"CHUNB",NA,"SIM","Caseara","-9.37229","-49.84295",5,"G. amarali",NA,NA
+"309","45302",NA,NA,NA,NA,NA,NA,NA,NA,NA,"CHUNB",NA,"SIM","Caseara","-9.37229","-49.84295",5,"G. amarali",NA,NA
+"310","45314",NA,NA,NA,NA,NA,NA,NA,NA,NA,"CHUNB",NA,"SIM","Caseara","-9.37229","-49.84295",5,"G. amarali",NA,NA
+"311","45309",NA,NA,NA,NA,NA,NA,NA,NA,NA,"CHUNB",NA,"SIM","Caseara","-9.37229","-49.84295",5,"G. amarali",NA,NA
+"312","45305",NA,NA,NA,NA,NA,NA,NA,NA,NA,"CHUNB",NA,"SIM","Caseara","-9.37229","-49.84295",5,"G. amarali",NA,NA
+"313","45306",NA,NA,NA,NA,NA,NA,NA,NA,NA,"CHUNB",NA,"SIM","Caseara","-9.37229","-49.84295",5,"G. amarali",NA,NA
+"314","45331",NA,NA,NA,NA,NA,NA,NA,NA,NA,"CHUNB",NA,"SIM","Caseara","-9.37229","-49.84295",5,"G. amarali",NA,NA
+"315","45317",NA,NA,NA,NA,NA,NA,NA,NA,NA,"CHUNB",NA,"SIM","Caseara","-9.37229","-49.84295",5,"G. amarali",NA,NA
+"316","45327",NA,NA,NA,NA,NA,NA,NA,NA,NA,"CHUNB",NA,"SIM","Caseara","-9.37229","-49.84295",5,"G. amarali",NA,NA
+"317","45332",NA,NA,NA,NA,NA,NA,NA,NA,NA,"CHUNB",NA,"SIM","Caseara","-9.37229","-49.84295",5,"G. amarali",NA,NA
+"318","45311",NA,NA,NA,NA,NA,NA,NA,NA,NA,"CHUNB",NA,"SIM","Caseara","-9.37229","-49.84295",5,"G. amarali",NA,NA
+"319","45310",NA,NA,NA,NA,NA,NA,NA,NA,NA,"CHUNB",NA,"SIM","Caseara","-9.37229","-49.84295",5,"G. amarali",NA,NA
+"320","45307",NA,NA,NA,NA,NA,NA,NA,NA,NA,"CHUNB",NA,"SIM","Caseara","-9.37229","-49.84295",5,"G. amarali",NA,NA
+"321","45313",NA,NA,NA,NA,NA,NA,NA,NA,NA,"CHUNB",NA,"SIM","Caseara","-9.37229","-49.84295",5,"G. amarali",NA,NA
+"322","45323",NA,NA,NA,NA,NA,NA,NA,NA,NA,"CHUNB",NA,"SIM","Caseara","-9.37229","-49.84295",5,"G. amarali",NA,NA
+"323","45325",NA,NA,NA,NA,NA,NA,NA,NA,NA,"CHUNB",NA,"SIM","Caseara","-9.37229","-49.84295",5,"G. amarali",NA,NA
+"324","45312",NA,NA,NA,NA,NA,NA,NA,NA,NA,"CHUNB",NA,"SIM","Caseara","-9.37229","-49.84295",5,"G. amarali",NA,NA
+"325","45315",NA,NA,NA,NA,NA,NA,NA,NA,NA,"CHUNB",NA,"SIM","Caseara","-9.37229","-49.84295",5,"G. amarali",NA,NA
+"326","45320",NA,NA,NA,NA,NA,NA,NA,NA,NA,"CHUNB",NA,"SIM","Caseara","-9.37229","-49.84295",5,"G. amarali",NA,NA
+"327","45308",NA,NA,NA,NA,NA,NA,NA,NA,NA,"CHUNB",NA,"SIM","Caseara","-9.37229","-49.84295",5,"G. amarali",NA,NA
+"328","45303",NA,NA,NA,NA,NA,NA,NA,NA,NA,"CHUNB",NA,"SIM","Caseara","-9.37229","-49.84295",5,"G. amarali",NA,NA
+"329","83033",NA,NA,NA,NA,NA,NA,NA,NA,NA,"MZUSP",NA,"SIM","Cocalinho","-14.37444444","-51.00222222",NA,"G. amarali",NA,NA
+"330","36309",NA,NA,NA,NA,NA,NA,NA,NA,NA,"CHUNB",NA,"SIM","Cocalzinho","-15.79","-48.77",NA,"G. amarali",NA,NA
+"331","44708",NA,NA,NA,NA,NA,NA,NA,NA,NA,"CHUNB",NA,"SIM","ColinasdoSul","-14.15","-48.07",2,"G. amarali",NA,NA
+"332","50402",NA,NA,NA,NA,NA,NA,NA,NA,NA,"CHUNB",NA,"SIM","ColinasdoSul","-14.15","-48.07",2,"G. amarali",NA,NA
+"333","48337",NA,NA,NA,NA,NA,NA,NA,NA,NA,"CHUNB",NA,"SIM","ColinasdoSul","-14.15","-48.07",2,"G. amarali",NA,NA
+"334","866",NA,NA,NA,NA,NA,NA,NA,NA,NA,"CHUNB",NA,"SIM","Coribe","-13.82","-44.45",NA,"G. amarali",NA,NA
+"335","33562",NA,NA,NA,NA,NA,NA,NA,NA,NA,"CHUNB",NA,"SIM","Dianopolis","-11.62","-46.82",NA,"G. amarali",NA,NA
+"336","1309",NA,NA,NA,NA,NA,NA,NA,NA,NA,"ESTR",NA,"SIM","Estreito","-6.5625","-47.4525",12,"G. amarali",NA,NA
+"337","2080",NA,NA,NA,NA,NA,NA,NA,NA,NA,"CHUNB",NA,"SIM","Estreito","-6.5625","-47.4525",12,"G. amarali",NA,NA
+"338","1410",NA,NA,NA,NA,NA,NA,NA,NA,NA,"ESTR",NA,"SIM","Estreito","-6.5625","-47.4525",12,"G. amarali",NA,NA
+"339","1699",NA,NA,NA,NA,NA,NA,NA,NA,NA,"ESTR",NA,"SIM","Estreito","-6.5625","-47.4525",12,"G. amarali",NA,NA
+"340","1037",NA,NA,NA,NA,NA,NA,NA,NA,NA,"ESTR",NA,"SIM","Estreito","-6.5625","-47.4525",12,"G. amarali",NA,NA
+"341","1092",NA,NA,NA,NA,NA,NA,NA,NA,NA,"ESTR",NA,"SIM","Estreito","-6.5625","-47.4525",12,"G. amarali",NA,NA
+"342","1069",NA,NA,NA,NA,NA,NA,NA,NA,NA,"ESTR",NA,"SIM","Estreito","-6.5625","-47.4525",12,"G. amarali",NA,NA
+"343","99",NA,NA,NA,NA,NA,NA,NA,NA,NA,"CGERV",NA,"SIM","Estreito - CGERV?",NA,NA,NA,"G. amarali",NA,NA
+"344","13",NA,NA,NA,NA,NA,NA,NA,NA,NA,"CGERV",NA,"SIM","Estreito - CGERV?",NA,NA,NA,"G. amarali",NA,NA
+"345","102",NA,NA,NA,NA,NA,NA,NA,NA,NA,"CGERV",NA,"SIM","Estreito - CGERV?",NA,NA,NA,"G. amarali",NA,NA
+"346","75",NA,NA,NA,NA,NA,NA,NA,NA,NA,"CGERV",NA,"SIM","Estreito - CGERV?",NA,NA,NA,"G. amarali",NA,NA
+"347","25",NA,NA,NA,NA,NA,NA,NA,NA,NA,"CGERV",NA,"SIM","Estreito - CGERV?",NA,NA,NA,"G. amarali",NA,NA
+"348","53",NA,NA,NA,NA,NA,NA,NA,NA,NA,"CGERV",NA,"SIM","Estreito - CGERV?",NA,NA,NA,"G. amarali",NA,NA
+"349","50831",NA,NA,NA,NA,NA,NA,NA,NA,NA,"CHUNB",NA,"SIM","Guarai","-8.833333333","-48.51666667",NA,"G. amarali",NA,NA
+"350","57017",NA,NA,NA,NA,NA,NA,NA,NA,NA,"MZUSP",NA,"SIM","Gurupi","-11.71666667","-49.06666667",NA,"G. amarali",NA,NA
+"351","91187",NA,NA,NA,NA,NA,NA,NA,NA,NA,"MZUSP",NA,"SIM","Ipueiras","-11.23333333","-48.46666667",NA,"G. amarali",NA,NA
+"352","91185",NA,NA,NA,NA,NA,NA,NA,NA,NA,"MZUSP",NA,"SIM","Ipueiras","-11.23333333","-48.46666667",NA,"G. amarali",NA,NA
+"353","91184",NA,NA,NA,NA,NA,NA,NA,NA,NA,"MZUSP",NA,"SIM","Ipueiras","-11.23333333","-48.46666667",NA,"G. amarali",NA,NA
+"354","91183",NA,NA,NA,NA,NA,NA,NA,NA,NA,"MZUSP",NA,"SIM","Ipueiras","-11.23333333","-48.46666667",NA,"G. amarali",NA,NA
+"355","91186",NA,NA,NA,NA,NA,NA,NA,NA,NA,"MZUSP",NA,"SIM","Ipueiras","-11.23333333","-48.46666667",NA,"G. amarali",NA,NA
+"356","148",NA,NA,NA,NA,NA,NA,NA,NA,NA,"MTJ",NA,"SIM","Januaria(Peruacu)","-15.12333333","-44.24010556",NA,"G. amarali",NA,NA
+"357","134",NA,NA,NA,NA,NA,NA,NA,NA,NA,"MTJ",NA,"SIM","Januaria(Peruacu)","-15.12333333","-44.24010556",NA,"G. amarali",NA,NA
+"358","299",NA,NA,NA,NA,NA,NA,NA,NA,NA,"CHUNB",NA,"SIM","Januaria(Peruacu)","-15.12333333","-44.24010556",NA,"G. amarali",NA,NA
+"359","223",NA,NA,NA,NA,NA,NA,NA,NA,NA,"MTJ",NA,"SIM","Januaria(Peruacu)","-15.12333333","-44.24010556",NA,"G. amarali",NA,NA
+"360","133",NA,NA,NA,NA,NA,NA,NA,NA,NA,"MTJ",NA,"SIM","Januaria(Peruacu)","-15.12333333","-44.24010556",NA,"G. amarali",NA,NA
+"361","293",NA,NA,NA,NA,NA,NA,NA,NA,NA,"CHUNB",NA,"SIM","Januaria(Peruacu)","-15.12333333","-44.24010556",NA,"G. amarali",NA,NA
+"362","266",NA,NA,NA,NA,NA,NA,NA,NA,NA,"MTJ",NA,"SIM","Januaria(Peruacu)","-15.12333333","-44.24010556",NA,"G. amarali",NA,NA
+"363","260",NA,NA,NA,NA,NA,NA,NA,NA,NA,"MTJ",NA,"SIM","Januaria(Peruacu)","-15.12333333","-44.24010556",NA,"G. amarali",NA,NA
+"364","204",NA,NA,NA,NA,NA,NA,NA,NA,NA,"MTJ",NA,"SIM","Januaria(Peruacu)","-15.12333333","-44.24010556",NA,"G. amarali",NA,NA
+"365","205",NA,NA,NA,NA,NA,NA,NA,NA,NA,"MTJ",NA,"SIM","Januaria(Peruacu)","-15.12333333","-44.24010556",NA,"G. amarali",NA,NA
+"366","217",NA,NA,NA,NA,NA,NA,NA,NA,NA,"MTJ",NA,"SIM","Januaria(Peruacu)","-15.12333333","-44.24010556",NA,"G. amarali",NA,NA
+"367","263",NA,NA,NA,NA,NA,NA,NA,NA,NA,"MTJ",NA,"SIM","Januaria(Peruacu)","-15.12333333","-44.24010556",NA,"G. amarali",NA,NA
+"368","95885",NA,NA,NA,NA,NA,NA,NA,NA,NA,"MZUSP",NA,"SIM","Lajeado(UHE Luis)",NA,NA,11,"G. amarali",NA,NA
+"369","95891",NA,NA,NA,NA,NA,NA,NA,NA,NA,"MZUSP",NA,"SIM","Lajeado(UHE Luis)",NA,NA,11,"G. amarali",NA,NA
+"370","95887",NA,NA,NA,NA,NA,NA,NA,NA,NA,"MZUSP",NA,"SIM","Lajeado(UHE Luis)",NA,NA,11,"G. amarali",NA,NA
+"371","95892",NA,NA,NA,NA,NA,NA,NA,NA,NA,"MZUSP",NA,"SIM","Lajeado(UHE Luis)",NA,NA,11,"G. amarali",NA,NA
+"372","95886",NA,NA,NA,NA,NA,NA,NA,NA,NA,"MZUSP",NA,"SIM","Lajeado(UHE Luis)",NA,NA,11,"G. amarali",NA,NA
+"373","95883",NA,NA,NA,NA,NA,NA,NA,NA,NA,"MZUSP",NA,"SIM","Lajeado(UHE Luis)",NA,NA,11,"G. amarali",NA,NA
+"374","95880",NA,NA,NA,NA,NA,NA,NA,NA,NA,"MZUSP",NA,"SIM","Lajeado(UHE Luis)",NA,NA,11,"G. amarali",NA,NA
+"375","95890",NA,NA,NA,NA,NA,NA,NA,NA,NA,"MZUSP",NA,"SIM","Lajeado(UHE Luis)",NA,NA,11,"G. amarali",NA,NA
+"376","95881",NA,NA,NA,NA,NA,NA,NA,NA,NA,"MZUSP",NA,"SIM","Lajeado(UHE Luis)",NA,NA,11,"G. amarali",NA,NA
+"377","95877",NA,NA,NA,NA,NA,NA,NA,NA,NA,"MZUSP",NA,"SIM","Lajeado(UHE Luis)",NA,NA,11,"G. amarali",NA,NA
+"378","95879",NA,NA,NA,NA,NA,NA,NA,NA,NA,"MZUSP",NA,"SIM","Lajeado(UHE Luis)",NA,NA,11,"G. amarali",NA,NA
+"379","95889",NA,NA,NA,NA,NA,NA,NA,NA,NA,"MZUSP",NA,"SIM","Lajeado(UHE Luis)",NA,NA,11,"G. amarali",NA,NA
+"380","95876",NA,NA,NA,NA,NA,NA,NA,NA,NA,"MZUSP",NA,"SIM","Lajeado(UHE Luis)",NA,NA,11,"G. amarali",NA,NA
+"381","95878",NA,NA,NA,NA,NA,NA,NA,NA,NA,"MZUSP",NA,"SIM","Lajeado(UHE Luis)",NA,NA,11,"G. amarali",NA,NA
+"382","95888",NA,NA,NA,NA,NA,NA,NA,NA,NA,"MZUSP",NA,"SIM","Lajeado(UHE Luis)",NA,NA,11,"G. amarali",NA,NA
+"383","95884",NA,NA,NA,NA,NA,NA,NA,NA,NA,"MZUSP",NA,"SIM","Lajeado(UHE Luis)",NA,NA,11,"G. amarali",NA,NA
+"384","95882",NA,NA,NA,NA,NA,NA,NA,NA,NA,"MZUSP",NA,"SIM","Lajeado(UHE Luis)",NA,NA,11,"G. amarali",NA,NA
+"385","96129",NA,NA,NA,NA,NA,NA,NA,NA,NA,"MZUSP",NA,"SIM","Lajeado(UHE Luis)",NA,NA,11,"G. amarali",NA,NA
+"386","96140",NA,NA,NA,NA,NA,NA,NA,NA,NA,"MZUSP",NA,"SIM","Lajeado(UHE Luis)",NA,NA,11,"G. amarali",NA,NA
+"387","96139",NA,NA,NA,NA,NA,NA,NA,NA,NA,"MZUSP",NA,"SIM","Lajeado(UHE Luis)",NA,NA,11,"G. amarali",NA,NA
+"388","96131",NA,NA,NA,NA,NA,NA,NA,NA,NA,"MZUSP",NA,"SIM","Lajeado(UHE Luis)",NA,NA,11,"G. amarali",NA,NA
+"389","96133",NA,NA,NA,NA,NA,NA,NA,NA,NA,"MZUSP",NA,"SIM","Lajeado(UHE Luis)",NA,NA,11,"G. amarali",NA,NA
+"390","96134",NA,NA,NA,NA,NA,NA,NA,NA,NA,"MZUSP",NA,"SIM","Lajeado(UHE Luis)",NA,NA,11,"G. amarali",NA,NA
+"391","96128",NA,NA,NA,NA,NA,NA,NA,NA,NA,"MZUSP",NA,"SIM","Lajeado(UHE Luis)",NA,NA,11,"G. amarali",NA,NA
+"392","96130",NA,NA,NA,NA,NA,NA,NA,NA,NA,"MZUSP",NA,"SIM","Lajeado(UHE Luis)",NA,NA,11,"G. amarali",NA,NA
+"393","86127",NA,NA,NA,NA,NA,NA,NA,NA,NA,"MZUSP",NA,"SIM","Lajeado(UHE Luis)",NA,NA,11,"G. amarali",NA,NA
+"394","96141",NA,NA,NA,NA,NA,NA,NA,NA,NA,"MZUSP",NA,"SIM","Lajeado(UHE Luis)",NA,NA,11,"G. amarali",NA,NA
+"395","96138",NA,NA,NA,NA,NA,NA,NA,NA,NA,"MZUSP",NA,"SIM","Lajeado(UHE Luis)",NA,NA,11,"G. amarali",NA,NA
+"396","96136",NA,NA,NA,NA,NA,NA,NA,NA,NA,"MZUSP",NA,"SIM","Lajeado(UHE Luis)",NA,NA,11,"G. amarali",NA,NA
+"397","96132",NA,NA,NA,NA,NA,NA,NA,NA,NA,"MZUSP",NA,"SIM","Lajeado(UHE Luis)",NA,NA,11,"G. amarali",NA,NA
+"398","96135",NA,NA,NA,NA,NA,NA,NA,NA,NA,"MZUSP",NA,"SIM","Lajeado(UHE Luis)",NA,NA,11,"G. amarali",NA,NA
+"399","96137",NA,NA,NA,NA,NA,NA,NA,NA,NA,"MZUSP",NA,"SIM","Lajeado(UHE Luis)",NA,NA,11,"G. amarali",NA,NA
+"400","96126",NA,NA,NA,NA,NA,NA,NA,NA,NA,"MZUSP",NA,"SIM","Lajeado(UHE Luis)",NA,NA,11,"G. amarali",NA,NA
+"401","96124",NA,NA,NA,NA,NA,NA,NA,NA,NA,"MZUSP",NA,"SIM","Lajeado(UHE Luis)",NA,NA,11,"G. amarali",NA,NA
+"402","96114",NA,NA,NA,NA,NA,NA,NA,NA,NA,"MZUSP",NA,"SIM","Lajeado(UHE Luis)",NA,NA,11,"G. amarali",NA,NA
+"403","96117",NA,NA,NA,NA,NA,NA,NA,NA,NA,"MZUSP",NA,"SIM","Lajeado(UHE Luis)",NA,NA,11,"G. amarali",NA,NA
+"404","96115",NA,NA,NA,NA,NA,NA,NA,NA,NA,"MZUSP",NA,"SIM","Lajeado(UHE Luis)",NA,NA,11,"G. amarali",NA,NA
+"405","96121",NA,NA,NA,NA,NA,NA,NA,NA,NA,"MZUSP",NA,"SIM","Lajeado(UHE Luis)",NA,NA,11,"G. amarali",NA,NA
+"406","96118",NA,NA,NA,NA,NA,NA,NA,NA,NA,"MZUSP",NA,"SIM","Lajeado(UHE Luis)",NA,NA,11,"G. amarali",NA,NA
+"407","96125",NA,NA,NA,NA,NA,NA,NA,NA,NA,"MZUSP",NA,"SIM","Lajeado(UHE Luis)",NA,NA,11,"G. amarali",NA,NA
+"408","96116",NA,NA,NA,NA,NA,NA,NA,NA,NA,"MZUSP",NA,"SIM","Lajeado(UHE Luis)",NA,NA,11,"G. amarali",NA,NA
+"409","96123",NA,NA,NA,NA,NA,NA,NA,NA,NA,"MZUSP",NA,"SIM","Lajeado(UHE Luis)",NA,NA,11,"G. amarali",NA,NA
+"410","96122",NA,NA,NA,NA,NA,NA,NA,NA,NA,"MZUSP",NA,"SIM","Lajeado(UHE Luis)",NA,NA,11,"G. amarali",NA,NA
+"411","96142",NA,NA,NA,NA,NA,NA,NA,NA,NA,"MZUSP",NA,"SIM","Lajeado(UHE Luis)",NA,NA,11,"G. amarali",NA,NA
+"412","96119",NA,NA,NA,NA,NA,NA,NA,NA,NA,"MZUSP",NA,"SIM","Lajeado(UHE Luis)",NA,NA,11,"G. amarali",NA,NA
+"413","96120",NA,NA,NA,NA,NA,NA,NA,NA,NA,"MZUSP",NA,"SIM","Lajeado(UHE Luis)",NA,NA,11,"G. amarali",NA,NA
+"414","89822",NA,NA,NA,NA,NA,NA,NA,NA,NA,"MZUSP",NA,"SIM","Lajeado(UHE Luis)",NA,NA,11,"G. amarali",NA,NA
+"415","89816",NA,NA,NA,NA,NA,NA,NA,NA,NA,"MZUSP",NA,"SIM","Lajeado(UHE Luis)",NA,NA,11,"G. amarali",NA,NA
+"416","89815",NA,NA,NA,NA,NA,NA,NA,NA,NA,"MZUSP",NA,"SIM","Lajeado(UHE Luis)",NA,NA,11,"G. amarali",NA,NA
+"417","89820",NA,NA,NA,NA,NA,NA,NA,NA,NA,"MZUSP",NA,"SIM","Lajeado(UHE Luis)",NA,NA,11,"G. amarali",NA,NA
+"418","89821",NA,NA,NA,NA,NA,NA,NA,NA,NA,"MZUSP",NA,"SIM","Lajeado(UHE Luis)",NA,NA,11,"G. amarali",NA,NA
+"419","89817",NA,NA,NA,NA,NA,NA,NA,NA,NA,"MZUSP",NA,"SIM","Lajeado(UHE Luis)",NA,NA,11,"G. amarali",NA,NA
+"420","89819",NA,NA,NA,NA,NA,NA,NA,NA,NA,"MZUSP",NA,"SIM","Lajeado(UHE Luis)",NA,NA,11,"G. amarali",NA,NA
+"421","89818",NA,NA,NA,NA,NA,NA,NA,NA,NA,"MZUSP",NA,"SIM","Lajeado(UHE Luis)",NA,NA,11,"G. amarali",NA,NA
+"422","95872",NA,NA,NA,NA,NA,NA,NA,NA,NA,"MZUSP",NA,"SIM","Lajeado(UHE Luis)",NA,NA,11,"G. amarali",NA,NA
+"423","95871",NA,NA,NA,NA,NA,NA,NA,NA,NA,"MZUSP",NA,"SIM","Lajeado(UHE Luis)",NA,NA,11,"G. amarali",NA,NA
+"424","95873",NA,NA,NA,NA,NA,NA,NA,NA,NA,"MZUSP",NA,"SIM","Lajeado(UHE Luis)",NA,NA,11,"G. amarali",NA,NA
+"425","95875",NA,NA,NA,NA,NA,NA,NA,NA,NA,"MZUSP",NA,"SIM","Lajeado(UHE Luis)",NA,NA,11,"G. amarali",NA,NA
+"426","95870",NA,NA,NA,NA,NA,NA,NA,NA,NA,"MZUSP",NA,"SIM","Lajeado(UHE Luis)",NA,NA,11,"G. amarali",NA,NA
+"427","95874",NA,NA,NA,NA,NA,NA,NA,NA,NA,"MZUSP",NA,"SIM","Lajeado(UHE Luis)",NA,NA,11,"G. amarali",NA,NA
+"428","96435",NA,NA,NA,NA,NA,NA,NA,NA,NA,"MZUSP",NA,"SIM","Lajeado(UHE Luis)",NA,NA,11,"G. amarali",NA,NA
+"429","96431",NA,NA,NA,NA,NA,NA,NA,NA,NA,"MZUSP",NA,"SIM","Lajeado(UHE Luis)",NA,NA,11,"G. amarali",NA,NA
+"430","96433",NA,NA,NA,NA,NA,NA,NA,NA,NA,"MZUSP",NA,"SIM","Lajeado(UHE Luis)",NA,NA,11,"G. amarali",NA,NA
+"431","96434",NA,NA,NA,NA,NA,NA,NA,NA,NA,"MZUSP",NA,"SIM","Lajeado(UHE Luis)",NA,NA,11,"G. amarali",NA,NA
+"432","96432",NA,NA,NA,NA,NA,NA,NA,NA,NA,"MZUSP",NA,"SIM","Lajeado(UHE Luis)",NA,NA,11,"G. amarali",NA,NA
+"433","89907",NA,NA,NA,NA,NA,NA,NA,NA,NA,"MZUSP",NA,"SIM","Lajeado(UHE Luis)",NA,NA,11,"G. amarali",NA,NA
+"434","89398",NA,NA,NA,NA,NA,NA,NA,NA,NA,"MZUSP",NA,"SIM","Lajeado(UHE Luis)",NA,NA,11,"G. amarali",NA,NA
+"435","28214",NA,NA,NA,NA,NA,NA,NA,NA,NA,"CHUNB",NA,"SIM","Mateiros","-10.70224","-46.41278",10,"G. amarali",NA,NA
+"436","28277",NA,NA,NA,NA,NA,NA,NA,NA,NA,"CHUNB",NA,"SIM","Mateiros","-10.70224","-46.41278",10,"G. amarali",NA,NA
+"437","42356",NA,NA,NA,NA,NA,NA,NA,NA,NA,"CHUNB",NA,"SIM","Mateiros","-10.70224","-46.41278",10,"G. amarali",NA,NA
+"438","28296",NA,NA,NA,NA,NA,NA,NA,NA,NA,"CHUNB",NA,"SIM","Mateiros","-10.70224","-46.41278",10,"G. amarali",NA,NA
+"439","28211",NA,NA,NA,NA,NA,NA,NA,NA,NA,"CHUNB",NA,"SIM","Mateiros","-10.70224","-46.41278",10,"G. amarali",NA,NA
+"440","28215",NA,NA,NA,NA,NA,NA,NA,NA,NA,"CHUNB",NA,"SIM","Mateiros","-10.70224","-46.41278",10,"G. amarali",NA,NA
+"441","28247",NA,NA,NA,NA,NA,NA,NA,NA,NA,"CHUNB",NA,"SIM","Mateiros","-10.70224","-46.41278",10,"G. amarali",NA,NA
+"442","42351",NA,NA,NA,NA,NA,NA,NA,NA,NA,"CHUNB",NA,"SIM","Mateiros","-10.70224","-46.41278",10,"G. amarali",NA,NA
+"443","28259",NA,NA,NA,NA,NA,NA,NA,NA,NA,"CHUNB",NA,"SIM","Mateiros","-10.70224","-46.41278",10,"G. amarali",NA,NA
+"444","28212",NA,NA,NA,NA,NA,NA,NA,NA,NA,"CHUNB",NA,"SIM","Mateiros","-10.70224","-46.41278",10,"G. amarali",NA,NA
+"445","28235",NA,NA,NA,NA,NA,NA,NA,NA,NA,"CHUNB",NA,"SIM","Mateiros","-10.70224","-46.41278",10,"G. amarali",NA,NA
+"446","28205",NA,NA,NA,NA,NA,NA,NA,NA,NA,"CHUNB",NA,"SIM","Mateiros","-10.70224","-46.41278",10,"G. amarali",NA,NA
+"447","28216",NA,NA,NA,NA,NA,NA,NA,NA,NA,"CHUNB",NA,"SIM","Mateiros","-10.70224","-46.41278",10,"G. amarali",NA,NA
+"448","28209",NA,NA,NA,NA,NA,NA,NA,NA,NA,"CHUNB",NA,"SIM","Mateiros","-10.70224","-46.41278",10,"G. amarali",NA,NA
+"449","28231",NA,NA,NA,NA,NA,NA,NA,NA,NA,"CHUNB",NA,"SIM","Mateiros","-10.70224","-46.41278",10,"G. amarali",NA,NA
+"450","28258",NA,NA,NA,NA,NA,NA,NA,NA,NA,"CHUNB",NA,"SIM","Mateiros","-10.70224","-46.41278",10,"G. amarali",NA,NA
+"451","28299",NA,NA,NA,NA,NA,NA,NA,NA,NA,"CHUNB",NA,"SIM","Mateiros","-10.70224","-46.41278",10,"G. amarali",NA,NA
+"452","28257",NA,NA,NA,NA,NA,NA,NA,NA,NA,"CHUNB",NA,"SIM","Mateiros","-10.70224","-46.41278",10,"G. amarali",NA,NA
+"453","28207",NA,NA,NA,NA,NA,NA,NA,NA,NA,"CHUNB",NA,"SIM","Mateiros","-10.70224","-46.41278",10,"G. amarali",NA,NA
+"454","28284",NA,NA,NA,NA,NA,NA,NA,NA,NA,"CHUNB",NA,"SIM","Mateiros","-10.70224","-46.41278",10,"G. amarali",NA,NA
+"455","28229",NA,NA,NA,NA,NA,NA,NA,NA,NA,"CHUNB",NA,"SIM","Mateiros","-10.70224","-46.41278",10,"G. amarali",NA,NA
+"456","28251",NA,NA,NA,NA,NA,NA,NA,NA,NA,"CHUNB",NA,"SIM","Mateiros","-10.70224","-46.41278",10,"G. amarali",NA,NA
+"457","28230",NA,NA,NA,NA,NA,NA,NA,NA,NA,"CHUNB",NA,"SIM","Mateiros","-10.70224","-46.41278",10,"G. amarali",NA,NA
+"458","28290",NA,NA,NA,NA,NA,NA,NA,NA,NA,"CHUNB",NA,"SIM","Mateiros","-10.70224","-46.41278",10,"G. amarali",NA,NA
+"459","28294",NA,NA,NA,NA,NA,NA,NA,NA,NA,"CHUNB",NA,"SIM","Mateiros","-10.70224","-46.41278",10,"G. amarali",NA,NA
+"460","28242",NA,NA,NA,NA,NA,NA,NA,NA,NA,"CHUNB",NA,"SIM","Mateiros","-10.70224","-46.41278",10,"G. amarali",NA,NA
+"461","28237",NA,NA,NA,NA,NA,NA,NA,NA,NA,"CHUNB",NA,"SIM","Mateiros","-10.70224","-46.41278",10,"G. amarali",NA,NA
+"462","28280",NA,NA,NA,NA,NA,NA,NA,NA,NA,"CHUNB",NA,"SIM","Mateiros","-10.70224","-46.41278",10,"G. amarali",NA,NA
+"463","42355",NA,NA,NA,NA,NA,NA,NA,NA,NA,"CHUNB",NA,"SIM","Mateiros","-10.70224","-46.41278",10,"G. amarali",NA,NA
+"464","28281",NA,NA,NA,NA,NA,NA,NA,NA,NA,"CHUNB",NA,"SIM","Mateiros","-10.70224","-46.41278",10,"G. amarali",NA,NA
+"465","28221",NA,NA,NA,NA,NA,NA,NA,NA,NA,"CHUNB",NA,"SIM","Mateiros","-10.70224","-46.41278",10,"G. amarali",NA,NA
+"466","28227",NA,NA,NA,NA,NA,NA,NA,NA,NA,"CHUNB",NA,"SIM","Mateiros","-10.70224","-46.41278",10,"G. amarali",NA,NA
+"467","28283",NA,NA,NA,NA,NA,NA,NA,NA,NA,"CHUNB",NA,"SIM","Mateiros","-10.70224","-46.41278",10,"G. amarali",NA,NA
+"468","28297",NA,NA,NA,NA,NA,NA,NA,NA,NA,"CHUNB",NA,"SIM","Mateiros","-10.70224","-46.41278",10,"G. amarali",NA,NA
+"469","28232",NA,NA,NA,NA,NA,NA,NA,NA,NA,"CHUNB",NA,"SIM","Mateiros","-10.70224","-46.41278",10,"G. amarali",NA,NA
+"470","28300",NA,NA,NA,NA,NA,NA,NA,NA,NA,"CHUNB",NA,"SIM","Mateiros","-10.70224","-46.41278",10,"G. amarali",NA,NA
+"471","28249",NA,NA,NA,NA,NA,NA,NA,NA,NA,"CHUNB",NA,"SIM","Mateiros","-10.70224","-46.41278",10,"G. amarali",NA,NA
+"472","28301",NA,NA,NA,NA,NA,NA,NA,NA,NA,"CHUNB",NA,"SIM","Mateiros","-10.70224","-46.41278",10,"G. amarali",NA,NA
+"473","28217",NA,NA,NA,NA,NA,NA,NA,NA,NA,"CHUNB",NA,"SIM","Mateiros","-10.70224","-46.41278",10,"G. amarali",NA,NA
+"474","28295",NA,NA,NA,NA,NA,NA,NA,NA,NA,"CHUNB",NA,"SIM","Mateiros","-10.70224","-46.41278",10,"G. amarali",NA,NA
+"475","28278",NA,NA,NA,NA,NA,NA,NA,NA,NA,"CHUNB",NA,"SIM","Mateiros","-10.70224","-46.41278",10,"G. amarali",NA,NA
+"476","28267",NA,NA,NA,NA,NA,NA,NA,NA,NA,"CHUNB",NA,"SIM","Mateiros","-10.70224","-46.41278",10,"G. amarali",NA,NA
+"477","28260",NA,NA,NA,NA,NA,NA,NA,NA,NA,"CHUNB",NA,"SIM","Mateiros","-10.70224","-46.41278",10,"G. amarali",NA,NA
+"478","28250",NA,NA,NA,NA,NA,NA,NA,NA,NA,"CHUNB",NA,"SIM","Mateiros","-10.70224","-46.41278",10,"G. amarali",NA,NA
+"479","28288",NA,NA,NA,NA,NA,NA,NA,NA,NA,"CHUNB",NA,"SIM","Mateiros","-10.70224","-46.41278",10,"G. amarali",NA,NA
+"480","28246",NA,NA,NA,NA,NA,NA,NA,NA,NA,"CHUNB",NA,"SIM","Mateiros","-10.70224","-46.41278",10,"G. amarali",NA,NA
+"481","28244",NA,NA,NA,NA,NA,NA,NA,NA,NA,"CHUNB",NA,"SIM","Mateiros","-10.70224","-46.41278",10,"G. amarali",NA,NA
+"482","28279",NA,NA,NA,NA,NA,NA,NA,NA,NA,"CHUNB",NA,"SIM","Mateiros","-10.70224","-46.41278",10,"G. amarali",NA,NA
+"483","28285",NA,NA,NA,NA,NA,NA,NA,NA,NA,"CHUNB",NA,"SIM","Mateiros","-10.70224","-46.41278",10,"G. amarali",NA,NA
+"484","28241",NA,NA,NA,NA,NA,NA,NA,NA,NA,"CHUNB",NA,"SIM","Mateiros","-10.70224","-46.41278",10,"G. amarali",NA,NA
+"485","28276",NA,NA,NA,NA,NA,NA,NA,NA,NA,"CHUNB",NA,"SIM","Mateiros","-10.70224","-46.41278",10,"G. amarali",NA,NA
+"486","28306",NA,NA,NA,NA,NA,NA,NA,NA,NA,"CHUNB",NA,"SIM","Mateiros","-10.70224","-46.41278",10,"G. amarali",NA,NA
+"487","28298",NA,NA,NA,NA,NA,NA,NA,NA,NA,"CHUNB",NA,"SIM","Mateiros","-10.70224","-46.41278",10,"G. amarali",NA,NA
+"488","28253",NA,NA,NA,NA,NA,NA,NA,NA,NA,"CHUNB",NA,"SIM","Mateiros","-10.70224","-46.41278",10,"G. amarali",NA,NA
+"489","28243",NA,NA,NA,NA,NA,NA,NA,NA,NA,"CHUNB",NA,"SIM","Mateiros","-10.70224","-46.41278",10,"G. amarali",NA,NA
+"490","28287",NA,NA,NA,NA,NA,NA,NA,NA,NA,"CHUNB",NA,"SIM","Mateiros","-10.70224","-46.41278",10,"G. amarali",NA,NA
+"491","28282",NA,NA,NA,NA,NA,NA,NA,NA,NA,"CHUNB",NA,"SIM","Mateiros","-10.70224","-46.41278",10,"G. amarali",NA,NA
+"492","28275",NA,NA,NA,NA,NA,NA,NA,NA,NA,"CHUNB",NA,"SIM","Mateiros","-10.70224","-46.41278",10,"G. amarali",NA,NA
+"493","28204",NA,NA,NA,NA,NA,NA,NA,NA,NA,"CHUNB",NA,"SIM","Mateiros","-10.70224","-46.41278",10,"G. amarali",NA,NA
+"494","28272",NA,NA,NA,NA,NA,NA,NA,NA,NA,"CHUNB",NA,"SIM","Mateiros","-10.70224","-46.41278",10,"G. amarali",NA,NA
+"495","28268",NA,NA,NA,NA,NA,NA,NA,NA,NA,"CHUNB",NA,"SIM","Mateiros","-10.70224","-46.41278",10,"G. amarali",NA,NA
+"496","28213",NA,NA,NA,NA,NA,NA,NA,NA,NA,"CHUNB",NA,"SIM","Mateiros","-10.70224","-46.41278",10,"G. amarali",NA,NA
+"497","28302",NA,NA,NA,NA,NA,NA,NA,NA,NA,"CHUNB",NA,"SIM","Mateiros","-10.70224","-46.41278",10,"G. amarali",NA,NA
+"498","28274",NA,NA,NA,NA,NA,NA,NA,NA,NA,"CHUNB",NA,"SIM","Mateiros","-10.70224","-46.41278",10,"G. amarali",NA,NA
+"499","28245",NA,NA,NA,NA,NA,NA,NA,NA,NA,"CHUNB",NA,"SIM","Mateiros","-10.70224","-46.41278",10,"G. amarali",NA,NA
+"500","28210",NA,NA,NA,NA,NA,NA,NA,NA,NA,"CHUNB",NA,"SIM","Mateiros","-10.70224","-46.41278",10,"G. amarali",NA,NA
+"501","28255",NA,NA,NA,NA,NA,NA,NA,NA,NA,"CHUNB",NA,"SIM","Mateiros","-10.70224","-46.41278",10,"G. amarali",NA,NA
+"502","28286",NA,NA,NA,NA,NA,NA,NA,NA,NA,"CHUNB",NA,"SIM","Mateiros","-10.70224","-46.41278",10,"G. amarali",NA,NA
+"503","28266",NA,NA,NA,NA,NA,NA,NA,NA,NA,"CHUNB",NA,"SIM","Mateiros","-10.70224","-46.41278",10,"G. amarali",NA,NA
+"504","28254",NA,NA,NA,NA,NA,NA,NA,NA,NA,"CHUNB",NA,"SIM","Mateiros","-10.70224","-46.41278",10,"G. amarali",NA,NA
+"505","28256",NA,NA,NA,NA,NA,NA,NA,NA,NA,"CHUNB",NA,"SIM","Mateiros","-10.70224","-46.41278",10,"G. amarali",NA,NA
+"506","28269",NA,NA,NA,NA,NA,NA,NA,NA,NA,"CHUNB",NA,"SIM","Mateiros","-10.70224","-46.41278",10,"G. amarali",NA,NA
+"507","28270",NA,NA,NA,NA,NA,NA,NA,NA,NA,"CHUNB",NA,"SIM","Mateiros","-10.70224","-46.41278",10,"G. amarali",NA,NA
+"508","28264",NA,NA,NA,NA,NA,NA,NA,NA,NA,"CHUNB",NA,"SIM","Mateiros","-10.70224","-46.41278",10,"G. amarali",NA,NA
+"509","28265",NA,NA,NA,NA,NA,NA,NA,NA,NA,"CHUNB",NA,"SIM","Mateiros","-10.70224","-46.41278",10,"G. amarali",NA,NA
+"510","28292",NA,NA,NA,NA,NA,NA,NA,NA,NA,"CHUNB",NA,"SIM","Mateiros","-10.70224","-46.41278",10,"G. amarali",NA,NA
+"511","28226",NA,NA,NA,NA,NA,NA,NA,NA,NA,"CHUNB",NA,"SIM","Mateiros","-10.70224","-46.41278",10,"G. amarali",NA,NA
+"512","28208",NA,NA,NA,NA,NA,NA,NA,NA,NA,"CHUNB",NA,"SIM","Mateiros","-10.70224","-46.41278",10,"G. amarali",NA,NA
+"513","28234",NA,NA,NA,NA,NA,NA,NA,NA,NA,"CHUNB",NA,"SIM","Mateiros","-10.70224","-46.41278",10,"G. amarali",NA,NA
+"514","28309",NA,NA,NA,NA,NA,NA,NA,NA,NA,"CHUNB",NA,"SIM","Mateiros","-10.70224","-46.41278",10,"G. amarali",NA,NA
+"515","28310",NA,NA,NA,NA,NA,NA,NA,NA,NA,"CHUNB",NA,"SIM","Mateiros","-10.70224","-46.41278",10,"G. amarali",NA,NA
+"516","28308",NA,NA,NA,NA,NA,NA,NA,NA,NA,"CHUNB",NA,"SIM","Mateiros","-10.70224","-46.41278",10,"G. amarali",NA,NA
+"517","28303",NA,NA,NA,NA,NA,NA,NA,NA,NA,"CHUNB",NA,"SIM","Mateiros","-10.70224","-46.41278",10,"G. amarali",NA,NA
+"518","28206",NA,NA,NA,NA,NA,NA,NA,NA,NA,"CHUNB",NA,"SIM","Mateiros","-10.70224","-46.41278",10,"G. amarali",NA,NA
+"519","28248",NA,NA,NA,NA,NA,NA,NA,NA,NA,"CHUNB",NA,"SIM","Mateiros","-10.70224","-46.41278",10,"G. amarali",NA,NA
+"520","28262",NA,NA,NA,NA,NA,NA,NA,NA,NA,"CHUNB",NA,"SIM","Mateiros","-10.70224","-46.41278",10,"G. amarali",NA,NA
+"521","28238",NA,NA,NA,NA,NA,NA,NA,NA,NA,"CHUNB",NA,"SIM","Mateiros","-10.70224","-46.41278",10,"G. amarali",NA,NA
+"522","28273",NA,NA,NA,NA,NA,NA,NA,NA,NA,"CHUNB",NA,"SIM","Mateiros","-10.70224","-46.41278",10,"G. amarali",NA,NA
+"523","28240",NA,NA,NA,NA,NA,NA,NA,NA,NA,"CHUNB",NA,"SIM","Mateiros","-10.70224","-46.41278",10,"G. amarali",NA,NA
+"524","28228",NA,NA,NA,NA,NA,NA,NA,NA,NA,"CHUNB",NA,"SIM","Mateiros","-10.70224","-46.41278",10,"G. amarali",NA,NA
+"525","28261",NA,NA,NA,NA,NA,NA,NA,NA,NA,"CHUNB",NA,"SIM","Mateiros","-10.70224","-46.41278",10,"G. amarali",NA,NA
+"526","28236",NA,NA,NA,NA,NA,NA,NA,NA,NA,"CHUNB",NA,"SIM","Mateiros","-10.70224","-46.41278",10,"G. amarali",NA,NA
+"527","28305",NA,NA,NA,NA,NA,NA,NA,NA,NA,"CHUNB",NA,"SIM","Mateiros","-10.70224","-46.41278",10,"G. amarali",NA,NA
+"528","28239",NA,NA,NA,NA,NA,NA,NA,NA,NA,"CHUNB",NA,"SIM","Mateiros","-10.70224","-46.41278",10,"G. amarali",NA,NA
+"529","28252",NA,NA,NA,NA,NA,NA,NA,NA,NA,"CHUNB",NA,"SIM","Mateiros","-10.70224","-46.41278",10,"G. amarali",NA,NA
+"530","28293",NA,NA,NA,NA,NA,NA,NA,NA,NA,"CHUNB",NA,"SIM","Mateiros","-10.70224","-46.41278",10,"G. amarali",NA,NA
+"531","28291",NA,NA,NA,NA,NA,NA,NA,NA,NA,"CHUNB",NA,"SIM","Mateiros","-10.70224","-46.41278",10,"G. amarali",NA,NA
+"532","28263",NA,NA,NA,NA,NA,NA,NA,NA,NA,"CHUNB",NA,"SIM","Mateiros","-10.70224","-46.41278",10,"G. amarali",NA,NA
+"533","28271",NA,NA,NA,NA,NA,NA,NA,NA,NA,"CHUNB",NA,"SIM","Mateiros","-10.70224","-46.41278",10,"G. amarali",NA,NA
+"534","28304",NA,NA,NA,NA,NA,NA,NA,NA,NA,"CHUNB",NA,"SIM","Mateiros","-10.70224","-46.41278",10,"G. amarali",NA,NA
+"535","28307",NA,NA,NA,NA,NA,NA,NA,NA,NA,"CHUNB",NA,"SIM","Mateiros","-10.70224","-46.41278",10,"G. amarali",NA,NA
+"536","28289",NA,NA,NA,NA,NA,NA,NA,NA,NA,"CHUNB",NA,"SIM","Mateiros","-10.70224","-46.41278",10,"G. amarali",NA,NA
+"537","40976",NA,NA,NA,NA,NA,NA,NA,NA,NA,"CHUNB",NA,"SIM","Mateiros","-10.70224","-46.41278",10,"G. amarali",NA,NA
+"538","41014",NA,NA,NA,NA,NA,NA,NA,NA,NA,"CHUNB",NA,"SIM","Mateiros","-10.70224","-46.41278",10,"G. amarali",NA,NA
+"539","41020",NA,NA,NA,NA,NA,NA,NA,NA,NA,"CHUNB",NA,"SIM","Mateiros","-10.70224","-46.41278",10,"G. amarali",NA,NA
+"540","40969",NA,NA,NA,NA,NA,NA,NA,NA,NA,"CHUNB",NA,"SIM","Mateiros","-10.70224","-46.41278",10,"G. amarali",NA,NA
+"541","41088",NA,NA,NA,NA,NA,NA,NA,NA,NA,"CHUNB",NA,"SIM","Mateiros","-10.70224","-46.41278",10,"G. amarali",NA,NA
+"542","41079",NA,NA,NA,NA,NA,NA,NA,NA,NA,"CHUNB",NA,"SIM","Mateiros","-10.70224","-46.41278",10,"G. amarali",NA,NA
+"543","41082",NA,NA,NA,NA,NA,NA,NA,NA,NA,"CHUNB",NA,"SIM","Mateiros","-10.70224","-46.41278",10,"G. amarali",NA,NA
+"544","41006",NA,NA,NA,NA,NA,NA,NA,NA,NA,"CHUNB",NA,"SIM","Mateiros","-10.70224","-46.41278",10,"G. amarali",NA,NA
+"545","41068",NA,NA,NA,NA,NA,NA,NA,NA,NA,"CHUNB",NA,"SIM","Mateiros","-10.70224","-46.41278",10,"G. amarali",NA,NA
+"546","40980",NA,NA,NA,NA,NA,NA,NA,NA,NA,"CHUNB",NA,"SIM","Mateiros","-10.70224","-46.41278",10,"G. amarali",NA,NA
+"547","41002",NA,NA,NA,NA,NA,NA,NA,NA,NA,"CHUNB",NA,"SIM","Mateiros","-10.70224","-46.41278",10,"G. amarali",NA,NA
+"548","41049",NA,NA,NA,NA,NA,NA,NA,NA,NA,"CHUNB",NA,"SIM","Mateiros","-10.70224","-46.41278",10,"G. amarali",NA,NA
+"549","40973",NA,NA,NA,NA,NA,NA,NA,NA,NA,"CHUNB",NA,"SIM","Mateiros","-10.70224","-46.41278",10,"G. amarali",NA,NA
+"550","41021",NA,NA,NA,NA,NA,NA,NA,NA,NA,"CHUNB",NA,"SIM","Mateiros","-10.70224","-46.41278",10,"G. amarali",NA,NA
+"551","41080",NA,NA,NA,NA,NA,NA,NA,NA,NA,"CHUNB",NA,"SIM","Mateiros","-10.70224","-46.41278",10,"G. amarali",NA,NA
+"552","40979",NA,NA,NA,NA,NA,NA,NA,NA,NA,"CHUNB",NA,"SIM","Mateiros","-10.70224","-46.41278",10,"G. amarali",NA,NA
+"553","41060",NA,NA,NA,NA,NA,NA,NA,NA,NA,"CHUNB",NA,"SIM","Mateiros","-10.70224","-46.41278",10,"G. amarali",NA,NA
+"554","40968",NA,NA,NA,NA,NA,NA,NA,NA,NA,"CHUNB",NA,"SIM","Mateiros","-10.70224","-46.41278",10,"G. amarali",NA,NA
+"555","41071",NA,NA,NA,NA,NA,NA,NA,NA,NA,"CHUNB",NA,"SIM","Mateiros","-10.70224","-46.41278",10,"G. amarali",NA,NA
+"556","41069",NA,NA,NA,NA,NA,NA,NA,NA,NA,"CHUNB",NA,"SIM","Mateiros","-10.70224","-46.41278",10,"G. amarali",NA,NA
+"557","41038",NA,NA,NA,NA,NA,NA,NA,NA,NA,"CHUNB",NA,"SIM","Mateiros","-10.70224","-46.41278",10,"G. amarali",NA,NA
+"558","40989",NA,NA,NA,NA,NA,NA,NA,NA,NA,"CHUNB",NA,"SIM","Mateiros","-10.70224","-46.41278",10,"G. amarali",NA,NA
+"559","40985",NA,NA,NA,NA,NA,NA,NA,NA,NA,"CHUNB",NA,"SIM","Mateiros","-10.70224","-46.41278",10,"G. amarali",NA,NA
+"560","40965",NA,NA,NA,NA,NA,NA,NA,NA,NA,"CHUNB",NA,"SIM","Mateiros","-10.70224","-46.41278",10,"G. amarali",NA,NA
+"561","41056",NA,NA,NA,NA,NA,NA,NA,NA,NA,"CHUNB",NA,"SIM","Mateiros","-10.70224","-46.41278",10,"G. amarali",NA,NA
+"562","41077",NA,NA,NA,NA,NA,NA,NA,NA,NA,"CHUNB",NA,"SIM","Mateiros","-10.70224","-46.41278",10,"G. amarali",NA,NA
+"563","41013",NA,NA,NA,NA,NA,NA,NA,NA,NA,"CHUNB",NA,"SIM","Mateiros","-10.70224","-46.41278",10,"G. amarali",NA,NA
+"564","41070",NA,NA,NA,NA,NA,NA,NA,NA,NA,"CHUNB",NA,"SIM","Mateiros","-10.70224","-46.41278",10,"G. amarali",NA,NA
+"565","41086",NA,NA,NA,NA,NA,NA,NA,NA,NA,"CHUNB",NA,"SIM","Mateiros","-10.70224","-46.41278",10,"G. amarali",NA,NA
+"566","40992",NA,NA,NA,NA,NA,NA,NA,NA,NA,"CHUNB",NA,"SIM","Mateiros","-10.70224","-46.41278",10,"G. amarali",NA,NA
+"567","41064",NA,NA,NA,NA,NA,NA,NA,NA,NA,"CHUNB",NA,"SIM","Mateiros","-10.70224","-46.41278",10,"G. amarali",NA,NA
+"568","41068",NA,NA,NA,NA,NA,NA,NA,NA,NA,"CHUNB",NA,"SIM","Mateiros","-10.70224","-46.41278",10,"G. amarali",NA,NA
+"569","40974",NA,NA,NA,NA,NA,NA,NA,NA,NA,"CHUNB",NA,"SIM","Mateiros","-10.70224","-46.41278",10,"G. amarali",NA,NA
+"570","41061",NA,NA,NA,NA,NA,NA,NA,NA,NA,"CHUNB",NA,"SIM","Mateiros","-10.70224","-46.41278",10,"G. amarali",NA,NA
+"571","41045",NA,NA,NA,NA,NA,NA,NA,NA,NA,"CHUNB",NA,"SIM","Mateiros","-10.70224","-46.41278",10,"G. amarali",NA,NA
+"572","41027",NA,NA,NA,NA,NA,NA,NA,NA,NA,"CHUNB",NA,"SIM","Mateiros","-10.70224","-46.41278",10,"G. amarali",NA,NA
+"573","41075",NA,NA,NA,NA,NA,NA,NA,NA,NA,"CHUNB",NA,"SIM","Mateiros","-10.70224","-46.41278",10,"G. amarali",NA,NA
+"574","41073",NA,NA,NA,NA,NA,NA,NA,NA,NA,"CHUNB",NA,"SIM","Mateiros","-10.70224","-46.41278",10,"G. amarali",NA,NA
+"575","41046",NA,NA,NA,NA,NA,NA,NA,NA,NA,"CHUNB",NA,"SIM","Mateiros","-10.70224","-46.41278",10,"G. amarali",NA,NA
+"576","41035",NA,NA,NA,NA,NA,NA,NA,NA,NA,"CHUNB",NA,"SIM","Mateiros","-10.70224","-46.41278",10,"G. amarali",NA,NA
+"577","41089",NA,NA,NA,NA,NA,NA,NA,NA,NA,"CHUNB",NA,"SIM","Mateiros","-10.70224","-46.41278",10,"G. amarali",NA,NA
+"578","41087",NA,NA,NA,NA,NA,NA,NA,NA,NA,"CHUNB",NA,"SIM","Mateiros","-10.70224","-46.41278",10,"G. amarali",NA,NA
+"579","41005",NA,NA,NA,NA,NA,NA,NA,NA,NA,"CHUNB",NA,"SIM","Mateiros","-10.70224","-46.41278",10,"G. amarali",NA,NA
+"580","41031",NA,NA,NA,NA,NA,NA,NA,NA,NA,"CHUNB",NA,"SIM","Mateiros","-10.70224","-46.41278",10,"G. amarali",NA,NA
+"581","40986",NA,NA,NA,NA,NA,NA,NA,NA,NA,"CHUNB",NA,"SIM","Mateiros","-10.70224","-46.41278",10,"G. amarali",NA,NA
+"582","41067",NA,NA,NA,NA,NA,NA,NA,NA,NA,"CHUNB",NA,"SIM","Mateiros","-10.70224","-46.41278",10,"G. amarali",NA,NA
+"583","41033",NA,NA,NA,NA,NA,NA,NA,NA,NA,"CHUNB",NA,"SIM","Mateiros","-10.70224","-46.41278",10,"G. amarali",NA,NA
+"584","41050",NA,NA,NA,NA,NA,NA,NA,NA,NA,"CHUNB",NA,"SIM","Mateiros","-10.70224","-46.41278",10,"G. amarali",NA,NA
+"585","40978",NA,NA,NA,NA,NA,NA,NA,NA,NA,"CHUNB",NA,"SIM","Mateiros","-10.70224","-46.41278",10,"G. amarali",NA,NA
+"586","41004",NA,NA,NA,NA,NA,NA,NA,NA,NA,"CHUNB",NA,"SIM","Mateiros","-10.70224","-46.41278",10,"G. amarali",NA,NA
+"587","41051",NA,NA,NA,NA,NA,NA,NA,NA,NA,"CHUNB",NA,"SIM","Mateiros","-10.70224","-46.41278",10,"G. amarali",NA,NA
+"588","40988",NA,NA,NA,NA,NA,NA,NA,NA,NA,"CHUNB",NA,"SIM","Mateiros","-10.70224","-46.41278",10,"G. amarali",NA,NA
+"589","41042",NA,NA,NA,NA,NA,NA,NA,NA,NA,"CHUNB",NA,"SIM","Mateiros","-10.70224","-46.41278",10,"G. amarali",NA,NA
+"590","41011",NA,NA,NA,NA,NA,NA,NA,NA,NA,"CHUNB",NA,"SIM","Mateiros","-10.70224","-46.41278",10,"G. amarali",NA,NA
+"591","41062",NA,NA,NA,NA,NA,NA,NA,NA,NA,"CHUNB",NA,"SIM","Mateiros","-10.70224","-46.41278",10,"G. amarali",NA,NA
+"592","41030",NA,NA,NA,NA,NA,NA,NA,NA,NA,"CHUNB",NA,"SIM","Mateiros","-10.70224","-46.41278",10,"G. amarali",NA,NA
+"593","41055",NA,NA,NA,NA,NA,NA,NA,NA,NA,"CHUNB",NA,"SIM","Mateiros","-10.70224","-46.41278",10,"G. amarali",NA,NA
+"594","41039",NA,NA,NA,NA,NA,NA,NA,NA,NA,"CHUNB",NA,"SIM","Mateiros","-10.70224","-46.41278",10,"G. amarali",NA,NA
+"595","41000",NA,NA,NA,NA,NA,NA,NA,NA,NA,"CHUNB",NA,"SIM","Mateiros","-10.70224","-46.41278",10,"G. amarali",NA,NA
+"596","41081",NA,NA,NA,NA,NA,NA,NA,NA,NA,"CHUNB",NA,"SIM","Mateiros","-10.70224","-46.41278",10,"G. amarali",NA,NA
+"597","41037",NA,NA,NA,NA,NA,NA,NA,NA,NA,"CHUNB",NA,"SIM","Mateiros","-10.70224","-46.41278",10,"G. amarali",NA,NA
+"598","41028",NA,NA,NA,NA,NA,NA,NA,NA,NA,"CHUNB",NA,"SIM","Mateiros","-10.70224","-46.41278",10,"G. amarali",NA,NA
+"599","41076",NA,NA,NA,NA,NA,NA,NA,NA,NA,"CHUNB",NA,"SIM","Mateiros","-10.70224","-46.41278",10,"G. amarali",NA,NA
+"600","41091",NA,NA,NA,NA,NA,NA,NA,NA,NA,"CHUNB",NA,"SIM","Mateiros","-10.70224","-46.41278",10,"G. amarali",NA,NA
+"601","40964",NA,NA,NA,NA,NA,NA,NA,NA,NA,"CHUNB",NA,"SIM","Mateiros","-10.70224","-46.41278",10,"G. amarali",NA,NA
+"602","40984",NA,NA,NA,NA,NA,NA,NA,NA,NA,"CHUNB",NA,"SIM","Mateiros","-10.70224","-46.41278",10,"G. amarali",NA,NA
+"603","40998",NA,NA,NA,NA,NA,NA,NA,NA,NA,"CHUNB",NA,"SIM","Mateiros","-10.70224","-46.41278",10,"G. amarali",NA,NA
+"604","14150",NA,NA,NA,NA,NA,NA,NA,NA,NA,"CHUNB",NA,"SIM","Mateiros","-10.70224","-46.41278",10,"G. amarali",NA,NA
+"605","14148",NA,NA,NA,NA,NA,NA,NA,NA,NA,"CHUNB",NA,"SIM","Mateiros","-10.70224","-46.41278",10,"G. amarali",NA,NA
+"606","14149",NA,NA,NA,NA,NA,NA,NA,NA,NA,"CHUNB",NA,"SIM","Mateiros","-10.70224","-46.41278",10,"G. amarali",NA,NA
+"607","3108",NA,NA,NA,NA,NA,NA,NA,NA,NA,"CHUNB",NA,"SIM","Minacu","-13.49575","-48.3974",2,"G. amarali",NA,NA
+"608","3054",NA,NA,NA,NA,NA,NA,NA,NA,NA,"CHUNB",NA,"SIM","Minacu","-13.49575","-48.3974",2,"G. amarali",NA,NA
+"609","3064",NA,NA,NA,NA,NA,NA,NA,NA,NA,"CHUNB",NA,"SIM","Minacu","-13.49575","-48.3974",2,"G. amarali",NA,NA
+"610","3101",NA,NA,NA,NA,NA,NA,NA,NA,NA,"CHUNB",NA,"SIM","Minacu","-13.49575","-48.3974",2,"G. amarali",NA,NA
+"611","3056",NA,NA,NA,NA,NA,NA,NA,NA,NA,"CHUNB",NA,"SIM","Minacu","-13.49575","-48.3974",2,"G. amarali",NA,NA
+"612","3122",NA,NA,NA,NA,NA,NA,NA,NA,NA,"CHUNB",NA,"SIM","Minacu","-13.49575","-48.3974",2,"G. amarali",NA,NA
+"613","3092",NA,NA,NA,NA,NA,NA,NA,NA,NA,"CHUNB",NA,"SIM","Minacu","-13.49575","-48.3974",2,"G. amarali",NA,NA
+"614","3121",NA,NA,NA,NA,NA,NA,NA,NA,NA,"CHUNB",NA,"SIM","Minacu","-13.49575","-48.3974",2,"G. amarali",NA,NA
+"615","8035",NA,NA,NA,NA,NA,NA,NA,NA,NA,"CHUNB",NA,"SIM","Minacu","-13.49575","-48.3974",2,"G. amarali",NA,NA
+"616","3028",NA,NA,NA,NA,NA,NA,NA,NA,NA,"CHUNB",NA,"SIM","Minacu","-13.49575","-48.3974",2,"G. amarali",NA,NA
+"617","3041",NA,NA,NA,NA,NA,NA,NA,NA,NA,"CHUNB",NA,"SIM","Minacu","-13.49575","-48.3974",2,"G. amarali",NA,NA
+"618","8001",NA,NA,NA,NA,NA,NA,NA,NA,NA,"CHUNB",NA,"SIM","Minacu","-13.49575","-48.3974",2,"G. amarali",NA,NA
+"619","3037",NA,NA,NA,NA,NA,NA,NA,NA,NA,"CHUNB",NA,"SIM","Minacu","-13.49575","-48.3974",2,"G. amarali",NA,NA
+"620","3080",NA,NA,NA,NA,NA,NA,NA,NA,NA,"CHUNB",NA,"SIM","Minacu","-13.49575","-48.3974",2,"G. amarali",NA,NA
+"621","3070",NA,NA,NA,NA,NA,NA,NA,NA,NA,"CHUNB",NA,"SIM","Minacu","-13.49575","-48.3974",2,"G. amarali",NA,NA
+"622","3010",NA,NA,NA,NA,NA,NA,NA,NA,NA,"CHUNB",NA,"SIM","Minacu","-13.49575","-48.3974",2,"G. amarali",NA,NA
+"623","3076",NA,NA,NA,NA,NA,NA,NA,NA,NA,"CHUNB",NA,"SIM","Minacu","-13.49575","-48.3974",2,"G. amarali",NA,NA
+"624","3055",NA,NA,NA,NA,NA,NA,NA,NA,NA,"CHUNB",NA,"SIM","Minacu","-13.49575","-48.3974",2,"G. amarali",NA,NA
+"625","3051",NA,NA,NA,NA,NA,NA,NA,NA,NA,"CHUNB",NA,"SIM","Minacu","-13.49575","-48.3974",2,"G. amarali",NA,NA
+"626","3035",NA,NA,NA,NA,NA,NA,NA,NA,NA,"CHUNB",NA,"SIM","Minacu","-13.49575","-48.3974",2,"G. amarali",NA,NA
+"627","3021",NA,NA,NA,NA,NA,NA,NA,NA,NA,"CHUNB",NA,"SIM","Minacu","-13.49575","-48.3974",2,"G. amarali",NA,NA
+"628","3120",NA,NA,NA,NA,NA,NA,NA,NA,NA,"CHUNB",NA,"SIM","Minacu","-13.49575","-48.3974",2,"G. amarali",NA,NA
+"629","3087",NA,NA,NA,NA,NA,NA,NA,NA,NA,"CHUNB",NA,"SIM","Minacu","-13.49575","-48.3974",2,"G. amarali",NA,NA
+"630","3126",NA,NA,NA,NA,NA,NA,NA,NA,NA,"CHUNB",NA,"SIM","Minacu","-13.49575","-48.3974",2,"G. amarali",NA,NA
+"631","3025",NA,NA,NA,NA,NA,NA,NA,NA,NA,"CHUNB",NA,"SIM","Minacu","-13.49575","-48.3974",2,"G. amarali",NA,NA
+"632","3045",NA,NA,NA,NA,NA,NA,NA,NA,NA,"CHUNB",NA,"SIM","Minacu","-13.49575","-48.3974",2,"G. amarali",NA,NA
+"633","3044",NA,NA,NA,NA,NA,NA,NA,NA,NA,"CHUNB",NA,"SIM","Minacu","-13.49575","-48.3974",2,"G. amarali",NA,NA
+"634","3022",NA,NA,NA,NA,NA,NA,NA,NA,NA,"CHUNB",NA,"SIM","Minacu","-13.49575","-48.3974",2,"G. amarali",NA,NA
+"635","3117",NA,NA,NA,NA,NA,NA,NA,NA,NA,"CHUNB",NA,"SIM","Minacu","-13.49575","-48.3974",2,"G. amarali",NA,NA
+"636","3124",NA,NA,NA,NA,NA,NA,NA,NA,NA,"CHUNB",NA,"SIM","Minacu","-13.49575","-48.3974",2,"G. amarali",NA,NA
+"637","3065",NA,NA,NA,NA,NA,NA,NA,NA,NA,"CHUNB",NA,"SIM","Minacu","-13.49575","-48.3974",2,"G. amarali",NA,NA
+"638","3030",NA,NA,NA,NA,NA,NA,NA,NA,NA,"CHUNB",NA,"SIM","Minacu","-13.49575","-48.3974",2,"G. amarali",NA,NA
+"639","3031",NA,NA,NA,NA,NA,NA,NA,NA,NA,"CHUNB",NA,"SIM","Minacu","-13.49575","-48.3974",2,"G. amarali",NA,NA
+"640","3103",NA,NA,NA,NA,NA,NA,NA,NA,NA,"CHUNB",NA,"SIM","Minacu","-13.49575","-48.3974",2,"G. amarali",NA,NA
+"641","3097",NA,NA,NA,NA,NA,NA,NA,NA,NA,"CHUNB",NA,"SIM","Minacu","-13.49575","-48.3974",2,"G. amarali",NA,NA
+"642","3067",NA,NA,NA,NA,NA,NA,NA,NA,NA,"CHUNB",NA,"SIM","Minacu","-13.49575","-48.3974",2,"G. amarali",NA,NA
+"643","3017",NA,NA,NA,NA,NA,NA,NA,NA,NA,"CHUNB",NA,"SIM","Minacu","-13.49575","-48.3974",2,"G. amarali",NA,NA
+"644","3018",NA,NA,NA,NA,NA,NA,NA,NA,NA,"CHUNB",NA,"SIM","Minacu","-13.49575","-48.3974",2,"G. amarali",NA,NA
+"645","3079",NA,NA,NA,NA,NA,NA,NA,NA,NA,"CHUNB",NA,"SIM","Minacu","-13.49575","-48.3974",2,"G. amarali",NA,NA
+"646","3102",NA,NA,NA,NA,NA,NA,NA,NA,NA,"CHUNB",NA,"SIM","Minacu","-13.49575","-48.3974",2,"G. amarali",NA,NA
+"647","3019",NA,NA,NA,NA,NA,NA,NA,NA,NA,"CHUNB",NA,"SIM","Minacu","-13.49575","-48.3974",2,"G. amarali",NA,NA
+"648","3093",NA,NA,NA,NA,NA,NA,NA,NA,NA,"CHUNB",NA,"SIM","Minacu","-13.49575","-48.3974",2,"G. amarali",NA,NA
+"649","3026",NA,NA,NA,NA,NA,NA,NA,NA,NA,"CHUNB",NA,"SIM","Minacu","-13.49575","-48.3974",2,"G. amarali",NA,NA
+"650","3089",NA,NA,NA,NA,NA,NA,NA,NA,NA,"CHUNB",NA,"SIM","Minacu","-13.49575","-48.3974",2,"G. amarali",NA,NA
+"651","3115",NA,NA,NA,NA,NA,NA,NA,NA,NA,"CHUNB",NA,"SIM","Minacu","-13.49575","-48.3974",2,"G. amarali",NA,NA
+"652","3011",NA,NA,NA,NA,NA,NA,NA,NA,NA,"CHUNB",NA,"SIM","Minacu","-13.49575","-48.3974",2,"G. amarali",NA,NA
+"653","3111",NA,NA,NA,NA,NA,NA,NA,NA,NA,"CHUNB",NA,"SIM","Minacu","-13.49575","-48.3974",2,"G. amarali",NA,NA
+"654","8005",NA,NA,NA,NA,NA,NA,NA,NA,NA,"CHUNB",NA,"SIM","Minacu","-13.49575","-48.3974",2,"G. amarali",NA,NA
+"655","3083",NA,NA,NA,NA,NA,NA,NA,NA,NA,"CHUNB",NA,"SIM","Minacu","-13.49575","-48.3974",2,"G. amarali",NA,NA
+"656","3118",NA,NA,NA,NA,NA,NA,NA,NA,NA,"CHUNB",NA,"SIM","Minacu","-13.49575","-48.3974",2,"G. amarali",NA,NA
+"657","3106",NA,NA,NA,NA,NA,NA,NA,NA,NA,"CHUNB",NA,"SIM","Minacu","-13.49575","-48.3974",2,"G. amarali",NA,NA
+"658","8002",NA,NA,NA,NA,NA,NA,NA,NA,NA,"CHUNB",NA,"SIM","Minacu","-13.49575","-48.3974",2,"G. amarali",NA,NA
+"659","3131",NA,NA,NA,NA,NA,NA,NA,NA,NA,"CHUNB",NA,"SIM","Minacu","-13.49575","-48.3974",2,"G. amarali",NA,NA
+"660","3099",NA,NA,NA,NA,NA,NA,NA,NA,NA,"CHUNB",NA,"SIM","Minacu","-13.49575","-48.3974",2,"G. amarali",NA,NA
+"661","3009",NA,NA,NA,NA,NA,NA,NA,NA,NA,"CHUNB",NA,"SIM","Minacu","-13.49575","-48.3974",2,"G. amarali",NA,NA
+"662","3128",NA,NA,NA,NA,NA,NA,NA,NA,NA,"CHUNB",NA,"SIM","Minacu","-13.49575","-48.3974",2,"G. amarali",NA,NA
+"663","3047",NA,NA,NA,NA,NA,NA,NA,NA,NA,"CHUNB",NA,"SIM","Minacu","-13.49575","-48.3974",2,"G. amarali",NA,NA
+"664","3133",NA,NA,NA,NA,NA,NA,NA,NA,NA,"CHUNB",NA,"SIM","Minacu","-13.49575","-48.3974",2,"G. amarali",NA,NA
+"665","3024",NA,NA,NA,NA,NA,NA,NA,NA,NA,"CHUNB",NA,"SIM","Minacu","-13.49575","-48.3974",2,"G. amarali",NA,NA
+"666","3107",NA,NA,NA,NA,NA,NA,NA,NA,NA,"CHUNB",NA,"SIM","Minacu","-13.49575","-48.3974",2,"G. amarali",NA,NA
+"667","3020",NA,NA,NA,NA,NA,NA,NA,NA,NA,"CHUNB",NA,"SIM","Minacu","-13.49575","-48.3974",2,"G. amarali",NA,NA
+"668","3016",NA,NA,NA,NA,NA,NA,NA,NA,NA,"CHUNB",NA,"SIM","Minacu","-13.49575","-48.3974",2,"G. amarali",NA,NA
+"669","3094",NA,NA,NA,NA,NA,NA,NA,NA,NA,"CHUNB",NA,"SIM","Minacu","-13.49575","-48.3974",2,"G. amarali",NA,NA
+"670","3012",NA,NA,NA,NA,NA,NA,NA,NA,NA,"CHUNB",NA,"SIM","Minacu","-13.49575","-48.3974",2,"G. amarali",NA,NA
+"671","3057",NA,NA,NA,NA,NA,NA,NA,NA,NA,"CHUNB",NA,"SIM","Minacu","-13.49575","-48.3974",2,"G. amarali",NA,NA
+"672","3116",NA,NA,NA,NA,NA,NA,NA,NA,NA,"CHUNB",NA,"SIM","Minacu","-13.49575","-48.3974",2,"G. amarali",NA,NA
+"673","3085",NA,NA,NA,NA,NA,NA,NA,NA,NA,"CHUNB",NA,"SIM","Minacu","-13.49575","-48.3974",2,"G. amarali",NA,NA
+"674","3059",NA,NA,NA,NA,NA,NA,NA,NA,NA,"CHUNB",NA,"SIM","Minacu","-13.49575","-48.3974",2,"G. amarali",NA,NA
+"675","3053",NA,NA,NA,NA,NA,NA,NA,NA,NA,"CHUNB",NA,"SIM","Minacu","-13.49575","-48.3974",2,"G. amarali",NA,NA
+"676","3048",NA,NA,NA,NA,NA,NA,NA,NA,NA,"CHUNB",NA,"SIM","Minacu","-13.49575","-48.3974",2,"G. amarali",NA,NA
+"677","3061",NA,NA,NA,NA,NA,NA,NA,NA,NA,"CHUNB",NA,"SIM","Minacu","-13.49575","-48.3974",2,"G. amarali",NA,NA
+"678","3091",NA,NA,NA,NA,NA,NA,NA,NA,NA,"CHUNB",NA,"SIM","Minacu","-13.49575","-48.3974",2,"G. amarali",NA,NA
+"679","3029",NA,NA,NA,NA,NA,NA,NA,NA,NA,"CHUNB",NA,"SIM","Minacu","-13.49575","-48.3974",2,"G. amarali",NA,NA
+"680","3074",NA,NA,NA,NA,NA,NA,NA,NA,NA,"CHUNB",NA,"SIM","Minacu","-13.49575","-48.3974",2,"G. amarali",NA,NA
+"681","3066",NA,NA,NA,NA,NA,NA,NA,NA,NA,"CHUNB",NA,"SIM","Minacu","-13.49575","-48.3974",2,"G. amarali",NA,NA
+"682","3084",NA,NA,NA,NA,NA,NA,NA,NA,NA,"CHUNB",NA,"SIM","Minacu","-13.49575","-48.3974",2,"G. amarali",NA,NA
+"683","3081",NA,NA,NA,NA,NA,NA,NA,NA,NA,"CHUNB",NA,"SIM","Minacu","-13.49575","-48.3974",2,"G. amarali",NA,NA
+"684","3123",NA,NA,NA,NA,NA,NA,NA,NA,NA,"CHUNB",NA,"SIM","Minacu","-13.49575","-48.3974",2,"G. amarali",NA,NA
+"685","3125",NA,NA,NA,NA,NA,NA,NA,NA,NA,"CHUNB",NA,"SIM","Minacu","-13.49575","-48.3974",2,"G. amarali",NA,NA
+"686","3062",NA,NA,NA,NA,NA,NA,NA,NA,NA,"CHUNB",NA,"SIM","Minacu","-13.49575","-48.3974",2,"G. amarali",NA,NA
+"687","3015",NA,NA,NA,NA,NA,NA,NA,NA,NA,"CHUNB",NA,"SIM","Minacu","-13.49575","-48.3974",2,"G. amarali",NA,NA
+"688","3027",NA,NA,NA,NA,NA,NA,NA,NA,NA,"CHUNB",NA,"SIM","Minacu","-13.49575","-48.3974",2,"G. amarali",NA,NA
+"689","3073",NA,NA,NA,NA,NA,NA,NA,NA,NA,"CHUNB",NA,"SIM","Minacu","-13.49575","-48.3974",2,"G. amarali",NA,NA
+"690","8003",NA,NA,NA,NA,NA,NA,NA,NA,NA,"CHUNB",NA,"SIM","Minacu","-13.49575","-48.3974",2,"G. amarali",NA,NA
+"691","3046",NA,NA,NA,NA,NA,NA,NA,NA,NA,"CHUNB",NA,"SIM","Minacu","-13.49575","-48.3974",2,"G. amarali",NA,NA
+"692","3038",NA,NA,NA,NA,NA,NA,NA,NA,NA,"CHUNB",NA,"SIM","Minacu","-13.49575","-48.3974",2,"G. amarali",NA,NA
+"693","8004",NA,NA,NA,NA,NA,NA,NA,NA,NA,"CHUNB",NA,"SIM","Minacu","-13.49575","-48.3974",2,"G. amarali",NA,NA
+"694","3075",NA,NA,NA,NA,NA,NA,NA,NA,NA,"CHUNB",NA,"SIM","Minacu","-13.49575","-48.3974",2,"G. amarali",NA,NA
+"695","3049",NA,NA,NA,NA,NA,NA,NA,NA,NA,"CHUNB",NA,"SIM","Minacu","-13.49575","-48.3974",2,"G. amarali",NA,NA
+"696","3069",NA,NA,NA,NA,NA,NA,NA,NA,NA,"CHUNB",NA,"SIM","Minacu","-13.49575","-48.3974",2,"G. amarali",NA,NA
+"697","3072",NA,NA,NA,NA,NA,NA,NA,NA,NA,"CHUNB",NA,"SIM","Minacu","-13.49575","-48.3974",2,"G. amarali",NA,NA
+"698","3043",NA,NA,NA,NA,NA,NA,NA,NA,NA,"CHUNB",NA,"SIM","Minacu","-13.49575","-48.3974",2,"G. amarali",NA,NA
+"699","3096",NA,NA,NA,NA,NA,NA,NA,NA,NA,"CHUNB",NA,"SIM","Minacu","-13.49575","-48.3974",2,"G. amarali",NA,NA
+"700","3090",NA,NA,NA,NA,NA,NA,NA,NA,NA,"CHUNB",NA,"SIM","Minacu","-13.49575","-48.3974",2,"G. amarali",NA,NA
+"701","3109",NA,NA,NA,NA,NA,NA,NA,NA,NA,"CHUNB",NA,"SIM","Minacu","-13.49575","-48.3974",2,"G. amarali",NA,NA
+"702","3113",NA,NA,NA,NA,NA,NA,NA,NA,NA,"CHUNB",NA,"SIM","Minacu","-13.49575","-48.3974",2,"G. amarali",NA,NA
+"703","3014",NA,NA,NA,NA,NA,NA,NA,NA,NA,"CHUNB",NA,"SIM","Minacu","-13.49575","-48.3974",2,"G. amarali",NA,NA
+"704","3039",NA,NA,NA,NA,NA,NA,NA,NA,NA,"CHUNB",NA,"SIM","Minacu","-13.49575","-48.3974",2,"G. amarali",NA,NA
+"705","3050",NA,NA,NA,NA,NA,NA,NA,NA,NA,"CHUNB",NA,"SIM","Minacu","-13.49575","-48.3974",2,"G. amarali",NA,NA
+"706","8006",NA,NA,NA,NA,NA,NA,NA,NA,NA,"CHUNB",NA,"SIM","Minacu","-13.49575","-48.3974",2,"G. amarali",NA,NA
+"707","8042",NA,NA,NA,NA,NA,NA,NA,NA,NA,"CHUNB",NA,"SIM","Minacu","-13.49575","-48.3974",2,"G. amarali",NA,NA
+"708","8050",NA,NA,NA,NA,NA,NA,NA,NA,NA,"CHUNB",NA,"SIM","Minacu","-13.49575","-48.3974",2,"G. amarali",NA,NA
+"709","8010",NA,NA,NA,NA,NA,NA,NA,NA,NA,"CHUNB",NA,"SIM","Minacu","-13.49575","-48.3974",2,"G. amarali",NA,NA
+"710","8024",NA,NA,NA,NA,NA,NA,NA,NA,NA,"CHUNB",NA,"SIM","Minacu","-13.49575","-48.3974",2,"G. amarali",NA,NA
+"711","8036",NA,NA,NA,NA,NA,NA,NA,NA,NA,"CHUNB",NA,"SIM","Minacu","-13.49575","-48.3974",2,"G. amarali",NA,NA
+"712","8020",NA,NA,NA,NA,NA,NA,NA,NA,NA,"CHUNB",NA,"SIM","Minacu","-13.49575","-48.3974",2,"G. amarali",NA,NA
+"713","8017",NA,NA,NA,NA,NA,NA,NA,NA,NA,"CHUNB",NA,"SIM","Minacu","-13.49575","-48.3974",2,"G. amarali",NA,NA
+"714","8019",NA,NA,NA,NA,NA,NA,NA,NA,NA,"CHUNB",NA,"SIM","Minacu","-13.49575","-48.3974",2,"G. amarali",NA,NA
+"715","8052",NA,NA,NA,NA,NA,NA,NA,NA,NA,"CHUNB",NA,"SIM","Minacu","-13.49575","-48.3974",2,"G. amarali",NA,NA
+"716","8012",NA,NA,NA,NA,NA,NA,NA,NA,NA,"CHUNB",NA,"SIM","Minacu","-13.49575","-48.3974",2,"G. amarali",NA,NA
+"717","8007",NA,NA,NA,NA,NA,NA,NA,NA,NA,"CHUNB",NA,"SIM","Minacu","-13.49575","-48.3974",2,"G. amarali",NA,NA
+"718","8013",NA,NA,NA,NA,NA,NA,NA,NA,NA,"CHUNB",NA,"SIM","Minacu","-13.49575","-48.3974",2,"G. amarali",NA,NA
+"719","8058",NA,NA,NA,NA,NA,NA,NA,NA,NA,"CHUNB",NA,"SIM","Minacu","-13.49575","-48.3974",2,"G. amarali",NA,NA
+"720","8021",NA,NA,NA,NA,NA,NA,NA,NA,NA,"CHUNB",NA,"SIM","Minacu","-13.49575","-48.3974",2,"G. amarali",NA,NA
+"721","8029",NA,NA,NA,NA,NA,NA,NA,NA,NA,"CHUNB",NA,"SIM","Minacu","-13.49575","-48.3974",2,"G. amarali",NA,NA
+"722","8016",NA,NA,NA,NA,NA,NA,NA,NA,NA,"CHUNB",NA,"SIM","Minacu","-13.49575","-48.3974",2,"G. amarali",NA,NA
+"723","8009",NA,NA,NA,NA,NA,NA,NA,NA,NA,"CHUNB",NA,"SIM","Minacu","-13.49575","-48.3974",2,"G. amarali",NA,NA
+"724","8046",NA,NA,NA,NA,NA,NA,NA,NA,NA,"CHUNB",NA,"SIM","Minacu","-13.49575","-48.3974",2,"G. amarali",NA,NA
+"725","8015",NA,NA,NA,NA,NA,NA,NA,NA,NA,"CHUNB",NA,"SIM","Minacu","-13.49575","-48.3974",2,"G. amarali",NA,NA
+"726","8043",NA,NA,NA,NA,NA,NA,NA,NA,NA,"CHUNB",NA,"SIM","Minacu","-13.49575","-48.3974",2,"G. amarali",NA,NA
+"727","8056",NA,NA,NA,NA,NA,NA,NA,NA,NA,"CHUNB",NA,"SIM","Minacu","-13.49575","-48.3974",2,"G. amarali",NA,NA
+"728","53160",NA,NA,NA,NA,NA,NA,NA,NA,NA,"CHUNB",NA,"SIM","Minacu","-13.49575","-48.3974",2,"G. amarali",NA,NA
+"729","8014",NA,NA,NA,NA,NA,NA,NA,NA,NA,"CHUNB",NA,"SIM","Minacu","-13.49575","-48.3974",2,"G. amarali",NA,NA
+"730","8011",NA,NA,NA,NA,NA,NA,NA,NA,NA,"CHUNB",NA,"SIM","Minacu","-13.49575","-48.3974",2,"G. amarali",NA,NA
+"731","8047",NA,NA,NA,NA,NA,NA,NA,NA,NA,"CHUNB",NA,"SIM","Minacu","-13.49575","-48.3974",2,"G. amarali",NA,NA
+"732","8023",NA,NA,NA,NA,NA,NA,NA,NA,NA,"CHUNB",NA,"SIM","Minacu","-13.49575","-48.3974",2,"G. amarali",NA,NA
+"733","8018",NA,NA,NA,NA,NA,NA,NA,NA,NA,"CHUNB",NA,"SIM","Minacu","-13.49575","-48.3974",2,"G. amarali",NA,NA
+"734","8045",NA,NA,NA,NA,NA,NA,NA,NA,NA,"CHUNB",NA,"SIM","Minacu","-13.49575","-48.3974",2,"G. amarali",NA,NA
+"735","8034",NA,NA,NA,NA,NA,NA,NA,NA,NA,"CHUNB",NA,"SIM","Minacu","-13.49575","-48.3974",2,"G. amarali",NA,NA
+"736","8028",NA,NA,NA,NA,NA,NA,NA,NA,NA,"CHUNB",NA,"SIM","Minacu","-13.49575","-48.3974",2,"G. amarali",NA,NA
+"737","8026",NA,NA,NA,NA,NA,NA,NA,NA,NA,"CHUNB",NA,"SIM","Minacu","-13.49575","-48.3974",2,"G. amarali",NA,NA
+"738","8051",NA,NA,NA,NA,NA,NA,NA,NA,NA,"CHUNB",NA,"SIM","Minacu","-13.49575","-48.3974",2,"G. amarali",NA,NA
+"739","3086",NA,NA,NA,NA,NA,NA,NA,NA,NA,"CHUNB",NA,"SIM","Minacu","-13.49575","-48.3974",2,"G. amarali",NA,NA
+"740","8025",NA,NA,NA,NA,NA,NA,NA,NA,NA,"CHUNB",NA,"SIM","Minacu","-13.49575","-48.3974",2,"G. amarali",NA,NA
+"741","8044",NA,NA,NA,NA,NA,NA,NA,NA,NA,"CHUNB",NA,"SIM","Minacu","-13.49575","-48.3974",2,"G. amarali",NA,NA
+"742","8033",NA,NA,NA,NA,NA,NA,NA,NA,NA,"CHUNB",NA,"SIM","Minacu","-13.49575","-48.3974",2,"G. amarali",NA,NA
+"743","8040",NA,NA,NA,NA,NA,NA,NA,NA,NA,"CHUNB",NA,"SIM","Minacu","-13.49575","-48.3974",2,"G. amarali",NA,NA
+"744","8048",NA,NA,NA,NA,NA,NA,NA,NA,NA,"CHUNB",NA,"SIM","Minacu","-13.49575","-48.3974",2,"G. amarali",NA,NA
+"745","9498",NA,NA,NA,NA,NA,NA,NA,NA,NA,"CHUNB",NA,"SIM","Minacu","-13.49575","-48.3974",2,"G. amarali",NA,NA
+"746","3023",NA,NA,NA,NA,NA,NA,NA,NA,NA,"CHUNB",NA,"SIM","Minacu","-13.49575","-48.3974",2,"G. amarali",NA,NA
+"747","8032",NA,NA,NA,NA,NA,NA,NA,NA,NA,"CHUNB",NA,"SIM","Minacu","-13.49575","-48.3974",2,"G. amarali",NA,NA
+"748","3032",NA,NA,NA,NA,NA,NA,NA,NA,NA,"CHUNB",NA,"SIM","Minacu","-13.49575","-48.3974",2,"G. amarali",NA,NA
+"749","3088",NA,NA,NA,NA,NA,NA,NA,NA,NA,"CHUNB",NA,"SIM","Minacu","-13.49575","-48.3974",2,"G. amarali",NA,NA
+"750","3129",NA,NA,NA,NA,NA,NA,NA,NA,NA,"CHUNB",NA,"SIM","Minacu","-13.49575","-48.3974",2,"G. amarali",NA,NA
+"751","8054",NA,NA,NA,NA,NA,NA,NA,NA,NA,"CHUNB",NA,"SIM","Minacu","-13.49575","-48.3974",2,"G. amarali",NA,NA
+"752","8053",NA,NA,NA,NA,NA,NA,NA,NA,NA,"CHUNB",NA,"SIM","Minacu","-13.49575","-48.3974",2,"G. amarali",NA,NA
+"753","8059",NA,NA,NA,NA,NA,NA,NA,NA,NA,"CHUNB",NA,"SIM","Minacu","-13.49575","-48.3974",2,"G. amarali",NA,NA
+"754","3013",NA,NA,NA,NA,NA,NA,NA,NA,NA,"CHUNB",NA,"SIM","Minacu","-13.49575","-48.3974",2,"G. amarali",NA,NA
+"755","8041",NA,NA,NA,NA,NA,NA,NA,NA,NA,"CHUNB",NA,"SIM","Minacu","-13.49575","-48.3974",2,"G. amarali",NA,NA
+"756","8030",NA,NA,NA,NA,NA,NA,NA,NA,NA,"CHUNB",NA,"SIM","Minacu","-13.49575","-48.3974",2,"G. amarali",NA,NA
+"757","3060",NA,NA,NA,NA,NA,NA,NA,NA,NA,"CHUNB",NA,"SIM","Minacu","-13.49575","-48.3974",2,"G. amarali",NA,NA
+"758","8055",NA,NA,NA,NA,NA,NA,NA,NA,NA,"CHUNB",NA,"SIM","Minacu","-13.49575","-48.3974",2,"G. amarali",NA,NA
+"759","3033",NA,NA,NA,NA,NA,NA,NA,NA,NA,"CHUNB",NA,"SIM","Minacu","-13.49575","-48.3974",2,"G. amarali",NA,NA
+"760","3098",NA,NA,NA,NA,NA,NA,NA,NA,NA,"CHUNB",NA,"SIM","Minacu","-13.49575","-48.3974",2,"G. amarali",NA,NA
+"761","3095",NA,NA,NA,NA,NA,NA,NA,NA,NA,"CHUNB",NA,"SIM","Minacu","-13.49575","-48.3974",2,"G. amarali",NA,NA
+"762","8057",NA,NA,NA,NA,NA,NA,NA,NA,NA,"CHUNB",NA,"SIM","Minacu","-13.49575","-48.3974",2,"G. amarali",NA,NA
+"763","8049",NA,NA,NA,NA,NA,NA,NA,NA,NA,"CHUNB",NA,"SIM","Minacu","-13.49575","-48.3974",2,"G. amarali",NA,NA
+"764","3132",NA,NA,NA,NA,NA,NA,NA,NA,NA,"CHUNB",NA,"SIM","Minacu","-13.49575","-48.3974",2,"G. amarali",NA,NA
+"765","8027",NA,NA,NA,NA,NA,NA,NA,NA,NA,"CHUNB",NA,"SIM","Minacu","-13.49575","-48.3974",2,"G. amarali",NA,NA
+"766","3036",NA,NA,NA,NA,NA,NA,NA,NA,NA,"CHUNB",NA,"SIM","Minacu","-13.49575","-48.3974",2,"G. amarali",NA,NA
+"767","3078",NA,NA,NA,NA,NA,NA,NA,NA,NA,"CHUNB",NA,"SIM","Minacu","-13.49575","-48.3974",2,"G. amarali",NA,NA
+"768","8022",NA,NA,NA,NA,NA,NA,NA,NA,NA,"CHUNB",NA,"SIM","Minacu","-13.49575","-48.3974",2,"G. amarali",NA,NA
+"769","8008",NA,NA,NA,NA,NA,NA,NA,NA,NA,"CHUNB",NA,"SIM","Minacu","-13.49575","-48.3974",2,"G. amarali",NA,NA
+"770","3100",NA,NA,NA,NA,NA,NA,NA,NA,NA,"CHUNB",NA,"SIM","Minacu","-13.49575","-48.3974",2,"G. amarali",NA,NA
+"771","3127",NA,NA,NA,NA,NA,NA,NA,NA,NA,"CHUNB",NA,"SIM","Minacu","-13.49575","-48.3974",2,"G. amarali",NA,NA
+"772","3075",NA,NA,NA,NA,NA,NA,NA,NA,NA,"CHUNB",NA,"SIM","Minacu","-13.49575","-48.3974",2,"G. amarali",NA,NA
+"773","3042",NA,NA,NA,NA,NA,NA,NA,NA,NA,"CHUNB",NA,"SIM","Minacu","-13.49575","-48.3974",2,"G. amarali",NA,NA
+"774","3130",NA,NA,NA,NA,NA,NA,NA,NA,NA,"CHUNB",NA,"SIM","Minacu","-13.49575","-48.3974",2,"G. amarali",NA,NA
+"775","3034",NA,NA,NA,NA,NA,NA,NA,NA,NA,"CHUNB",NA,"SIM","Minacu","-13.49575","-48.3974",2,"G. amarali",NA,NA
+"776","3105",NA,NA,NA,NA,NA,NA,NA,NA,NA,"CHUNB",NA,"SIM","Minacu","-13.49575","-48.3974",2,"G. amarali",NA,NA
+"777","3119",NA,NA,NA,NA,NA,NA,NA,NA,NA,"CHUNB",NA,"SIM","Minacu","-13.49575","-48.3974",2,"G. amarali",NA,NA
+"778","3082",NA,NA,NA,NA,NA,NA,NA,NA,NA,"CHUNB",NA,"SIM","Minacu","-13.49575","-48.3974",2,"G. amarali",NA,NA
+"779","3068",NA,NA,NA,NA,NA,NA,NA,NA,NA,"CHUNB",NA,"SIM","Minacu","-13.49575","-48.3974",2,"G. amarali",NA,NA
+"780","3052",NA,NA,NA,NA,NA,NA,NA,NA,NA,"CHUNB",NA,"SIM","Minacu","-13.49575","-48.3974",2,"G. amarali",NA,NA
+"781","3058",NA,NA,NA,NA,NA,NA,NA,NA,NA,"CHUNB",NA,"SIM","Minacu","-13.49575","-48.3974",2,"G. amarali",NA,NA
+"782","3112",NA,NA,NA,NA,NA,NA,NA,NA,NA,"CHUNB",NA,"SIM","Minacu","-13.49575","-48.3974",2,"G. amarali",NA,NA
+"783","3040",NA,NA,NA,NA,NA,NA,NA,NA,NA,"CHUNB",NA,"SIM","Minacu","-13.49575","-48.3974",2,"G. amarali",NA,NA
+"784","3110",NA,NA,NA,NA,NA,NA,NA,NA,NA,"CHUNB",NA,"SIM","Minacu","-13.49575","-48.3974",2,"G. amarali",NA,NA
+"785","3104",NA,NA,NA,NA,NA,NA,NA,NA,NA,"CHUNB",NA,"SIM","Minacu","-13.49575","-48.3974",2,"G. amarali",NA,NA
+"786","3063",NA,NA,NA,NA,NA,NA,NA,NA,NA,"CHUNB",NA,"SIM","Minacu","-13.49575","-48.3974",2,"G. amarali",NA,NA
+"787","3114",NA,NA,NA,NA,NA,NA,NA,NA,NA,"CHUNB",NA,"SIM","Minacu","-13.49575","-48.3974",2,"G. amarali",NA,NA
+"788","3071",NA,NA,NA,NA,NA,NA,NA,NA,NA,"CHUNB",NA,"SIM","Minacu","-13.49575","-48.3974",2,"G. amarali",NA,NA
+"789","864",NA,NA,NA,NA,NA,NA,NA,NA,NA,"CHUNB",NA,"SIM","Mineiros","-17.56","-52.55",NA,"G. amarali",NA,NA
+"790","53068",NA,NA,NA,NA,NA,NA,NA,NA,NA,"CHUNB",NA,"SIM","MonteAlegre","-13.09325","-47.02351",7,"G. amarali",NA,NA
+"791","53066",NA,NA,NA,NA,NA,NA,NA,NA,NA,"CHUNB",NA,"SIM","MonteAlegre","-13.09325","-47.02351",7,"G. amarali",NA,NA
+"792","53083",NA,NA,NA,NA,NA,NA,NA,NA,NA,"CHUNB",NA,"SIM","MonteAlegre","-13.09325","-47.02351",7,"G. amarali",NA,NA
+"793","53078",NA,NA,NA,NA,NA,NA,NA,NA,NA,"CHUNB",NA,"SIM","MonteAlegre","-13.09325","-47.02351",7,"G. amarali",NA,NA
+"794","53082",NA,NA,NA,NA,NA,NA,NA,NA,NA,"CHUNB",NA,"SIM","MonteAlegre","-13.09325","-47.02351",7,"G. amarali",NA,NA
+"795","53074",NA,NA,NA,NA,NA,NA,NA,NA,NA,"CHUNB",NA,"SIM","MonteAlegre","-13.09325","-47.02351",7,"G. amarali",NA,NA
+"796","53084",NA,NA,NA,NA,NA,NA,NA,NA,NA,"CHUNB",NA,"SIM","MonteAlegre","-13.09325","-47.02351",7,"G. amarali",NA,NA
+"797","53075",NA,NA,NA,NA,NA,NA,NA,NA,NA,"CHUNB",NA,"SIM","MonteAlegre","-13.09325","-47.02351",7,"G. amarali",NA,NA
+"798","53077",NA,NA,NA,NA,NA,NA,NA,NA,NA,"CHUNB",NA,"SIM","MonteAlegre","-13.09325","-47.02351",7,"G. amarali",NA,NA
+"799","53076",NA,NA,NA,NA,NA,NA,NA,NA,NA,"CHUNB",NA,"SIM","MonteAlegre","-13.09325","-47.02351",7,"G. amarali",NA,NA
+"800","53080",NA,NA,NA,NA,NA,NA,NA,NA,NA,"CHUNB",NA,"SIM","MonteAlegre","-13.09325","-47.02351",7,"G. amarali",NA,NA
+"801","53057",NA,NA,NA,NA,NA,NA,NA,NA,NA,"CHUNB",NA,"SIM","MonteAlegre","-13.09325","-47.02351",7,"G. amarali",NA,NA
+"802","53071",NA,NA,NA,NA,NA,NA,NA,NA,NA,"CHUNB",NA,"SIM","MonteAlegre","-13.09325","-47.02351",7,"G. amarali",NA,NA
+"803","53085",NA,NA,NA,NA,NA,NA,NA,NA,NA,"CHUNB",NA,"SIM","MonteAlegre","-13.09325","-47.02351",7,"G. amarali",NA,NA
+"804","53073",NA,NA,NA,NA,NA,NA,NA,NA,NA,"CHUNB",NA,"SIM","MonteAlegre","-13.09325","-47.02351",7,"G. amarali",NA,NA
+"805","53063",NA,NA,NA,NA,NA,NA,NA,NA,NA,"CHUNB",NA,"SIM","MonteAlegre","-13.09325","-47.02351",7,"G. amarali",NA,NA
+"806","53069",NA,NA,NA,NA,NA,NA,NA,NA,NA,"CHUNB",NA,"SIM","MonteAlegre","-13.09325","-47.02351",7,"G. amarali",NA,NA
+"807","53064",NA,NA,NA,NA,NA,NA,NA,NA,NA,"CHUNB",NA,"SIM","MonteAlegre","-13.09325","-47.02351",7,"G. amarali",NA,NA
+"808","53079",NA,NA,NA,NA,NA,NA,NA,NA,NA,"CHUNB",NA,"SIM","MonteAlegre","-13.09325","-47.02351",7,"G. amarali",NA,NA
+"809","53053",NA,NA,NA,NA,NA,NA,NA,NA,NA,"CHUNB",NA,"SIM","MonteAlegre","-13.09325","-47.02351",7,"G. amarali",NA,NA
+"810","53072",NA,NA,NA,NA,NA,NA,NA,NA,NA,"CHUNB",NA,"SIM","MonteAlegre","-13.09325","-47.02351",7,"G. amarali",NA,NA
+"811","53081",NA,NA,NA,NA,NA,NA,NA,NA,NA,"CHUNB",NA,"SIM","MonteAlegre","-13.09325","-47.02351",7,"G. amarali",NA,NA
+"812","53067",NA,NA,NA,NA,NA,NA,NA,NA,NA,"CHUNB",NA,"SIM","MonteAlegre","-13.09325","-47.02351",7,"G. amarali",NA,NA
+"813","53070",NA,NA,NA,NA,NA,NA,NA,NA,NA,"CHUNB",NA,"SIM","MonteAlegre","-13.09325","-47.02351",7,"G. amarali",NA,NA
+"814","53065",NA,NA,NA,NA,NA,NA,NA,NA,NA,"CHUNB",NA,"SIM","MonteAlegre","-13.09325","-47.02351",7,"G. amarali",NA,NA
+"815","69370",NA,NA,NA,NA,NA,NA,NA,NA,NA,"CHUNB",NA,"SIM","MonteAlegre","-13.09325","-47.02351",7,"G. amarali",NA,NA
+"816","77824",NA,NA,NA,NA,NA,NA,NA,NA,NA,"MZUSP",NA,"SIM","Niquelandia","-14.27","-48.27",NA,"G. amarali",NA,NA
+"817","90093",NA,NA,NA,NA,NA,NA,NA,NA,NA,"MZUSP",NA,"SIM","Niquelandia","-14.27","-48.27",NA,"G. amarali",NA,NA
+"818","90095",NA,NA,NA,NA,NA,NA,NA,NA,NA,"MZUSP",NA,"SIM","Niquelandia","-14.27","-48.27",NA,"G. amarali",NA,NA
+"819","90094",NA,NA,NA,NA,NA,NA,NA,NA,NA,"MZUSP",NA,"SIM","Niquelandia","-14.27","-48.27",NA,"G. amarali",NA,NA
+"820","80154",NA,NA,NA,NA,NA,NA,NA,NA,NA,"MZUSP",NA,"SIM","NovaRoma","-13.75","-46.88333333",NA,"G. amarali",NA,NA
+"821","11200",NA,NA,NA,NA,NA,NA,NA,NA,NA,"CHUNB",NA,"SIM","Palmas","-10.18914","-48.10853",NA,"G. amarali",NA,NA
+"822","25089",NA,NA,NA,NA,NA,NA,NA,NA,NA,"CHUNB",NA,"SIM","Palmas","-10.18914","-48.10853",NA,"G. amarali",NA,NA
+"823","11506",NA,NA,NA,NA,NA,NA,NA,NA,NA,"CHUNB",NA,"SIM","Palmas","-10.18914","-48.10853",NA,"G. amarali",NA,NA
+"824","11174",NA,NA,NA,NA,NA,NA,NA,NA,NA,"CHUNB",NA,"SIM","Palmas","-10.18914","-48.10853",NA,"G. amarali",NA,NA
+"825","11176",NA,NA,NA,NA,NA,NA,NA,NA,NA,"CHUNB",NA,"SIM","Palmas","-10.18914","-48.10853",NA,"G. amarali",NA,NA
+"826","11203",NA,NA,NA,NA,NA,NA,NA,NA,NA,"CHUNB",NA,"SIM","Palmas","-10.18914","-48.10853",NA,"G. amarali",NA,NA
+"827","11503",NA,NA,NA,NA,NA,NA,NA,NA,NA,"CHUNB",NA,"SIM","Palmas","-10.18914","-48.10853",NA,"G. amarali",NA,NA
+"828","11513",NA,NA,NA,NA,NA,NA,NA,NA,NA,"CHUNB",NA,"SIM","Palmas","-10.18914","-48.10853",NA,"G. amarali",NA,NA
+"829","11186",NA,NA,NA,NA,NA,NA,NA,NA,NA,"CHUNB",NA,"SIM","Palmas","-10.18914","-48.10853",NA,"G. amarali",NA,NA
+"830","11182",NA,NA,NA,NA,NA,NA,NA,NA,NA,"CHUNB",NA,"SIM","Palmas","-10.18914","-48.10853",NA,"G. amarali",NA,NA
+"831","11177",NA,NA,NA,NA,NA,NA,NA,NA,NA,"CHUNB",NA,"SIM","Palmas","-10.18914","-48.10853",NA,"G. amarali",NA,NA
+"832","11188",NA,NA,NA,NA,NA,NA,NA,NA,NA,"CHUNB",NA,"SIM","Palmas","-10.18914","-48.10853",NA,"G. amarali",NA,NA
+"833","11202",NA,NA,NA,NA,NA,NA,NA,NA,NA,"CHUNB",NA,"SIM","Palmas","-10.18914","-48.10853",NA,"G. amarali",NA,NA
+"834","11179",NA,NA,NA,NA,NA,NA,NA,NA,NA,"CHUNB",NA,"SIM","Palmas","-10.18914","-48.10853",NA,"G. amarali",NA,NA
+"835","11189",NA,NA,NA,NA,NA,NA,NA,NA,NA,"CHUNB",NA,"SIM","Palmas","-10.18914","-48.10853",NA,"G. amarali",NA,NA
+"836","11183",NA,NA,NA,NA,NA,NA,NA,NA,NA,"CHUNB",NA,"SIM","Palmas","-10.18914","-48.10853",NA,"G. amarali",NA,NA
+"837","11505",NA,NA,NA,NA,NA,NA,NA,NA,NA,"CHUNB",NA,"SIM","Palmas","-10.18914","-48.10853",NA,"G. amarali",NA,NA
+"838","11173",NA,NA,NA,NA,NA,NA,NA,NA,NA,"CHUNB",NA,"SIM","Palmas","-10.18914","-48.10853",NA,"G. amarali",NA,NA
+"839","24654",NA,NA,NA,NA,NA,NA,NA,NA,NA,"CHUNB",NA,"SIM","Palmas","-10.18914","-48.10853",NA,"G. amarali",NA,NA
+"840","11175",NA,NA,NA,NA,NA,NA,NA,NA,NA,"CHUNB",NA,"SIM","Palmas","-10.18914","-48.10853",NA,"G. amarali",NA,NA
+"841","11511",NA,NA,NA,NA,NA,NA,NA,NA,NA,"CHUNB",NA,"SIM","Palmas","-10.18914","-48.10853",NA,"G. amarali",NA,NA
+"842","11504",NA,NA,NA,NA,NA,NA,NA,NA,NA,"CHUNB",NA,"SIM","Palmas","-10.18914","-48.10853",NA,"G. amarali",NA,NA
+"843","11180",NA,NA,NA,NA,NA,NA,NA,NA,NA,"CHUNB",NA,"SIM","Palmas","-10.18914","-48.10853",NA,"G. amarali",NA,NA
+"844","11509",NA,NA,NA,NA,NA,NA,NA,NA,NA,"CHUNB",NA,"SIM","Palmas","-10.18914","-48.10853",NA,"G. amarali",NA,NA
+"845","11512",NA,NA,NA,NA,NA,NA,NA,NA,NA,"CHUNB",NA,"SIM","Palmas","-10.18914","-48.10853",NA,"G. amarali",NA,NA
+"846","11178",NA,NA,NA,NA,NA,NA,NA,NA,NA,"CHUNB",NA,"SIM","Palmas","-10.18914","-48.10853",NA,"G. amarali",NA,NA
+"847","25090",NA,NA,NA,NA,NA,NA,NA,NA,NA,"CHUNB",NA,"SIM","Palmas","-10.18914","-48.10853",NA,"G. amarali",NA,NA
+"848","11201",NA,NA,NA,NA,NA,NA,NA,NA,NA,"CHUNB",NA,"SIM","Palmas","-10.18914","-48.10853",NA,"G. amarali",NA,NA
+"849","11502",NA,NA,NA,NA,NA,NA,NA,NA,NA,"CHUNB",NA,"SIM","Palmas","-10.18914","-48.10853",NA,"G. amarali",NA,NA
+"850","11507",NA,NA,NA,NA,NA,NA,NA,NA,NA,"CHUNB",NA,"SIM","Palmas","-10.18914","-48.10853",NA,"G. amarali",NA,NA
+"851","11184",NA,NA,NA,NA,NA,NA,NA,NA,NA,"CHUNB",NA,"SIM","Palmas","-10.18914","-48.10853",NA,"G. amarali",NA,NA
+"852","11204",NA,NA,NA,NA,NA,NA,NA,NA,NA,"CHUNB",NA,"SIM","Palmas","-10.18914","-48.10853",NA,"G. amarali",NA,NA
+"853","11510",NA,NA,NA,NA,NA,NA,NA,NA,NA,"CHUNB",NA,"SIM","Palmas","-10.18914","-48.10853",NA,"G. amarali",NA,NA
+"854","11187",NA,NA,NA,NA,NA,NA,NA,NA,NA,"CHUNB",NA,"SIM","Palmas","-10.18914","-48.10853",NA,"G. amarali",NA,NA
+"855","11199",NA,NA,NA,NA,NA,NA,NA,NA,NA,"CHUNB",NA,"SIM","Palmas","-10.18914","-48.10853",NA,"G. amarali",NA,NA
+"856","12440",NA,NA,NA,NA,NA,NA,NA,NA,NA,"CHUNB",NA,"SIM","Palmas","-10.18914","-48.10853",NA,"G. amarali",NA,NA
+"857","12439",NA,NA,NA,NA,NA,NA,NA,NA,NA,"CHUNB",NA,"SIM","Palmas","-10.18914","-48.10853",NA,"G. amarali",NA,NA
+"858","12437",NA,NA,NA,NA,NA,NA,NA,NA,NA,"CHUNB",NA,"SIM","Palmas","-10.18914","-48.10853",NA,"G. amarali",NA,NA
+"859","11508",NA,NA,NA,NA,NA,NA,NA,NA,NA,"CHUNB",NA,"SIM","Palmas","-10.18914","-48.10853",NA,"G. amarali",NA,NA
+"860","11185",NA,NA,NA,NA,NA,NA,NA,NA,NA,"CHUNB",NA,"SIM","Palmas","-10.18914","-48.10853",NA,"G. amarali",NA,NA
+"861","87119",NA,NA,NA,NA,NA,NA,NA,NA,NA,"MZUSP",NA,"SIM","Palmas","-10.18914","-48.10853",NA,"G. amarali",NA,NA
+"862","87120",NA,NA,NA,NA,NA,NA,NA,NA,NA,"MZUSP",NA,"SIM","Palmas","-10.18914","-48.10853",NA,"G. amarali",NA,NA
+"863","87121",NA,NA,NA,NA,NA,NA,NA,NA,NA,"MZUSP",NA,"SIM","Palmas","-10.18914","-48.10853",NA,"G. amarali",NA,NA
+"864","37093",NA,NA,NA,NA,NA,NA,NA,NA,NA,"CHUNB",NA,"SIM","Parana","-12.75309","-47.75906",7,"G. amarali",NA,NA
+"865","33548",NA,NA,NA,NA,NA,NA,NA,NA,NA,"CHUNB",NA,"SIM","Parana","-12.75309","-47.75906",7,"G. amarali",NA,NA
+"866","33581",NA,NA,NA,NA,NA,NA,NA,NA,NA,"CHUNB",NA,"SIM","Parana","-12.75309","-47.75906",7,"G. amarali",NA,NA
+"867","33542",NA,NA,NA,NA,NA,NA,NA,NA,NA,"CHUNB",NA,"SIM","Parana","-12.75309","-47.75906",7,"G. amarali",NA,NA
+"868","33549",NA,NA,NA,NA,NA,NA,NA,NA,NA,"CHUNB",NA,"SIM","Parana","-12.75309","-47.75906",7,"G. amarali",NA,NA
+"869","37116",NA,NA,NA,NA,NA,NA,NA,NA,NA,"CHUNB",NA,"SIM","Parana","-12.75309","-47.75906",7,"G. amarali",NA,NA
+"870","37123",NA,NA,NA,NA,NA,NA,NA,NA,NA,"CHUNB",NA,"SIM","Parana","-12.75309","-47.75906",7,"G. amarali",NA,NA
+"871","33540",NA,NA,NA,NA,NA,NA,NA,NA,NA,"CHUNB",NA,"SIM","Parana","-12.75309","-47.75906",7,"G. amarali",NA,NA
+"872","33570",NA,NA,NA,NA,NA,NA,NA,NA,NA,"CHUNB",NA,"SIM","Parana","-12.75309","-47.75906",7,"G. amarali",NA,NA
+"873","33553",NA,NA,NA,NA,NA,NA,NA,NA,NA,"CHUNB",NA,"SIM","Parana","-12.75309","-47.75906",7,"G. amarali",NA,NA
+"874","33544",NA,NA,NA,NA,NA,NA,NA,NA,NA,"CHUNB",NA,"SIM","Parana","-12.75309","-47.75906",7,"G. amarali",NA,NA
+"875","33561",NA,NA,NA,NA,NA,NA,NA,NA,NA,"CHUNB",NA,"SIM","Parana","-12.75309","-47.75906",7,"G. amarali",NA,NA
+"876","33537",NA,NA,NA,NA,NA,NA,NA,NA,NA,"CHUNB",NA,"SIM","Parana","-12.75309","-47.75906",7,"G. amarali",NA,NA
+"877","33539",NA,NA,NA,NA,NA,NA,NA,NA,NA,"CHUNB",NA,"SIM","Parana","-12.75309","-47.75906",7,"G. amarali",NA,NA
+"878","37126",NA,NA,NA,NA,NA,NA,NA,NA,NA,"CHUNB",NA,"SIM","Parana","-12.75309","-47.75906",7,"G. amarali",NA,NA
+"879","33541",NA,NA,NA,NA,NA,NA,NA,NA,NA,"CHUNB",NA,"SIM","Parana","-12.75309","-47.75906",7,"G. amarali",NA,NA
+"880","33545",NA,NA,NA,NA,NA,NA,NA,NA,NA,"CHUNB",NA,"SIM","Parana","-12.75309","-47.75906",7,"G. amarali",NA,NA
+"881","33550",NA,NA,NA,NA,NA,NA,NA,NA,NA,"CHUNB",NA,"SIM","Parana","-12.75309","-47.75906",7,"G. amarali",NA,NA
+"882","33558",NA,NA,NA,NA,NA,NA,NA,NA,NA,"CHUNB",NA,"SIM","Parana","-12.75309","-47.75906",7,"G. amarali",NA,NA
+"883","33536",NA,NA,NA,NA,NA,NA,NA,NA,NA,"CHUNB",NA,"SIM","Parana","-12.75309","-47.75906",7,"G. amarali",NA,NA
+"884","37115",NA,NA,NA,NA,NA,NA,NA,NA,NA,"CHUNB",NA,"SIM","Parana","-12.75309","-47.75906",7,"G. amarali",NA,NA
+"885","37111",NA,NA,NA,NA,NA,NA,NA,NA,NA,"CHUNB",NA,"SIM","Parana","-12.75309","-47.75906",7,"G. amarali",NA,NA
+"886","37132",NA,NA,NA,NA,NA,NA,NA,NA,NA,"CHUNB",NA,"SIM","Parana","-12.75309","-47.75906",7,"G. amarali",NA,NA
+"887","37098",NA,NA,NA,NA,NA,NA,NA,NA,NA,"CHUNB",NA,"SIM","Parana","-12.75309","-47.75906",7,"G. amarali",NA,NA
+"888","33551",NA,NA,NA,NA,NA,NA,NA,NA,NA,"CHUNB",NA,"SIM","Parana","-12.75309","-47.75906",7,"G. amarali",NA,NA
+"889","37118",NA,NA,NA,NA,NA,NA,NA,NA,NA,"CHUNB",NA,"SIM","Parana","-12.75309","-47.75906",7,"G. amarali",NA,NA
+"890","37089",NA,NA,NA,NA,NA,NA,NA,NA,NA,"CHUNB",NA,"SIM","Parana","-12.75309","-47.75906",7,"G. amarali",NA,NA
+"891","33563",NA,NA,NA,NA,NA,NA,NA,NA,NA,"CHUNB",NA,"SIM","Parana","-12.75309","-47.75906",7,"G. amarali",NA,NA
+"892","33568",NA,NA,NA,NA,NA,NA,NA,NA,NA,"CHUNB",NA,"SIM","Parana","-12.75309","-47.75906",7,"G. amarali",NA,NA
+"893","37103",NA,NA,NA,NA,NA,NA,NA,NA,NA,"CHUNB",NA,"SIM","Parana","-12.75309","-47.75906",7,"G. amarali",NA,NA
+"894","37096",NA,NA,NA,NA,NA,NA,NA,NA,NA,"CHUNB",NA,"SIM","Parana","-12.75309","-47.75906",7,"G. amarali",NA,NA
+"895","37114",NA,NA,NA,NA,NA,NA,NA,NA,NA,"CHUNB",NA,"SIM","Parana","-12.75309","-47.75906",7,"G. amarali",NA,NA
+"896","33559",NA,NA,NA,NA,NA,NA,NA,NA,NA,"CHUNB",NA,"SIM","Parana","-12.75309","-47.75906",7,"G. amarali",NA,NA
+"897","37109",NA,NA,NA,NA,NA,NA,NA,NA,NA,"CHUNB",NA,"SIM","Parana","-12.75309","-47.75906",7,"G. amarali",NA,NA
+"898","37121",NA,NA,NA,NA,NA,NA,NA,NA,NA,"CHUNB",NA,"SIM","Parana","-12.75309","-47.75906",7,"G. amarali",NA,NA
+"899","37094",NA,NA,NA,NA,NA,NA,NA,NA,NA,"CHUNB",NA,"SIM","Parana","-12.75309","-47.75906",7,"G. amarali",NA,NA
+"900","37091",NA,NA,NA,NA,NA,NA,NA,NA,NA,"CHUNB",NA,"SIM","Parana","-12.75309","-47.75906",7,"G. amarali",NA,NA
+"901","37104",NA,NA,NA,NA,NA,NA,NA,NA,NA,"CHUNB",NA,"SIM","Parana","-12.75309","-47.75906",7,"G. amarali",NA,NA
+"902","33547",NA,NA,NA,NA,NA,NA,NA,NA,NA,"CHUNB",NA,"SIM","Parana","-12.75309","-47.75906",7,"G. amarali",NA,NA
+"903","33564",NA,NA,NA,NA,NA,NA,NA,NA,NA,"CHUNB",NA,"SIM","Parana","-12.75309","-47.75906",7,"G. amarali",NA,NA
+"904","33572",NA,NA,NA,NA,NA,NA,NA,NA,NA,"CHUNB",NA,"SIM","Parana","-12.75309","-47.75906",7,"G. amarali",NA,NA
+"905","37095",NA,NA,NA,NA,NA,NA,NA,NA,NA,"CHUNB",NA,"SIM","Parana","-12.75309","-47.75906",7,"G. amarali",NA,NA
+"906","37130",NA,NA,NA,NA,NA,NA,NA,NA,NA,"CHUNB",NA,"SIM","Parana","-12.75309","-47.75906",7,"G. amarali",NA,NA
+"907","37120",NA,NA,NA,NA,NA,NA,NA,NA,NA,"CHUNB",NA,"SIM","Parana","-12.75309","-47.75906",7,"G. amarali",NA,NA
+"908","37124",NA,NA,NA,NA,NA,NA,NA,NA,NA,"CHUNB",NA,"SIM","Parana","-12.75309","-47.75906",7,"G. amarali",NA,NA
+"909","37131",NA,NA,NA,NA,NA,NA,NA,NA,NA,"CHUNB",NA,"SIM","Parana","-12.75309","-47.75906",7,"G. amarali",NA,NA
+"910","37100",NA,NA,NA,NA,NA,NA,NA,NA,NA,"CHUNB",NA,"SIM","Parana","-12.75309","-47.75906",7,"G. amarali",NA,NA
+"911","33576",NA,NA,NA,NA,NA,NA,NA,NA,NA,"CHUNB",NA,"SIM","Parana","-12.75309","-47.75906",7,"G. amarali",NA,NA
+"912","37087",NA,NA,NA,NA,NA,NA,NA,NA,NA,"CHUNB",NA,"SIM","Parana","-12.75309","-47.75906",7,"G. amarali",NA,NA
+"913","37112",NA,NA,NA,NA,NA,NA,NA,NA,NA,"CHUNB",NA,"SIM","Parana","-12.75309","-47.75906",7,"G. amarali",NA,NA
+"914","37117",NA,NA,NA,NA,NA,NA,NA,NA,NA,"CHUNB",NA,"SIM","Parana","-12.75309","-47.75906",7,"G. amarali",NA,NA
+"915","37108",NA,NA,NA,NA,NA,NA,NA,NA,NA,"CHUNB",NA,"SIM","Parana","-12.75309","-47.75906",7,"G. amarali",NA,NA
+"916","33567",NA,NA,NA,NA,NA,NA,NA,NA,NA,"CHUNB",NA,"SIM","Parana","-12.75309","-47.75906",7,"G. amarali",NA,NA
+"917","37085",NA,NA,NA,NA,NA,NA,NA,NA,NA,"CHUNB",NA,"SIM","Parana","-12.75309","-47.75906",7,"G. amarali",NA,NA
+"918","37119",NA,NA,NA,NA,NA,NA,NA,NA,NA,"CHUNB",NA,"SIM","Parana","-12.75309","-47.75906",7,"G. amarali",NA,NA
+"919","33575",NA,NA,NA,NA,NA,NA,NA,NA,NA,"CHUNB",NA,"SIM","Parana","-12.75309","-47.75906",7,"G. amarali",NA,NA
+"920","37127",NA,NA,NA,NA,NA,NA,NA,NA,NA,"CHUNB",NA,"SIM","Parana","-12.75309","-47.75906",7,"G. amarali",NA,NA
+"921","37106",NA,NA,NA,NA,NA,NA,NA,NA,NA,"CHUNB",NA,"SIM","Parana","-12.75309","-47.75906",7,"G. amarali",NA,NA
+"922","37092",NA,NA,NA,NA,NA,NA,NA,NA,NA,"CHUNB",NA,"SIM","Parana","-12.75309","-47.75906",7,"G. amarali",NA,NA
+"923","33580",NA,NA,NA,NA,NA,NA,NA,NA,NA,"CHUNB",NA,"SIM","Parana","-12.75309","-47.75906",7,"G. amarali",NA,NA
+"924","37110",NA,NA,NA,NA,NA,NA,NA,NA,NA,"CHUNB",NA,"SIM","Parana","-12.75309","-47.75906",7,"G. amarali",NA,NA
+"925","37122",NA,NA,NA,NA,NA,NA,NA,NA,NA,"CHUNB",NA,"SIM","Parana","-12.75309","-47.75906",7,"G. amarali",NA,NA
+"926","33557",NA,NA,NA,NA,NA,NA,NA,NA,NA,"CHUNB",NA,"SIM","Parana","-12.75309","-47.75906",7,"G. amarali",NA,NA
+"927","37105",NA,NA,NA,NA,NA,NA,NA,NA,NA,"CHUNB",NA,"SIM","Parana","-12.75309","-47.75906",7,"G. amarali",NA,NA
+"928","37113",NA,NA,NA,NA,NA,NA,NA,NA,NA,"CHUNB",NA,"SIM","Parana","-12.75309","-47.75906",7,"G. amarali",NA,NA
+"929","37107",NA,NA,NA,NA,NA,NA,NA,NA,NA,"CHUNB",NA,"SIM","Parana","-12.75309","-47.75906",7,"G. amarali",NA,NA
+"930","33577",NA,NA,NA,NA,NA,NA,NA,NA,NA,"CHUNB",NA,"SIM","Parana","-12.75309","-47.75906",7,"G. amarali",NA,NA
+"931","37138",NA,NA,NA,NA,NA,NA,NA,NA,NA,"CHUNB",NA,"SIM","Parana","-12.75309","-47.75906",7,"G. amarali",NA,NA
+"932","37129",NA,NA,NA,NA,NA,NA,NA,NA,NA,"CHUNB",NA,"SIM","Parana","-12.75309","-47.75906",7,"G. amarali",NA,NA
+"933","37097",NA,NA,NA,NA,NA,NA,NA,NA,NA,"CHUNB",NA,"SIM","Parana","-12.75309","-47.75906",7,"G. amarali",NA,NA
+"934","37133",NA,NA,NA,NA,NA,NA,NA,NA,NA,"CHUNB",NA,"SIM","Parana","-12.75309","-47.75906",7,"G. amarali",NA,NA
+"935","37137",NA,NA,NA,NA,NA,NA,NA,NA,NA,"CHUNB",NA,"SIM","Parana","-12.75309","-47.75906",7,"G. amarali",NA,NA
+"936","37135",NA,NA,NA,NA,NA,NA,NA,NA,NA,"CHUNB",NA,"SIM","Parana","-12.75309","-47.75906",7,"G. amarali",NA,NA
+"937","37099",NA,NA,NA,NA,NA,NA,NA,NA,NA,"CHUNB",NA,"SIM","Parana","-12.75309","-47.75906",7,"G. amarali",NA,NA
+"938","37134",NA,NA,NA,NA,NA,NA,NA,NA,NA,"CHUNB",NA,"SIM","Parana","-12.75309","-47.75906",7,"G. amarali",NA,NA
+"939","33582",NA,NA,NA,NA,NA,NA,NA,NA,NA,"CHUNB",NA,"SIM","Parana","-12.75309","-47.75906",7,"G. amarali",NA,NA
+"940","37136",NA,NA,NA,NA,NA,NA,NA,NA,NA,"CHUNB",NA,"SIM","Parana","-12.75309","-47.75906",7,"G. amarali",NA,NA
+"941","37101",NA,NA,NA,NA,NA,NA,NA,NA,NA,"CHUNB",NA,"SIM","Parana","-12.75309","-47.75906",7,"G. amarali",NA,NA
+"942","33579",NA,NA,NA,NA,NA,NA,NA,NA,NA,"CHUNB",NA,"SIM","Parana","-12.75309","-47.75906",7,"G. amarali",NA,NA
+"943","37102",NA,NA,NA,NA,NA,NA,NA,NA,NA,"CHUNB",NA,"SIM","Parana","-12.75309","-47.75906",7,"G. amarali",NA,NA
+"944","33573",NA,NA,NA,NA,NA,NA,NA,NA,NA,"CHUNB",NA,"SIM","Parana","-12.75309","-47.75906",7,"G. amarali",NA,NA
+"945","50829",NA,NA,NA,NA,NA,NA,NA,NA,NA,"CHUNB",NA,"SIM","PedroAfonso","-8.58","-48.1",NA,"G. amarali",NA,NA
+"946","50830",NA,NA,NA,NA,NA,NA,NA,NA,NA,"CHUNB",NA,"SIM","PedroAfonso","-8.58","-48.1",NA,"G. amarali",NA,NA
+"947","52610",NA,NA,NA,NA,NA,NA,NA,NA,NA,"CHUNB",NA,"SIM","Peixe","-12.03333333","-48.35",6,"G. amarali",NA,NA
+"948","52608",NA,NA,NA,NA,NA,NA,NA,NA,NA,"CHUNB",NA,"SIM","Peixe","-12.03333333","-48.35",6,"G. amarali",NA,NA
+"949","52607",NA,NA,NA,NA,NA,NA,NA,NA,NA,"CHUNB",NA,"SIM","Peixe","-12.03333333","-48.35",6,"G. amarali",NA,NA
+"950","91509",NA,NA,NA,NA,NA,NA,NA,NA,NA,"MZUSP",NA,"SIM","Peixe","-12.03333333","-48.35",6,"G. amarali",NA,NA
+"951","91511",NA,NA,NA,NA,NA,NA,NA,NA,NA,"MZUSP",NA,"SIM","Peixe","-12.03333333","-48.35",6,"G. amarali",NA,NA
+"952","91510",NA,NA,NA,NA,NA,NA,NA,NA,NA,"MZUSP",NA,"SIM","Peixe","-12.03333333","-48.35",6,"G. amarali",NA,NA
+"953","89577",NA,NA,NA,NA,NA,NA,NA,NA,NA,"MZUSP",NA,"SIM","Peixe","-12.03333333","-48.35",6,"G. amarali",NA,NA
+"954","89579",NA,NA,NA,NA,NA,NA,NA,NA,NA,"MZUSP",NA,"SIM","Peixe","-12.03333333","-48.35",6,"G. amarali",NA,NA
+"955","89578",NA,NA,NA,NA,NA,NA,NA,NA,NA,"MZUSP",NA,"SIM","Peixe","-12.03333333","-48.35",6,"G. amarali",NA,NA
+"956","89581",NA,NA,NA,NA,NA,NA,NA,NA,NA,"MZUSP",NA,"SIM","Peixe","-12.03333333","-48.35",6,"G. amarali",NA,NA
+"957","89580",NA,NA,NA,NA,NA,NA,NA,NA,NA,"MZUSP",NA,"SIM","Peixe","-12.03333333","-48.35",6,"G. amarali",NA,NA
+"958","89576",NA,NA,NA,NA,NA,NA,NA,NA,NA,"MZUSP",NA,"SIM","Peixe","-12.03333333","-48.35",6,"G. amarali",NA,NA
+"959","88728",NA,NA,NA,NA,NA,NA,NA,NA,NA,"MZUSP",NA,"SIM","Peixe","-12.03333333","-48.35",6,"G. amarali",NA,NA
+"960","88730",NA,NA,NA,NA,NA,NA,NA,NA,NA,"MZUSP",NA,"SIM","Peixe","-12.03333333","-48.35",6,"G. amarali",NA,NA
+"961","88729",NA,NA,NA,NA,NA,NA,NA,NA,NA,"MZUSP",NA,"SIM","Peixe","-12.03333333","-48.35",6,"G. amarali",NA,NA
+"962","88731",NA,NA,NA,NA,NA,NA,NA,NA,NA,"MZUSP",NA,"SIM","Peixe","-12.03333333","-48.35",6,"G. amarali",NA,NA
+"963","96288",NA,NA,NA,NA,NA,NA,NA,NA,NA,"MZUSP",NA,"SIM","Peixe","-12.03333333","-48.35",6,"G. amarali",NA,NA
+"964","96286",NA,NA,NA,NA,NA,NA,NA,NA,NA,"MZUSP",NA,"SIM","Peixe","-12.03333333","-48.35",6,"G. amarali",NA,NA
+"965","96292",NA,NA,NA,NA,NA,NA,NA,NA,NA,"MZUSP",NA,"SIM","Peixe","-12.03333333","-48.35",6,"G. amarali",NA,NA
+"966","96284",NA,NA,NA,NA,NA,NA,NA,NA,NA,"MZUSP",NA,"SIM","Peixe","-12.03333333","-48.35",6,"G. amarali",NA,NA
+"967","96290",NA,NA,NA,NA,NA,NA,NA,NA,NA,"MZUSP",NA,"SIM","Peixe","-12.03333333","-48.35",6,"G. amarali",NA,NA
+"968","96289",NA,NA,NA,NA,NA,NA,NA,NA,NA,"MZUSP",NA,"SIM","Peixe","-12.03333333","-48.35",6,"G. amarali",NA,NA
+"969","96291",NA,NA,NA,NA,NA,NA,NA,NA,NA,"MZUSP",NA,"SIM","Peixe","-12.03333333","-48.35",6,"G. amarali",NA,NA
+"970","96285",NA,NA,NA,NA,NA,NA,NA,NA,NA,"MZUSP",NA,"SIM","Peixe","-12.03333333","-48.35",6,"G. amarali",NA,NA
+"971","893",NA,NA,NA,NA,NA,NA,NA,NA,NA,"CHUNB",NA,"SIM","Pirenopolis","-15.82596","-49.01104",NA,"G. amarali",NA,NA
+"972","87",NA,NA,NA,NA,NA,NA,NA,NA,NA,"CHUNB",NA,"SIM","Pirenopolis","-15.82596","-49.01104",NA,"G. amarali",NA,NA
+"973","11080",NA,NA,NA,NA,NA,NA,NA,NA,NA,"CHUNB",NA,"SIM","Pirenopolis","-15.82596","-49.01104",NA,"G. amarali",NA,NA
+"974","39806",NA,NA,NA,NA,NA,NA,NA,NA,NA,"CHUNB",NA,"SIM","Pirenopolis","-15.82596","-49.01104",NA,"G. amarali",NA,NA
+"975","90",NA,NA,NA,NA,NA,NA,NA,NA,NA,"CHUNB",NA,"SIM","Pirenopolis","-15.82596","-49.01104",NA,"G. amarali",NA,NA
+"976","34684",NA,NA,NA,NA,NA,NA,NA,NA,NA,"CHUNB",NA,"SIM","Pirenopolis","-15.82596","-49.01104",NA,"G. amarali",NA,NA
+"977","312",NA,NA,NA,NA,NA,NA,NA,NA,NA,"CHUNB",NA,"SIM","Pirenopolis","-15.82596","-49.01104",NA,"G. amarali",NA,NA
+"978","386",NA,NA,NA,NA,NA,NA,NA,NA,NA,"CHUNB",NA,"SIM","Pirenopolis","-15.82596","-49.01104",NA,"G. amarali",NA,NA
+"979","391",NA,NA,NA,NA,NA,NA,NA,NA,NA,"CHUNB",NA,"SIM","Pirenopolis","-15.82596","-49.01104",NA,"G. amarali",NA,NA
+"980","92",NA,NA,NA,NA,NA,NA,NA,NA,NA,"CHUNB",NA,"SIM","Pirenopolis","-15.82596","-49.01104",NA,"G. amarali",NA,NA
+"981","299",NA,NA,NA,NA,NA,NA,NA,NA,NA,"CHUNB",NA,"SIM","Pirenopolis","-15.82596","-49.01104",NA,"G. amarali",NA,NA
+"982","377",NA,NA,NA,NA,NA,NA,NA,NA,NA,"CHUNB",NA,"SIM","Pirenopolis","-15.82596","-49.01104",NA,"G. amarali",NA,NA
+"983","34682",NA,NA,NA,NA,NA,NA,NA,NA,NA,"CHUNB",NA,"SIM","Pirenopolis","-15.82596","-49.01104",NA,"G. amarali",NA,NA
+"984","293",NA,NA,NA,NA,NA,NA,NA,NA,NA,"CHUNB",NA,"SIM","Pirenopolis","-15.82596","-49.01104",NA,"G. amarali",NA,NA
+"985","91",NA,NA,NA,NA,NA,NA,NA,NA,NA,"CHUNB",NA,"SIM","Pirenopolis","-15.82596","-49.01104",NA,"G. amarali",NA,NA
+"986","94",NA,NA,NA,NA,NA,NA,NA,NA,NA,"CHUNB",NA,"SIM","Pirenopolis","-15.82596","-49.01104",NA,"G. amarali",NA,NA
+"987","88",NA,NA,NA,NA,NA,NA,NA,NA,NA,"CHUNB",NA,"SIM","Pirenopolis","-15.82596","-49.01104",NA,"G. amarali",NA,NA
+"988","385",NA,NA,NA,NA,NA,NA,NA,NA,NA,"CHUNB",NA,"SIM","Pirenopolis","-15.82596","-49.01104",NA,"G. amarali",NA,NA
+"989","86",NA,NA,NA,NA,NA,NA,NA,NA,NA,"CHUNB",NA,"SIM","Pirenopolis","-15.82596","-49.01104",NA,"G. amarali",NA,NA
+"990","34681",NA,NA,NA,NA,NA,NA,NA,NA,NA,"CHUNB",NA,"SIM","Pirenopolis","-15.82596","-49.01104",NA,"G. amarali",NA,NA
+"991","297",NA,NA,NA,NA,NA,NA,NA,NA,NA,"CHUNB",NA,"SIM","Pirenopolis","-15.82596","-49.01104",NA,"G. amarali",NA,NA
+"992","39924",NA,NA,NA,NA,NA,NA,NA,NA,NA,"CHUNB",NA,"SIM","Pirenopolis","-15.82596","-49.01104",NA,"G. amarali",NA,NA
+"993","9497",NA,NA,NA,NA,NA,NA,NA,NA,NA,"CHUNB",NA,"SIM","Pirenopolis","-15.82596","-49.01104",NA,"G. amarali",NA,NA
+"994","34683",NA,NA,NA,NA,NA,NA,NA,NA,NA,"CHUNB",NA,"SIM","Pirenopolis","-15.82596","-49.01104",NA,"G. amarali",NA,NA
+"995","39851",NA,NA,NA,NA,NA,NA,NA,NA,NA,"CHUNB",NA,"SIM","Pirenopolis","-15.82596","-49.01104",NA,"G. amarali",NA,NA
+"996","372",NA,NA,NA,NA,NA,NA,NA,NA,NA,"CHUNB",NA,"SIM","Pirenopolis","-15.82596","-49.01104",NA,"G. amarali",NA,NA
+"997","296",NA,NA,NA,NA,NA,NA,NA,NA,NA,"CHUNB",NA,"SIM","Pirenopolis","-15.82596","-49.01104",NA,"G. amarali",NA,NA
+"998","375",NA,NA,NA,NA,NA,NA,NA,NA,NA,"CHUNB",NA,"SIM","Pirenopolis","-15.82596","-49.01104",NA,"G. amarali",NA,NA
+"999","374",NA,NA,NA,NA,NA,NA,NA,NA,NA,"CHUNB",NA,"SIM","Pirenopolis","-15.82596","-49.01104",NA,"G. amarali",NA,NA
+"1000","373",NA,NA,NA,NA,NA,NA,NA,NA,NA,"CHUNB",NA,"SIM","Pirenopolis","-15.82596","-49.01104",NA,"G. amarali",NA,NA
+"1001","384",NA,NA,NA,NA,NA,NA,NA,NA,NA,"CHUNB",NA,"SIM","Pirenopolis","-15.82596","-49.01104",NA,"G. amarali",NA,NA
+"1002","301",NA,NA,NA,NA,NA,NA,NA,NA,NA,"CHUNB",NA,"SIM","Pirenopolis","-15.82596","-49.01104",NA,"G. amarali",NA,NA
+"1003","379",NA,NA,NA,NA,NA,NA,NA,NA,NA,"CHUNB",NA,"SIM","Pirenopolis","-15.82596","-49.01104",NA,"G. amarali",NA,NA
+"1004","380",NA,NA,NA,NA,NA,NA,NA,NA,NA,"CHUNB",NA,"SIM","Pirenopolis","-15.82596","-49.01104",NA,"G. amarali",NA,NA
+"1005","388",NA,NA,NA,NA,NA,NA,NA,NA,NA,"CHUNB",NA,"SIM","Pirenopolis","-15.82596","-49.01104",NA,"G. amarali",NA,NA
+"1006","292",NA,NA,NA,NA,NA,NA,NA,NA,NA,"CHUNB",NA,"SIM","Pirenopolis","-15.82596","-49.01104",NA,"G. amarali",NA,NA
+"1007","387",NA,NA,NA,NA,NA,NA,NA,NA,NA,"CHUNB",NA,"SIM","Pirenopolis","-15.82596","-49.01104",NA,"G. amarali",NA,NA
+"1008","311",NA,NA,NA,NA,NA,NA,NA,NA,NA,"CHUNB",NA,"SIM","Pirenopolis","-15.82596","-49.01104",NA,"G. amarali",NA,NA
+"1009","93",NA,NA,NA,NA,NA,NA,NA,NA,NA,"CHUNB",NA,"SIM","Pirenopolis","-15.82596","-49.01104",NA,"G. amarali",NA,NA
+"1010","396",NA,NA,NA,NA,NA,NA,NA,NA,NA,"CHUNB",NA,"SIM","Pirenopolis","-15.82596","-49.01104",NA,"G. amarali",NA,NA
+"1011","310",NA,NA,NA,NA,NA,NA,NA,NA,NA,"CHUNB",NA,"SIM","Pirenopolis","-15.82596","-49.01104",NA,"G. amarali",NA,NA
+"1012","307",NA,NA,NA,NA,NA,NA,NA,NA,NA,"CHUNB",NA,"SIM","Pirenopolis","-15.82596","-49.01104",NA,"G. amarali",NA,NA
+"1013","294",NA,NA,NA,NA,NA,NA,NA,NA,NA,"CHUNB",NA,"SIM","Pirenopolis","-15.82596","-49.01104",NA,"G. amarali",NA,NA
+"1014","389",NA,NA,NA,NA,NA,NA,NA,NA,NA,"CHUNB",NA,"SIM","Pirenopolis","-15.82596","-49.01104",NA,"G. amarali",NA,NA
+"1015","392",NA,NA,NA,NA,NA,NA,NA,NA,NA,"CHUNB",NA,"SIM","Pirenopolis","-15.82596","-49.01104",NA,"G. amarali",NA,NA
+"1016","309",NA,NA,NA,NA,NA,NA,NA,NA,NA,"CHUNB",NA,"SIM","Pirenopolis","-15.82596","-49.01104",NA,"G. amarali",NA,NA
+"1017","314",NA,NA,NA,NA,NA,NA,NA,NA,NA,"CHUNB",NA,"SIM","Pirenopolis","-15.82596","-49.01104",NA,"G. amarali",NA,NA
+"1018","304",NA,NA,NA,NA,NA,NA,NA,NA,NA,"CHUNB",NA,"SIM","Pirenopolis","-15.82596","-49.01104",NA,"G. amarali",NA,NA
+"1019","302",NA,NA,NA,NA,NA,NA,NA,NA,NA,"CHUNB",NA,"SIM","Pirenopolis","-15.82596","-49.01104",NA,"G. amarali",NA,NA
+"1020","95",NA,NA,NA,NA,NA,NA,NA,NA,NA,"CHUNB",NA,"SIM","Pirenopolis","-15.82596","-49.01104",NA,"G. amarali",NA,NA
+"1021","308",NA,NA,NA,NA,NA,NA,NA,NA,NA,"CHUNB",NA,"SIM","Pirenopolis","-15.82596","-49.01104",NA,"G. amarali",NA,NA
+"1022","390",NA,NA,NA,NA,NA,NA,NA,NA,NA,"CHUNB",NA,"SIM","Pirenopolis","-15.82596","-49.01104",NA,"G. amarali",NA,NA
+"1023","306",NA,NA,NA,NA,NA,NA,NA,NA,NA,"CHUNB",NA,"SIM","Pirenopolis","-15.82596","-49.01104",NA,"G. amarali",NA,NA
+"1024","376",NA,NA,NA,NA,NA,NA,NA,NA,NA,"CHUNB",NA,"SIM","Pirenopolis","-15.82596","-49.01104",NA,"G. amarali",NA,NA
+"1025","313",NA,NA,NA,NA,NA,NA,NA,NA,NA,"CHUNB",NA,"SIM","Pirenopolis","-15.82596","-49.01104",NA,"G. amarali",NA,NA
+"1026","298",NA,NA,NA,NA,NA,NA,NA,NA,NA,"CHUNB",NA,"SIM","Pirenopolis","-15.82596","-49.01104",NA,"G. amarali",NA,NA
+"1027","303",NA,NA,NA,NA,NA,NA,NA,NA,NA,"CHUNB",NA,"SIM","Pirenopolis","-15.82596","-49.01104",NA,"G. amarali",NA,NA
+"1028","381",NA,NA,NA,NA,NA,NA,NA,NA,NA,"CHUNB",NA,"SIM","Pirenopolis","-15.82596","-49.01104",NA,"G. amarali",NA,NA
+"1029","378",NA,NA,NA,NA,NA,NA,NA,NA,NA,"CHUNB",NA,"SIM","Pirenopolis","-15.82596","-49.01104",NA,"G. amarali",NA,NA
+"1030","395",NA,NA,NA,NA,NA,NA,NA,NA,NA,"CHUNB",NA,"SIM","Pirenopolis","-15.82596","-49.01104",NA,"G. amarali",NA,NA
+"1031","398",NA,NA,NA,NA,NA,NA,NA,NA,NA,"CHUNB",NA,"SIM","Pirenopolis","-15.82596","-49.01104",NA,"G. amarali",NA,NA
+"1032","383",NA,NA,NA,NA,NA,NA,NA,NA,NA,"CHUNB",NA,"SIM","Pirenopolis","-15.82596","-49.01104",NA,"G. amarali",NA,NA
+"1033","397",NA,NA,NA,NA,NA,NA,NA,NA,NA,"CHUNB",NA,"SIM","Pirenopolis","-15.82596","-49.01104",NA,"G. amarali",NA,NA
+"1034","305",NA,NA,NA,NA,NA,NA,NA,NA,NA,"CHUNB",NA,"SIM","Pirenopolis","-15.82596","-49.01104",NA,"G. amarali",NA,NA
+"1035","300",NA,NA,NA,NA,NA,NA,NA,NA,NA,"CHUNB",NA,"SIM","Pirenopolis","-15.82596","-49.01104",NA,"G. amarali",NA,NA
+"1036","96",NA,NA,NA,NA,NA,NA,NA,NA,NA,"CHUNB",NA,"SIM","Pirenopolis","-15.82596","-49.01104",NA,"G. amarali",NA,NA
+"1037","394",NA,NA,NA,NA,NA,NA,NA,NA,NA,"CHUNB",NA,"SIM","Pirenopolis","-15.82596","-49.01104",NA,"G. amarali",NA,NA
+"1038","382",NA,NA,NA,NA,NA,NA,NA,NA,NA,"CHUNB",NA,"SIM","Pirenopolis","-15.82596","-49.01104",NA,"G. amarali",NA,NA
+"1039","399",NA,NA,NA,NA,NA,NA,NA,NA,NA,"CHUNB",NA,"SIM","Pirenopolis","-15.82596","-49.01104",NA,"G. amarali",NA,NA
+"1040","89",NA,NA,NA,NA,NA,NA,NA,NA,NA,"CHUNB",NA,"SIM","Pirenopolis","-15.82596","-49.01104",NA,"G. amarali",NA,NA
+"1041","56572",NA,NA,NA,NA,NA,NA,NA,NA,NA,"MZUSP",NA,"SIM","Pirenopolis","-15.82596","-49.01104",NA,"G. amarali",NA,NA
+"1042","79380",NA,NA,NA,NA,NA,NA,NA,NA,NA,"MZUSP",NA,"SIM","Pirenopolis","-15.82596","-49.01104",NA,"G. amarali",NA,NA
+"1043","339",NA,NA,NA,NA,NA,NA,NA,NA,NA,"MZUSP",NA,"SIM","Pium","-10.44222222","-49.18555556",NA,"G. amarali",NA,NA
+"1044","338",NA,NA,NA,NA,NA,NA,NA,NA,NA,"MZUSP",NA,"SIM","Pium","-10.44222222","-49.18555556",NA,"G. amarali",NA,NA
+"1045","342",NA,NA,NA,NA,NA,NA,NA,NA,NA,"MZUSP",NA,"SIM","Pium","-10.44222222","-49.18555556",NA,"G. amarali",NA,NA
+"1046","344",NA,NA,NA,NA,NA,NA,NA,NA,NA,"MZUSP",NA,"SIM","Pium","-10.44222222","-49.18555556",NA,"G. amarali",NA,NA
+"1047","38911",NA,NA,NA,NA,NA,NA,NA,NA,NA,"CHUNB",NA,"SIM","PortoAlegreTocantins","-11.6","-47.04",NA,"G. amarali",NA,NA
+"1048","38912",NA,NA,NA,NA,NA,NA,NA,NA,NA,"CHUNB",NA,"SIM","PortoAlegreTocantins","-11.6","-47.04",NA,"G. amarali",NA,NA
+"1049","47754",NA,NA,NA,NA,NA,NA,NA,NA,NA,"CHUNB",NA,"SIM","PortoNacional","-10.7","-48.41666667",NA,"G. amarali",NA,NA
+"1050","78244",NA,NA,NA,NA,NA,NA,NA,NA,NA,"MZUSP",NA,"SIM","PortoNacional","-10.7","-48.41666667",NA,"G. amarali",NA,NA
+"1051","69394",NA,NA,NA,NA,NA,NA,NA,NA,NA,"MZUSP",NA,"SIM","Posse","-14.08333333","-46.33333333",NA,"G. amarali",NA,NA
+"1052","69396",NA,NA,NA,NA,NA,NA,NA,NA,NA,"MZUSP",NA,"SIM","Posse","-14.08333333","-46.33333333",NA,"G. amarali",NA,NA
+"1053","69395",NA,NA,NA,NA,NA,NA,NA,NA,NA,"MZUSP",NA,"SIM","Posse","-14.08333333","-46.33333333",NA,"G. amarali",NA,NA
+"1054","4052",NA,NA,NA,NA,NA,NA,NA,NA,NA,"MZUSP",NA,"SIM","RiodasMortes","-13.3","-51.24",NA,"G. amarali",NA,NA
+"1055","4853",NA,NA,NA,NA,NA,NA,NA,NA,NA,"MZUSP",NA,"SIM","RiodasMortes","-13.3","-51.24",NA,"G. amarali",NA,NA
+"1056","4053",NA,NA,NA,NA,NA,NA,NA,NA,NA,"MZUSP",NA,"SIM","RiodasMortes","-13.3","-51.24",NA,"G. amarali",NA,NA
+"1057","4054",NA,NA,NA,NA,NA,NA,NA,NA,NA,"MZUSP",NA,"SIM","RiodasMortes","-13.3","-51.24",NA,"G. amarali",NA,NA
+"1058","4854",NA,NA,NA,NA,NA,NA,NA,NA,NA,"MZUSP",NA,"SIM","RiodasMortes","-13.3","-51.24",NA,"G. amarali",NA,NA
+"1059","29617",NA,NA,NA,NA,NA,NA,NA,NA,NA,"MZUSP",NA,"SIM","RioVerde","-17.8","-50.93333333",NA,"G. amarali",NA,NA
+"1060","35225",NA,NA,NA,NA,NA,NA,NA,NA,NA,"CHUNB",NA,"SIM","SaoDomingos","-13.44979","-46.4481",1,"G. amarali",NA,NA
+"1061","33556",NA,NA,NA,NA,NA,NA,NA,NA,NA,"CHUNB",NA,"SIM","SaoDomingos","-13.44979","-46.4481",1,"G. amarali",NA,NA
+"1062","33566",NA,NA,NA,NA,NA,NA,NA,NA,NA,"CHUNB",NA,"SIM","SaoDomingos","-13.44979","-46.4481",1,"G. amarali",NA,NA
+"1063","35215",NA,NA,NA,NA,NA,NA,NA,NA,NA,"CHUNB",NA,"SIM","SaoDomingos","-13.44979","-46.4481",1,"G. amarali",NA,NA
+"1064","35233",NA,NA,NA,NA,NA,NA,NA,NA,NA,"CHUNB",NA,"SIM","SaoDomingos","-13.44979","-46.4481",1,"G. amarali",NA,NA
+"1065","37141",NA,NA,NA,NA,NA,NA,NA,NA,NA,"CHUNB",NA,"SIM","SaoDomingos","-13.44979","-46.4481",1,"G. amarali",NA,NA
+"1066","33538",NA,NA,NA,NA,NA,NA,NA,NA,NA,"CHUNB",NA,"SIM","SaoDomingos","-13.44979","-46.4481",1,"G. amarali",NA,NA
+"1067","33565",NA,NA,NA,NA,NA,NA,NA,NA,NA,"CHUNB",NA,"SIM","SaoDomingos","-13.44979","-46.4481",1,"G. amarali",NA,NA
+"1068","35207",NA,NA,NA,NA,NA,NA,NA,NA,NA,"CHUNB",NA,"SIM","SaoDomingos","-13.44979","-46.4481",1,"G. amarali",NA,NA
+"1069","35228",NA,NA,NA,NA,NA,NA,NA,NA,NA,"CHUNB",NA,"SIM","SaoDomingos","-13.44979","-46.4481",1,"G. amarali",NA,NA
+"1070","35218",NA,NA,NA,NA,NA,NA,NA,NA,NA,"CHUNB",NA,"SIM","SaoDomingos","-13.44979","-46.4481",1,"G. amarali",NA,NA
+"1071","35209",NA,NA,NA,NA,NA,NA,NA,NA,NA,"CHUNB",NA,"SIM","SaoDomingos","-13.44979","-46.4481",1,"G. amarali",NA,NA
+"1072","43927",NA,NA,NA,NA,NA,NA,NA,NA,NA,"CHUNB",NA,"SIM","SaoDomingos","-13.44979","-46.4481",1,"G. amarali",NA,NA
+"1073","37146",NA,NA,NA,NA,NA,NA,NA,NA,NA,"CHUNB",NA,"SIM","SaoDomingos","-13.44979","-46.4481",1,"G. amarali",NA,NA
+"1074","43932",NA,NA,NA,NA,NA,NA,NA,NA,NA,"CHUNB",NA,"SIM","SaoDomingos","-13.44979","-46.4481",1,"G. amarali",NA,NA
+"1075","43930",NA,NA,NA,NA,NA,NA,NA,NA,NA,"CHUNB",NA,"SIM","SaoDomingos","-13.44979","-46.4481",1,"G. amarali",NA,NA
+"1076","33574",NA,NA,NA,NA,NA,NA,NA,NA,NA,"CHUNB",NA,"SIM","SaoDomingos","-13.44979","-46.4481",1,"G. amarali",NA,NA
+"1077","33543",NA,NA,NA,NA,NA,NA,NA,NA,NA,"CHUNB",NA,"SIM","SaoDomingos","-13.44979","-46.4481",1,"G. amarali",NA,NA
+"1078","43924",NA,NA,NA,NA,NA,NA,NA,NA,NA,"CHUNB",NA,"SIM","SaoDomingos","-13.44979","-46.4481",1,"G. amarali",NA,NA
+"1079","33554",NA,NA,NA,NA,NA,NA,NA,NA,NA,"CHUNB",NA,"SIM","SaoDomingos","-13.44979","-46.4481",1,"G. amarali",NA,NA
+"1080","35217",NA,NA,NA,NA,NA,NA,NA,NA,NA,"CHUNB",NA,"SIM","SaoDomingos","-13.44979","-46.4481",1,"G. amarali",NA,NA
+"1081","43922",NA,NA,NA,NA,NA,NA,NA,NA,NA,"CHUNB",NA,"SIM","SaoDomingos","-13.44979","-46.4481",1,"G. amarali",NA,NA
+"1082","35196",NA,NA,NA,NA,NA,NA,NA,NA,NA,"CHUNB",NA,"SIM","SaoDomingos","-13.44979","-46.4481",1,"G. amarali",NA,NA
+"1083","43923",NA,NA,NA,NA,NA,NA,NA,NA,NA,"CHUNB",NA,"SIM","SaoDomingos","-13.44979","-46.4481",1,"G. amarali",NA,NA
+"1084","33560",NA,NA,NA,NA,NA,NA,NA,NA,NA,"CHUNB",NA,"SIM","SaoDomingos","-13.44979","-46.4481",1,"G. amarali",NA,NA
+"1085","37157",NA,NA,NA,NA,NA,NA,NA,NA,NA,"CHUNB",NA,"SIM","SaoDomingos","-13.44979","-46.4481",1,"G. amarali",NA,NA
+"1086","37156",NA,NA,NA,NA,NA,NA,NA,NA,NA,"CHUNB",NA,"SIM","SaoDomingos","-13.44979","-46.4481",1,"G. amarali",NA,NA
+"1087","37149",NA,NA,NA,NA,NA,NA,NA,NA,NA,"CHUNB",NA,"SIM","SaoDomingos","-13.44979","-46.4481",1,"G. amarali",NA,NA
+"1088","37155",NA,NA,NA,NA,NA,NA,NA,NA,NA,"CHUNB",NA,"SIM","SaoDomingos","-13.44979","-46.4481",1,"G. amarali",NA,NA
+"1089","37158",NA,NA,NA,NA,NA,NA,NA,NA,NA,"CHUNB",NA,"SIM","SaoDomingos","-13.44979","-46.4481",1,"G. amarali",NA,NA
+"1090","37151",NA,NA,NA,NA,NA,NA,NA,NA,NA,"CHUNB",NA,"SIM","SaoDomingos","-13.44979","-46.4481",1,"G. amarali",NA,NA
+"1091","37150",NA,NA,NA,NA,NA,NA,NA,NA,NA,"CHUNB",NA,"SIM","SaoDomingos","-13.44979","-46.4481",1,"G. amarali",NA,NA
+"1092","35229",NA,NA,NA,NA,NA,NA,NA,NA,NA,"CHUNB",NA,"SIM","SaoDomingos","-13.44979","-46.4481",1,"G. amarali",NA,NA
+"1093","43929",NA,NA,NA,NA,NA,NA,NA,NA,NA,"CHUNB",NA,"SIM","SaoDomingos","-13.44979","-46.4481",1,"G. amarali",NA,NA
+"1094","37143",NA,NA,NA,NA,NA,NA,NA,NA,NA,"CHUNB",NA,"SIM","SaoDomingos","-13.44979","-46.4481",1,"G. amarali",NA,NA
+"1095","35208",NA,NA,NA,NA,NA,NA,NA,NA,NA,"CHUNB",NA,"SIM","SaoDomingos","-13.44979","-46.4481",1,"G. amarali",NA,NA
+"1096","35223",NA,NA,NA,NA,NA,NA,NA,NA,NA,"CHUNB",NA,"SIM","SaoDomingos","-13.44979","-46.4481",1,"G. amarali",NA,NA
+"1097","37160",NA,NA,NA,NA,NA,NA,NA,NA,NA,"CHUNB",NA,"SIM","SaoDomingos","-13.44979","-46.4481",1,"G. amarali",NA,NA
+"1098","33578",NA,NA,NA,NA,NA,NA,NA,NA,NA,"CHUNB",NA,"SIM","SaoDomingos","-13.44979","-46.4481",1,"G. amarali",NA,NA
+"1099","35221",NA,NA,NA,NA,NA,NA,NA,NA,NA,"CHUNB",NA,"SIM","SaoDomingos","-13.44979","-46.4481",1,"G. amarali",NA,NA
+"1100","43931",NA,NA,NA,NA,NA,NA,NA,NA,NA,"CHUNB",NA,"SIM","SaoDomingos","-13.44979","-46.4481",1,"G. amarali",NA,NA
+"1101","43914",NA,NA,NA,NA,NA,NA,NA,NA,NA,"CHUNB",NA,"SIM","SaoDomingos","-13.44979","-46.4481",1,"G. amarali",NA,NA
+"1102","35202",NA,NA,NA,NA,NA,NA,NA,NA,NA,"CHUNB",NA,"SIM","SaoDomingos","-13.44979","-46.4481",1,"G. amarali",NA,NA
+"1103","43919",NA,NA,NA,NA,NA,NA,NA,NA,NA,"CHUNB",NA,"SIM","SaoDomingos","-13.44979","-46.4481",1,"G. amarali",NA,NA
+"1104","37147",NA,NA,NA,NA,NA,NA,NA,NA,NA,"CHUNB",NA,"SIM","SaoDomingos","-13.44979","-46.4481",1,"G. amarali",NA,NA
+"1105","37139",NA,NA,NA,NA,NA,NA,NA,NA,NA,"CHUNB",NA,"SIM","SaoDomingos","-13.44979","-46.4481",1,"G. amarali",NA,NA
+"1106","35210",NA,NA,NA,NA,NA,NA,NA,NA,NA,"CHUNB",NA,"SIM","SaoDomingos","-13.44979","-46.4481",1,"G. amarali",NA,NA
+"1107","37145",NA,NA,NA,NA,NA,NA,NA,NA,NA,"CHUNB",NA,"SIM","SaoDomingos","-13.44979","-46.4481",1,"G. amarali",NA,NA
+"1108","33555",NA,NA,NA,NA,NA,NA,NA,NA,NA,"CHUNB",NA,"SIM","SaoDomingos","-13.44979","-46.4481",1,"G. amarali",NA,NA
+"1109","37144",NA,NA,NA,NA,NA,NA,NA,NA,NA,"CHUNB",NA,"SIM","SaoDomingos","-13.44979","-46.4481",1,"G. amarali",NA,NA
+"1110","37159",NA,NA,NA,NA,NA,NA,NA,NA,NA,"CHUNB",NA,"SIM","SaoDomingos","-13.44979","-46.4481",1,"G. amarali",NA,NA
+"1111","37140",NA,NA,NA,NA,NA,NA,NA,NA,NA,"CHUNB",NA,"SIM","SaoDomingos","-13.44979","-46.4481",1,"G. amarali",NA,NA
+"1112","35212",NA,NA,NA,NA,NA,NA,NA,NA,NA,"CHUNB",NA,"SIM","SaoDomingos","-13.44979","-46.4481",1,"G. amarali",NA,NA
+"1113","35224",NA,NA,NA,NA,NA,NA,NA,NA,NA,"CHUNB",NA,"SIM","SaoDomingos","-13.44979","-46.4481",1,"G. amarali",NA,NA
+"1114","35232",NA,NA,NA,NA,NA,NA,NA,NA,NA,"CHUNB",NA,"SIM","SaoDomingos","-13.44979","-46.4481",1,"G. amarali",NA,NA
+"1115","35214",NA,NA,NA,NA,NA,NA,NA,NA,NA,"CHUNB",NA,"SIM","SaoDomingos","-13.44979","-46.4481",1,"G. amarali",NA,NA
+"1116","35206",NA,NA,NA,NA,NA,NA,NA,NA,NA,"CHUNB",NA,"SIM","SaoDomingos","-13.44979","-46.4481",1,"G. amarali",NA,NA
+"1117","43908",NA,NA,NA,NA,NA,NA,NA,NA,NA,"CHUNB",NA,"SIM","SaoDomingos","-13.44979","-46.4481",1,"G. amarali",NA,NA
+"1118","35230",NA,NA,NA,NA,NA,NA,NA,NA,NA,"CHUNB",NA,"SIM","SaoDomingos","-13.44979","-46.4481",1,"G. amarali",NA,NA
+"1119","43916",NA,NA,NA,NA,NA,NA,NA,NA,NA,"CHUNB",NA,"SIM","SaoDomingos","-13.44979","-46.4481",1,"G. amarali",NA,NA
+"1120","35204",NA,NA,NA,NA,NA,NA,NA,NA,NA,"CHUNB",NA,"SIM","SaoDomingos","-13.44979","-46.4481",1,"G. amarali",NA,NA
+"1121","43920",NA,NA,NA,NA,NA,NA,NA,NA,NA,"CHUNB",NA,"SIM","SaoDomingos","-13.44979","-46.4481",1,"G. amarali",NA,NA
+"1122","43921",NA,NA,NA,NA,NA,NA,NA,NA,NA,"CHUNB",NA,"SIM","SaoDomingos","-13.44979","-46.4481",1,"G. amarali",NA,NA
+"1123","35213",NA,NA,NA,NA,NA,NA,NA,NA,NA,"CHUNB",NA,"SIM","SaoDomingos","-13.44979","-46.4481",1,"G. amarali",NA,NA
+"1124","35220",NA,NA,NA,NA,NA,NA,NA,NA,NA,"CHUNB",NA,"SIM","SaoDomingos","-13.44979","-46.4481",1,"G. amarali",NA,NA
+"1125","35231",NA,NA,NA,NA,NA,NA,NA,NA,NA,"CHUNB",NA,"SIM","SaoDomingos","-13.44979","-46.4481",1,"G. amarali",NA,NA
+"1126","43925",NA,NA,NA,NA,NA,NA,NA,NA,NA,"CHUNB",NA,"SIM","SaoDomingos","-13.44979","-46.4481",1,"G. amarali",NA,NA
+"1127","37154",NA,NA,NA,NA,NA,NA,NA,NA,NA,"CHUNB",NA,"SIM","SaoDomingos","-13.44979","-46.4481",1,"G. amarali",NA,NA
+"1128","33552",NA,NA,NA,NA,NA,NA,NA,NA,NA,"CHUNB",NA,"SIM","SaoDomingos","-13.44979","-46.4481",1,"G. amarali",NA,NA
+"1129","43926",NA,NA,NA,NA,NA,NA,NA,NA,NA,"CHUNB",NA,"SIM","SaoDomingos","-13.44979","-46.4481",1,"G. amarali",NA,NA
+"1130","33546",NA,NA,NA,NA,NA,NA,NA,NA,NA,"CHUNB",NA,"SIM","SaoDomingos","-13.44979","-46.4481",1,"G. amarali",NA,NA
+"1131","35203",NA,NA,NA,NA,NA,NA,NA,NA,NA,"CHUNB",NA,"SIM","SaoDomingos","-13.44979","-46.4481",1,"G. amarali",NA,NA
+"1132","37142",NA,NA,NA,NA,NA,NA,NA,NA,NA,"CHUNB",NA,"SIM","SaoDomingos","-13.44979","-46.4481",1,"G. amarali",NA,NA
+"1133","43913",NA,NA,NA,NA,NA,NA,NA,NA,NA,"CHUNB",NA,"SIM","SaoDomingos","-13.44979","-46.4481",1,"G. amarali",NA,NA
+"1134","43928",NA,NA,NA,NA,NA,NA,NA,NA,NA,"CHUNB",NA,"SIM","SaoDomingos","-13.44979","-46.4481",1,"G. amarali",NA,NA
+"1135","35219",NA,NA,NA,NA,NA,NA,NA,NA,NA,"CHUNB",NA,"SIM","SaoDomingos","-13.44979","-46.4481",1,"G. amarali",NA,NA
+"1136","33571",NA,NA,NA,NA,NA,NA,NA,NA,NA,"CHUNB",NA,"SIM","SaoDomingos","-13.44979","-46.4481",1,"G. amarali",NA,NA
+"1137","43912",NA,NA,NA,NA,NA,NA,NA,NA,NA,"CHUNB",NA,"SIM","SaoDomingos","-13.44979","-46.4481",1,"G. amarali",NA,NA
+"1138","35198",NA,NA,NA,NA,NA,NA,NA,NA,NA,"CHUNB",NA,"SIM","SaoDomingos","-13.44979","-46.4481",1,"G. amarali",NA,NA
+"1139","43917",NA,NA,NA,NA,NA,NA,NA,NA,NA,"CHUNB",NA,"SIM","SaoDomingos","-13.44979","-46.4481",1,"G. amarali",NA,NA
+"1140","35226",NA,NA,NA,NA,NA,NA,NA,NA,NA,"CHUNB",NA,"SIM","SaoDomingos","-13.44979","-46.4481",1,"G. amarali",NA,NA
+"1141","35201",NA,NA,NA,NA,NA,NA,NA,NA,NA,"CHUNB",NA,"SIM","SaoDomingos","-13.44979","-46.4481",1,"G. amarali",NA,NA
+"1142","35197",NA,NA,NA,NA,NA,NA,NA,NA,NA,"CHUNB",NA,"SIM","SaoDomingos","-13.44979","-46.4481",1,"G. amarali",NA,NA
+"1143","43915",NA,NA,NA,NA,NA,NA,NA,NA,NA,"CHUNB",NA,"SIM","SaoDomingos","-13.44979","-46.4481",1,"G. amarali",NA,NA
+"1144","43906",NA,NA,NA,NA,NA,NA,NA,NA,NA,"CHUNB",NA,"SIM","SaoDomingos","-13.44979","-46.4481",1,"G. amarali",NA,NA
+"1145","37163",NA,NA,NA,NA,NA,NA,NA,NA,NA,"CHUNB",NA,"SIM","SaoDomingos","-13.44979","-46.4481",1,"G. amarali",NA,NA
+"1146","43911",NA,NA,NA,NA,NA,NA,NA,NA,NA,"CHUNB",NA,"SIM","SaoDomingos","-13.44979","-46.4481",1,"G. amarali",NA,NA
+"1147","35222",NA,NA,NA,NA,NA,NA,NA,NA,NA,"CHUNB",NA,"SIM","SaoDomingos","-13.44979","-46.4481",1,"G. amarali",NA,NA
+"1148","35216",NA,NA,NA,NA,NA,NA,NA,NA,NA,"CHUNB",NA,"SIM","SaoDomingos","-13.44979","-46.4481",1,"G. amarali",NA,NA
+"1149","43907",NA,NA,NA,NA,NA,NA,NA,NA,NA,"CHUNB",NA,"SIM","SaoDomingos","-13.44979","-46.4481",1,"G. amarali",NA,NA
+"1150","43903",NA,NA,NA,NA,NA,NA,NA,NA,NA,"CHUNB",NA,"SIM","SaoDomingos","-13.44979","-46.4481",1,"G. amarali",NA,NA
+"1151","35199",NA,NA,NA,NA,NA,NA,NA,NA,NA,"CHUNB",NA,"SIM","SaoDomingos","-13.44979","-46.4481",1,"G. amarali",NA,NA
+"1152","35200",NA,NA,NA,NA,NA,NA,NA,NA,NA,"CHUNB",NA,"SIM","SaoDomingos","-13.44979","-46.4481",1,"G. amarali",NA,NA
+"1153","35211",NA,NA,NA,NA,NA,NA,NA,NA,NA,"CHUNB",NA,"SIM","SaoDomingos","-13.44979","-46.4481",1,"G. amarali",NA,NA
+"1154","40288",NA,NA,NA,NA,NA,NA,NA,NA,NA,"CHUNB",NA,"SIM","SaoDomingos","-13.44979","-46.4481",1,"G. amarali",NA,NA
+"1155","35205",NA,NA,NA,NA,NA,NA,NA,NA,NA,"CHUNB",NA,"SIM","SaoDomingos","-13.44979","-46.4481",1,"G. amarali",NA,NA
+"1156","43910",NA,NA,NA,NA,NA,NA,NA,NA,NA,"CHUNB",NA,"SIM","SaoDomingos","-13.44979","-46.4481",1,"G. amarali",NA,NA
+"1157","43898",NA,NA,NA,NA,NA,NA,NA,NA,NA,"CHUNB",NA,"SIM","SaoDomingos","-13.44979","-46.4481",1,"G. amarali",NA,NA
+"1158","43909",NA,NA,NA,NA,NA,NA,NA,NA,NA,"CHUNB",NA,"SIM","SaoDomingos","-13.44979","-46.4481",1,"G. amarali",NA,NA
+"1159","35227",NA,NA,NA,NA,NA,NA,NA,NA,NA,"CHUNB",NA,"SIM","SaoDomingos","-13.44979","-46.4481",1,"G. amarali",NA,NA
+"1160","43918",NA,NA,NA,NA,NA,NA,NA,NA,NA,"CHUNB",NA,"SIM","SaoDomingos","-13.44979","-46.4481",1,"G. amarali",NA,NA
+"1161","43896",NA,NA,NA,NA,NA,NA,NA,NA,NA,"CHUNB",NA,"SIM","SaoDomingos","-13.44979","-46.4481",1,"G. amarali",NA,NA
+"1162","89238",NA,NA,NA,NA,NA,NA,NA,NA,NA,"MZUSP",NA,"SIM","SaoSalvadorTocantins","-12.73333333","-48.23333333",6,"G. amarali",NA,NA
+"1163","89236",NA,NA,NA,NA,NA,NA,NA,NA,NA,"MZUSP",NA,"SIM","SaoSalvadorTocantins","-12.73333333","-48.23333333",6,"G. amarali",NA,NA
+"1164","89246",NA,NA,NA,NA,NA,NA,NA,NA,NA,"MZUSP",NA,"SIM","SaoSalvadorTocantins","-12.73333333","-48.23333333",6,"G. amarali",NA,NA
+"1165","89240",NA,NA,NA,NA,NA,NA,NA,NA,NA,"MZUSP",NA,"SIM","SaoSalvadorTocantins","-12.73333333","-48.23333333",6,"G. amarali",NA,NA
+"1166","89243",NA,NA,NA,NA,NA,NA,NA,NA,NA,"MZUSP",NA,"SIM","SaoSalvadorTocantins","-12.73333333","-48.23333333",6,"G. amarali",NA,NA
+"1167","89244",NA,NA,NA,NA,NA,NA,NA,NA,NA,"MZUSP",NA,"SIM","SaoSalvadorTocantins","-12.73333333","-48.23333333",6,"G. amarali",NA,NA
+"1168","89228",NA,NA,NA,NA,NA,NA,NA,NA,NA,"MZUSP",NA,"SIM","SaoSalvadorTocantins","-12.73333333","-48.23333333",6,"G. amarali",NA,NA
+"1169","89239",NA,NA,NA,NA,NA,NA,NA,NA,NA,"MZUSP",NA,"SIM","SaoSalvadorTocantins","-12.73333333","-48.23333333",6,"G. amarali",NA,NA
+"1170","89241",NA,NA,NA,NA,NA,NA,NA,NA,NA,"MZUSP",NA,"SIM","SaoSalvadorTocantins","-12.73333333","-48.23333333",6,"G. amarali",NA,NA
+"1171","89247",NA,NA,NA,NA,NA,NA,NA,NA,NA,"MZUSP",NA,"SIM","SaoSalvadorTocantins","-12.73333333","-48.23333333",6,"G. amarali",NA,NA
+"1172","89237",NA,NA,NA,NA,NA,NA,NA,NA,NA,"MZUSP",NA,"SIM","SaoSalvadorTocantins","-12.73333333","-48.23333333",6,"G. amarali",NA,NA
+"1173","89248",NA,NA,NA,NA,NA,NA,NA,NA,NA,"MZUSP",NA,"SIM","SaoSalvadorTocantins","-12.73333333","-48.23333333",6,"G. amarali",NA,NA
+"1174","89235",NA,NA,NA,NA,NA,NA,NA,NA,NA,"MZUSP",NA,"SIM","SaoSalvadorTocantins","-12.73333333","-48.23333333",6,"G. amarali",NA,NA
+"1175","89234",NA,NA,NA,NA,NA,NA,NA,NA,NA,"MZUSP",NA,"SIM","SaoSalvadorTocantins","-12.73333333","-48.23333333",6,"G. amarali",NA,NA
+"1176","89227",NA,NA,NA,NA,NA,NA,NA,NA,NA,"MZUSP",NA,"SIM","SaoSalvadorTocantins","-12.73333333","-48.23333333",6,"G. amarali",NA,NA
+"1177","89232",NA,NA,NA,NA,NA,NA,NA,NA,NA,"MZUSP",NA,"SIM","SaoSalvadorTocantins","-12.73333333","-48.23333333",6,"G. amarali",NA,NA
+"1178","89245",NA,NA,NA,NA,NA,NA,NA,NA,NA,"MZUSP",NA,"SIM","SaoSalvadorTocantins","-12.73333333","-48.23333333",6,"G. amarali",NA,NA
+"1179","89226",NA,NA,NA,NA,NA,NA,NA,NA,NA,"MZUSP",NA,"SIM","SaoSalvadorTocantins","-12.73333333","-48.23333333",6,"G. amarali",NA,NA
+"1180","89233",NA,NA,NA,NA,NA,NA,NA,NA,NA,"MZUSP",NA,"SIM","SaoSalvadorTocantins","-12.73333333","-48.23333333",6,"G. amarali",NA,NA
+"1181","89229",NA,NA,NA,NA,NA,NA,NA,NA,NA,"MZUSP",NA,"SIM","SaoSalvadorTocantins","-12.73333333","-48.23333333",6,"G. amarali",NA,NA
+"1182","89231",NA,NA,NA,NA,NA,NA,NA,NA,NA,"MZUSP",NA,"SIM","SaoSalvadorTocantins","-12.73333333","-48.23333333",6,"G. amarali",NA,NA
+"1183","89224",NA,NA,NA,NA,NA,NA,NA,NA,NA,"MZUSP",NA,"SIM","SaoSalvadorTocantins","-12.73333333","-48.23333333",6,"G. amarali",NA,NA
+"1184","89230",NA,NA,NA,NA,NA,NA,NA,NA,NA,"MZUSP",NA,"SIM","SaoSalvadorTocantins","-12.73333333","-48.23333333",6,"G. amarali",NA,NA
+"1185","89225",NA,NA,NA,NA,NA,NA,NA,NA,NA,"MZUSP",NA,"SIM","SaoSalvadorTocantins","-12.73333333","-48.23333333",6,"G. amarali",NA,NA
+"1186","89242",NA,NA,NA,NA,NA,NA,NA,NA,NA,"MZUSP",NA,"SIM","SaoSalvadorTocantins","-12.73333333","-48.23333333",6,"G. amarali",NA,NA
+"1187","75037",NA,NA,NA,NA,NA,NA,NA,NA,NA,"MZUSP",NA,"SIM","SerraNegra","-14.01666667","-48.3525",NA,"G. amarali",NA,NA
+"1188","21817",NA,NA,NA,NA,NA,NA,NA,NA,NA,"CHUNB",NA,"SIM","TeresinadeGoias","-13.693844","-47.239945",NA,"G. amarali",NA,NA
+"1189","21816",NA,NA,NA,NA,NA,NA,NA,NA,NA,"CHUNB",NA,"SIM","TeresinadeGoias","-13.693844","-47.239945",NA,"G. amarali",NA,NA
+"1190",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"SIM","Lajeado(UHELuis)","-9.85","-48.31666667",NA,"G. amarali",NA,NA
+"1191",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"SIM","SaoDesiderio_geckoides","-12.36","-44.97",NA,"G. amarali",NA,NA
+"1192",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"SIM","PresidenteKennedy_darwini","-21.09","-41.04",NA,"G. amarali",NA,NA

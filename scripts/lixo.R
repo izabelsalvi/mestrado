@@ -281,3 +281,52 @@ dados_finais <- data.frame(dados_convertidos)
 # mostra o resultado
 dados_finais
 
+
+
+
+### DEU ERRADO
+
+
+juntando <- function(x, y){
+  c <- c()
+  novo_valor <- c()
+  for (i in 1:length(x)){
+    if (is.na(x)[i] == TRUE ){
+      novo_valor <-  paste(x[i], y[i], sep="_")
+      c <- c(novo_valor,c)
+    } else { novo_valor <- x[i]
+    c <- c(c,novo_valor)} 
+    return(c)
+  }}
+
+
+c <- c()
+novo_valor <- c()
+for (i in 1:length(temp10$Localidade)){
+  if (is.na(temp10$Localidade)[i] == TRUE ){
+    c <-  paste(temp10$Localidade[i], temp10$Locality[i], sep="_")
+    c <- append(c,c)
+    return(c)
+  } }
+c
+
+ifelsepaste(temp10$Localidade, temp10$Locality, sep="_")
+
+else { novo_valor <- temp10$Locality[i]
+c <- c(c,novo_valor)} 
+return(c)
+}
+juntando(temp10$Localidade, temp10$Locality)
+
+novo_
+
+else { novo_valor <- x[i]
+c <- c(c,novo_valor)} }
+
+local <- c()
+
+opa <- paste(temp10$Localidade, temp10$Locality, sep="_")
+
+local <- apply(temp10, 18, paste(temp10$Localidade, 
+                                 temp10$Locality, sep="_"){ifelse(is.na(temp10$Localidade) == TRUE)})
+
