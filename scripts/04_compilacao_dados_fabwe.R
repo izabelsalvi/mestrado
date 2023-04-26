@@ -455,11 +455,106 @@ names(temp14)
 
 write.csv(temp14, "dados/alterados/ID_total_maisbagunca.csv")
 
-temp15<- subset(temp14, select = c(ID, Colecao, Localidade,
+temp14 <- read.csv("dados/alterados/ID_total_maisbagunca.csv")
+
+temp15 <- subset(temp14, select = c(ID, Colecao, Localidade,
                                    UF, Latitude, Longitude, 
-                                   `Altitude (m)`, Especie_Fabricius, Especie_Welington,
+                                   `Altitude..m.`, Especie_Fabricius, Especie_Welington,
                                    gymno_clades, HemipenisMedido, 
                                    Hemipenis_Evertido, No_LACV, FabDocCh4AP, 
                                    FabDocCh2, FabMestrado))
 
 write.csv(temp15, "dados/alterados/ID_total.csv")
+
+
+ID_temp<- read.csv("dados/alterados/ID_total.csv")
+unique(ID_temp$Localidade)
+
+ID_temp$Localidade <- gsub("[[:punct:]]", "",
+     gsub(" ", "",
+          gsub("ç", "c",
+               gsub("ó", "o",
+                    gsub("â", "a",
+                         gsub("ã", 'a',
+                              gsub("ç", "c",
+                                   gsub("Ã³", "o",
+                                        gsub("á", "a",
+                                             ID_temp$Localidade)))))))))
+
+unique(ID_temp$Localidade)
+
+write.csv(ID_temp, "dados/alterados/ID_total.csv")
+
+
+
+## ESQUECI 
+
+## REMOVENDO DUPLICATAS
+
+#length(unique(ID_total$ID))
+# 1186
+#nrow(ID_total)
+# 1192
+
+#n_occur <- data.frame(table(ID_total$ID))
+#n_occur[n_occur$Freq>1,]
+#oxe <- ID_total %>%
+#  filter(ID !=)
+
+#oxe<- ID_total[ID_total$ID %in% n_occur$Var1[n_occur$Freq == 1],]
+
+
+## BOTANDO O CIT B QUE ESQUECI
+tempmil <- Fab_DocCitBAP_IDCoordAlt
+tempmilID2 <- gsub('MTR', "",
+                   gsub('CHUNB', "",
+                        gsub("LG", "",
+                             gsub("GRC", "",
+                                  gsub("MRT", "",
+                                       gsub("MD", "",
+                                            gsub("ESTR", "",
+                                                 gsub("[[:punct:]]", "",
+                                                      gsub("LAJ", "",
+                                                           tempmil$ID)))))))))
+
+tempmil <- cbind(tempmil, tempmilID2)
+tempmil <- tempmil[, -2] 
+colnames(tempmil)[7] <- "ID"
+nrow(tempmil)
+FabDoc3CitB <- rep("SIM", nrow(tempmil) )
+
+tempmil <- cbind(tempmil, FabDoc3CitB)
+
+tempid <- ID_total
+colnames(tempid)[9] <- "Altitude"
+tempid <- tempid[,-1]
+
+tempid <- full_join(tempid, tempmil)
+
+names(tempid)
+
+tempid %>%
+  filter(is.na(Hemipenis_Evertido) &
+           is.na(HemipenisMedido) &
+           is.na(No_LACV) &
+           is.na(FabDocCh4AP) &
+           is.na(FabDocCh2) &
+           is.na(FabMestrado) &
+           is.na(FabDoc3CitB))
+
+# remover os duplicados de 00
+tempid <- tempid[-c(174,173,172),]
+
+
+tempid$FabDoc3CitB[c(160,165,169,170)] <- "SIM"
+
+tempid %>%
+  filter(is.na(Hemipenis_Evertido) &
+           is.na(HemipenisMedido) &
+           is.na(No_LACV) &
+           is.na(FabDocCh4AP) &
+           is.na(FabDocCh2) &
+           is.na(FabMestrado) &
+           is.na(FabDoc3CitB))
+
+write.csv(tempid, "dados/alterados/ID_total.csv")
